@@ -1,0 +1,2455 @@
+[
+  {
+    "id": "t001",
+    "title": "Chromebook no enciende",
+    "aliases": [
+      "no prende",
+      "chromebook muerto",
+      "sin energia"
+    ],
+    "steps": [
+      "Conecta el cargador aprobado a una toma permitida.",
+      "Espera unos minutos y observa si hay luz de carga.",
+      "Pulsa Encendido una vez. Si no responde, avisa al maestro."
+    ],
+    "why": "Una batería descargada puede tardar en reaccionar. Nunca abras el equipo."
+  },
+  {
+    "id": "t002",
+    "title": "Chromebook no carga",
+    "aliases": [
+      "no se carga",
+      "bateria no carga",
+      "cargador no funciona"
+    ],
+    "steps": [
+      "Comprueba que el cargador aprobado esté conectado en ambos extremos.",
+      "Si ves daños o notas calor anormal, no lo toques y avisa al maestro.",
+      "Si aún no carga, pide al maestro que pruebe otro cargador aprobado."
+    ],
+    "why": "El cargador debe ser compatible y estar en buen estado."
+  },
+  {
+    "id": "t003",
+    "title": "Panel táctil no funciona",
+    "aliases": [
+      "touchpad no funciona",
+      "puntero no se mueve",
+      "raton tactil"
+    ],
+    "steps": [
+      "Asegúrate de que tus dedos y el panel estén limpios y secos.",
+      "Desliza un dedo y prueba un toque suave.",
+      "Si falla, pide permiso para usar un ratón aprobado."
+    ],
+    "why": "El panel necesita contacto limpio y seco."
+  },
+  {
+    "id": "t004",
+    "title": "Clic derecho en Chromebook",
+    "aliases": [
+      "boton derecho",
+      "clic secundario"
+    ],
+    "steps": [
+      "Toca el panel táctil con dos dedos a la vez.",
+      "Elige la opción necesaria o toca fuera del menú para cerrarlo."
+    ],
+    "why": "Dos dedos suelen abrir el menú contextual."
+  },
+  {
+    "id": "t005",
+    "title": "Captura de pantalla en Chromebook",
+    "aliases": [
+      "screenshot",
+      "como tomar captura",
+      "pantallazo"
+    ],
+    "steps": [
+      "Pulsa la tecla de captura o Ctrl + Mayús + Mostrar ventanas.",
+      "Elige captura de imagen y selecciona pantalla completa o un área.",
+      "Busca la captura en la notificación o en Archivos > Descargas. Captura solo tu propio trabajo."
+    ],
+    "why": "Mostrar ventanas suele tener un icono de rectángulo con líneas."
+  },
+  {
+    "id": "t006",
+    "title": "Pantalla de Chromebook muy oscura",
+    "aliases": [
+      "pantalla oscura",
+      "subir brillo"
+    ],
+    "steps": [
+      "Pulsa unas veces la tecla de aumentar brillo.",
+      "Toca una tecla para comprobar si el equipo está despierto. Si sigue en negro, avisa al maestro."
+    ],
+    "why": "El brillo es un control cotidiano."
+  },
+  {
+    "id": "t007",
+    "title": "Pantalla de Chromebook girada",
+    "aliases": [
+      "pantalla de lado",
+      "pantalla al reves"
+    ],
+    "steps": [
+      "Muestra la pantalla girada a tu maestro.",
+      "Pídele que restaure la orientación aprobada. No cambies otros ajustes."
+    ],
+    "why": "La orientación puede afectar las adaptaciones y el equipo escolar."
+  },
+  {
+    "id": "t008",
+    "title": "Chromebook congelado",
+    "aliases": [
+      "chromebook trabado",
+      "chromebook no responde"
+    ],
+    "steps": [
+      "Espera un momento por si una aplicación está procesando algo.",
+      "Intenta cambiar a otra pestaña o ventana. Guarda tu trabajo si responde.",
+      "Si nada responde, avisa al maestro antes de reiniciar o apagar a la fuerza."
+    ],
+    "why": "Apagar a la fuerza puede perder trabajo sin guardar."
+  },
+  {
+    "id": "t009",
+    "title": "Chromebook sin sonido",
+    "aliases": [
+      "no escucho",
+      "chromebook no tiene audio",
+      "no hay sonido"
+    ],
+    "steps": [
+      "Pulsa subir volumen una o dos veces, a un nivel cómodo.",
+      "Comprueba si el video o la pestaña tiene su propio botón de silencio.",
+      "Si usas auriculares aprobados, revisa su conexión. Si sigue el problema, avisa al maestro."
+    ],
+    "why": "El volumen de la aplicación y del equipo son distintos."
+  },
+  {
+    "id": "t010",
+    "title": "Problema de wifi en Chromebook",
+    "aliases": [
+      "sin internet",
+      "no conecta wifi",
+      "chromebook desconectado"
+    ],
+    "steps": [
+      "Haz clic en la hora y mira el icono de Wi-Fi sin cambiar la configuración.",
+      "Comprueba si tampoco cargan otros sitios de clase autorizados.",
+      "Explica al maestro qué sitio o red no funciona. No te conectes a otra red sin permiso."
+    ],
+    "why": "Así se distingue una falla de red de una falla del equipo."
+  },
+  {
+    "id": "t011",
+    "title": "Encontrar descarga en Chromebook",
+    "aliases": [
+      "donde esta mi descarga",
+      "archivo descargado perdido"
+    ],
+    "steps": [
+      "Abre el iniciador y elige Archivos (Files).",
+      "Ve a Mis archivos > Descargas y busca por nombre o fecha.",
+      "Abre únicamente archivos que reconozcas y tengas permiso de usar."
+    ],
+    "why": "Descargas locales y Google Drive son ubicaciones distintas."
+  },
+  {
+    "id": "t012",
+    "title": "Cambiar de aplicación en Chromebook",
+    "aliases": [
+      "cambiar ventana",
+      "otra aplicacion"
+    ],
+    "steps": [
+      "Pulsa Mostrar ventanas.",
+      "Elige la ventana que buscas o usa Alt + Tab."
+    ],
+    "why": "Tu trabajo puede estar detrás de otra ventana."
+  },
+  {
+    "id": "t013",
+    "title": "Ratón no se mueve",
+    "aliases": [
+      "mouse no funciona",
+      "raton no funciona",
+      "raton no responde"
+    ],
+    "steps": [
+      "Si tiene cable, comprueba que el USB esté bien conectado. Si es inalámbrico, revisa su interruptor y receptor aprobado.",
+      "Prueba en una superficie plana y lisa.",
+      "Pide al maestro que pruebe un ratón de repuesto. No desconectes el de otro estudiante."
+    ],
+    "why": "La conexión, la superficie o la energía pueden impedir el movimiento."
+  },
+  {
+    "id": "t014",
+    "title": "Cambiar ratón para mano izquierda",
+    "aliases": [
+      "mouse zurdo",
+      "raton para zurdos",
+      "cambiar boton principal"
+    ],
+    "steps": [
+      "Con permiso del maestro, abre Configuración de Windows y busca Mouse.",
+      "Cambia únicamente Botón principal del mouse a izquierda o derecha. Si está bloqueado, pide ayuda.",
+      "Prueba un clic. No modifiques otros ajustes."
+    ],
+    "why": "Es una adaptación básica permitida solo según las reglas escolares."
+  },
+  {
+    "id": "t015",
+    "title": "Rueda del ratón no funciona",
+    "aliases": [
+      "no puedo desplazar",
+      "scroll no funciona"
+    ],
+    "steps": [
+      "Prueba la barra de desplazamiento de la ventana.",
+      "Coloca el puntero sobre una zona desplazable y prueba la rueda.",
+      "Si falla en varias aplicaciones, avisa al maestro."
+    ],
+    "why": "Cada panel puede manejar el desplazamiento de forma distinta."
+  },
+  {
+    "id": "t016",
+    "title": "Teclado no responde",
+    "aliases": [
+      "teclado no funciona",
+      "no puedo escribir"
+    ],
+    "steps": [
+      "Haz clic en un campo de texto y escribe una palabra de prueba.",
+      "Revisa que tu teclado aprobado esté conectado.",
+      "Si sigue sin responder, avisa al maestro. No retires teclas ni lo abras."
+    ],
+    "why": "Un campo de texto inactivo puede parecer una falla del teclado."
+  },
+  {
+    "id": "t017",
+    "title": "Teclado numérico no escribe números",
+    "aliases": [
+      "numeros no salen",
+      "teclado numerico"
+    ],
+    "steps": [
+      "Haz clic en un campo de texto y pulsa Num Lock una vez.",
+      "Prueba un número del teclado numérico. Si falla, avisa al maestro."
+    ],
+    "why": "Num Lock cambia la función del teclado numérico."
+  },
+  {
+    "id": "t018",
+    "title": "Todas las letras salen en mayúsculas",
+    "aliases": [
+      "todo mayusculas",
+      "caps lock"
+    ],
+    "steps": [
+      "Pulsa Caps Lock una vez y prueba una letra.",
+      "Comprueba que Mayús no esté presionada. Si hay una tecla atascada, avisa al maestro."
+    ],
+    "why": "Caps Lock y Mayús cambian las mayúsculas."
+  },
+  {
+    "id": "t019",
+    "title": "Monitor está negro",
+    "aliases": [
+      "monitor no enciende",
+      "pantalla negra pc",
+      "sin senal"
+    ],
+    "steps": [
+      "Revisa la luz de encendido del monitor y pulsa su botón si hace falta.",
+      "Observa si hay cables flojos sin mover el equipo ni meter la mano detrás. Pide al maestro que los conecte.",
+      "Avísale si aparece Sin señal o sigue la pantalla negra."
+    ],
+    "why": "El monitor puede estar apagado aunque la computadora esté encendida."
+  },
+  {
+    "id": "t020",
+    "title": "Auriculares sin sonido",
+    "aliases": [
+      "audifonos no suenan",
+      "auriculares no funcionan",
+      "headphones"
+    ],
+    "steps": [
+      "Revisa que los auriculares aprobados estén conectados como te enseñó el maestro.",
+      "Revisa el silencio y volumen de los auriculares y de la aplicación.",
+      "Mantén el volumen bajo al probar. Si falla, avisa al maestro."
+    ],
+    "why": "Muchos auriculares tienen sus propios controles."
+  },
+  {
+    "id": "t021",
+    "title": "Micrófono no funciona",
+    "aliases": [
+      "microfono no me escucha",
+      "mic no funciona"
+    ],
+    "steps": [
+      "Revisa el interruptor de silencio del micrófono.",
+      "Comprueba el botón de silencio en la aplicación aprobada. Haz una prueba solo con permiso.",
+      "Si el acceso está bloqueado, avisa al maestro; no cambies permisos."
+    ],
+    "why": "La escuela y la aplicación controlan el acceso al micrófono."
+  },
+  {
+    "id": "t022",
+    "title": "Cámara no muestra video",
+    "aliases": [
+      "webcam no funciona",
+      "camara negra"
+    ],
+    "steps": [
+      "Revisa si hay una cubierta física. Ábrela solo con permiso.",
+      "Comprueba el botón de cámara en la aplicación aprobada.",
+      "Si el acceso está bloqueado, avisa al maestro."
+    ],
+    "why": "No se deben eludir restricciones de privacidad."
+  },
+  {
+    "id": "t023",
+    "title": "Dispositivo USB no reconocido",
+    "aliases": [
+      "usb no aparece",
+      "memoria usb no funciona"
+    ],
+    "steps": [
+      "Usa solo dispositivos aprobados. Comprueba que el conector esté bien colocado y sin daños.",
+      "Si es almacenamiento, abre Explorador de archivos > Este equipo.",
+      "Si no aparece, avisa al maestro. Nunca instales controladores ni formatees la unidad."
+    ],
+    "why": "Una política escolar o una falla puede impedir su uso."
+  },
+  {
+    "id": "t024",
+    "title": "Lápiz de tableta gráfica no funciona",
+    "aliases": [
+      "stylus no dibuja",
+      "lapiz digital no funciona"
+    ],
+    "steps": [
+      "Comprueba que la tableta esté conectada y que sea el lápiz correcto.",
+      "Abre un documento de dibujo aprobado y elige un pincel en una capa editable.",
+      "Si falla, avisa al maestro. No instales controladores."
+    ],
+    "why": "Una capa bloqueada puede parecer un problema de la tableta."
+  },
+  {
+    "id": "t025",
+    "title": "Programa de Windows congelado",
+    "aliases": [
+      "programa trabado",
+      "aplicacion no responde"
+    ],
+    "steps": [
+      "Espera brevemente mientras el programa termina de procesar.",
+      "Si responde, guarda tu trabajo en la ubicación asignada.",
+      "Si sigue congelado, pide ayuda antes de cerrarlo o reiniciar."
+    ],
+    "why": "Cerrar un programa puede perder cambios sin guardar."
+  },
+  {
+    "id": "t026",
+    "title": "Captura de pantalla en Windows",
+    "aliases": [
+      "screenshot pc",
+      "captura windows"
+    ],
+    "steps": [
+      "Pulsa Windows + Mayús + S.",
+      "Arrastra sobre el área deseada o elige el modo de captura.",
+      "Abre la notificación si aparece y guarda o pega la captura donde se pidió. Solo captura trabajo permitido."
+    ],
+    "why": "No captures datos de otros estudiantes."
+  },
+  {
+    "id": "t027",
+    "title": "Encontrar una ventana minimizada",
+    "aliases": [
+      "programa desaparecio",
+      "ventana escondida"
+    ],
+    "steps": [
+      "Busca el icono de la aplicación en la barra de tareas y haz clic.",
+      "Usa Alt + Tab si necesitas recorrer las ventanas abiertas."
+    ],
+    "why": "Minimizar no cierra la aplicación."
+  },
+  {
+    "id": "t028",
+    "title": "Impresora no imprime",
+    "aliases": [
+      "no sale impresion",
+      "impresora no funciona"
+    ],
+    "steps": [
+      "Confirma que tienes permiso de imprimir.",
+      "Revisa la vista previa, la impresora asignada y el número de páginas.",
+      "Si ya enviaste el trabajo, pregunta antes de volver a enviarlo."
+    ],
+    "why": "Repetir la impresión puede desperdiciar papel."
+  },
+  {
+    "id": "t029",
+    "title": "Control de juego no responde",
+    "aliases": [
+      "mando no funciona",
+      "controlador juego"
+    ],
+    "steps": [
+      "Comprueba la conexión del control aprobado según las indicaciones.",
+      "Revisa si el juego admite control y si su ventana está activa.",
+      "Si falla, avisa al maestro. No instales programas ni controladores."
+    ],
+    "why": "No todos los juegos admiten mandos."
+  },
+  {
+    "id": "t030",
+    "title": "Entregar tarea en Google Classroom",
+    "aliases": [
+      "como entregar",
+      "entregar tarea",
+      "enviar trabajo"
+    ],
+    "steps": [
+      "Abre la clase y tarea correctas en Classroom.",
+      "En Tu trabajo, abre el archivo adjunto para verificar que es el trabajo correcto.",
+      "Pulsa Entregar (Turn in) y confirma. Si usa Marcar como completada, sigue las instrucciones del maestro."
+    ],
+    "why": "Adjuntar un archivo no siempre significa entregarlo."
+  },
+  {
+    "id": "t031",
+    "title": "Adjuntar archivo en Classroom",
+    "aliases": [
+      "subir archivo tarea",
+      "agregar archivo"
+    ],
+    "steps": [
+      "Abre la tarea y busca Tu trabajo.",
+      "Elige Agregar o crear y selecciona Drive o Archivo según la ubicación.",
+      "Comprueba que el archivo correcto aparezca antes de entregar."
+    ],
+    "why": "Usa tu propio trabajo y el formato solicitado."
+  },
+  {
+    "id": "t032",
+    "title": "Error al entregar tarea",
+    "aliases": [
+      "no puedo entregar",
+      "error de entrega"
+    ],
+    "steps": [
+      "Comprueba que estás en la clase y tarea correctas con tu cuenta escolar.",
+      "Espera a que se carguen los adjuntos. No pulses Entregar repetidamente.",
+      "Muestra el error al maestro sin compartir datos privados."
+    ],
+    "why": "Algunos errores necesitan intervención del maestro."
+  },
+  {
+    "id": "t033",
+    "title": "Encontrar comentarios del maestro",
+    "aliases": [
+      "donde esta mi nota",
+      "ver calificacion",
+      "ver comentarios"
+    ],
+    "steps": [
+      "Abre la clase y tarea correspondiente.",
+      "Busca la nota devuelta, rúbrica o comentarios privados si están disponibles.",
+      "Lee las instrucciones antes de cambiar o volver a entregar."
+    ],
+    "why": "Los comentarios indican qué revisar."
+  },
+  {
+    "id": "t034",
+    "title": "Volver a entregar correcciones",
+    "aliases": [
+      "reenviar tarea",
+      "entregar correccion"
+    ],
+    "steps": [
+      "Confirma que tu maestro permite las correcciones.",
+      "Abre la tarea original y actualiza el archivo según las instrucciones.",
+      "Si está permitido, entrega de nuevo y confirma el estado."
+    ],
+    "why": "Las reglas de corrección dependen de la clase."
+  },
+  {
+    "id": "t035",
+    "title": "Encontrar tarea que falta",
+    "aliases": [
+      "no encuentro tarea",
+      "mi tarea no aparece"
+    ],
+    "steps": [
+      "Abre la clase correcta y elige Trabajo de clase.",
+      "Busca el tema o fecha indicados por el maestro.",
+      "Si no aparece, dile al maestro qué tarea buscas."
+    ],
+    "why": "Cada clase organiza sus tareas de forma diferente."
+  },
+  {
+    "id": "t036",
+    "title": "Encontrar archivo en Google Drive",
+    "aliases": [
+      "archivo perdido",
+      "buscar archivo drive"
+    ],
+    "steps": [
+      "Abre Drive con tu cuenta escolar.",
+      "Busca parte del nombre o revisa Recientes o Compartido conmigo.",
+      "Verifica el título y propietario antes de editar."
+    ],
+    "why": "La búsqueda ayuda a encontrar archivos en distintas carpetas."
+  },
+  {
+    "id": "t037",
+    "title": "Acceso a archivo denegado",
+    "aliases": [
+      "no tengo permiso",
+      "archivo bloqueado",
+      "solicitar acceso"
+    ],
+    "steps": [
+      "Comprueba que usas la cuenta escolar asignada.",
+      "Vuelve al enlace original de clase y prueba una vez más.",
+      "Si sigue bloqueado, avisa al maestro. No uses otra cuenta ni cambies permisos."
+    ],
+    "why": "Los permisos protegen el trabajo y la privacidad."
+  },
+  {
+    "id": "t038",
+    "title": "Cambiar nombre de archivo",
+    "aliases": [
+      "renombrar archivo",
+      "poner nombre"
+    ],
+    "steps": [
+      "Selecciona o abre tu propio archivo.",
+      "Usa el campo de título o Cambiar nombre y escribe el nombre solicitado.",
+      "Conserva la extensión original si usas el explorador."
+    ],
+    "why": "Cambiar el nombre no cambia el formato."
+  },
+  {
+    "id": "t039",
+    "title": "Hacer copia de documento Google",
+    "aliases": [
+      "duplicar documento",
+      "hacer una copia"
+    ],
+    "steps": [
+      "Confirma que el maestro permite copiarlo.",
+      "En el documento, elige Archivo > Hacer una copia si está disponible.",
+      "Nombra la copia y guárdala en la ubicación asignada."
+    ],
+    "why": "Una copia es independiente del original."
+  },
+  {
+    "id": "t040",
+    "title": "Encontrar descargas en Windows",
+    "aliases": [
+      "descarga pc",
+      "donde se guardo windows"
+    ],
+    "steps": [
+      "Abre Explorador de archivos con el icono de carpeta o Windows + E.",
+      "Elige Descargas y busca por nombre o fecha.",
+      "Si no aparece, mira la lista de descargas del navegador con Ctrl + J."
+    ],
+    "why": "La lista del navegador indica dónde se descargó."
+  },
+  {
+    "id": "t041",
+    "title": "Tipos de archivo",
+    "aliases": [
+      "que es png",
+      "que es pdf",
+      "formatos de archivo"
+    ],
+    "steps": [
+      "Mira la extensión o el tipo de archivo.",
+      "PNG y JPG son imágenes; PSD y AI son proyectos editables de Adobe; PDF es documento; ZIP es archivo comprimido.",
+      "Usa el formato solicitado. Cambiar la extensión no convierte el archivo."
+    ],
+    "why": "Cada formato sirve para un propósito distinto."
+  },
+  {
+    "id": "t042",
+    "title": "Abrir archivo ZIP",
+    "aliases": [
+      "descomprimir zip",
+      "extraer archivos"
+    ],
+    "steps": [
+      "Usa solo un ZIP confiable proporcionado por el maestro.",
+      "En Windows, clic derecho > Extraer todo. En Chromebook, abre el ZIP en Archivos y copia lo necesario a la carpeta asignada.",
+      "Abre los archivos extraídos para trabajar."
+    ],
+    "why": "Editar desde el archivo comprimido puede causar confusión."
+  },
+  {
+    "id": "t043",
+    "title": "Guardar en carpeta correcta",
+    "aliases": [
+      "donde guardar",
+      "guardar trabajo"
+    ],
+    "steps": [
+      "Elige Guardar o Guardar como según corresponda.",
+      "Selecciona la carpeta aprobada y el nombre solicitado.",
+      "Verifica la ubicación después de guardar."
+    ],
+    "why": "Saber la ubicación facilita la entrega."
+  },
+  {
+    "id": "t044",
+    "title": "Formato de texto en Google Docs",
+    "aliases": [
+      "cambiar letra docs",
+      "negrita docs",
+      "fuente documento"
+    ],
+    "steps": [
+      "Selecciona el texto que quieres cambiar.",
+      "Usa la barra de herramientas para elegir fuente, tamaño o estilo.",
+      "Comprueba la legibilidad y las instrucciones de la tarea."
+    ],
+    "why": "El formato cambia la apariencia, no las ideas."
+  },
+  {
+    "id": "t045",
+    "title": "Salto de página en Google Docs",
+    "aliases": [
+      "nueva pagina docs",
+      "salto pagina"
+    ],
+    "steps": [
+      "Coloca el cursor donde debe comenzar la página.",
+      "Elige Insertar > Salto > Salto de página si el documento usa páginas.",
+      "Si no aparece, pregunta al maestro si el documento está en modo sin páginas."
+    ],
+    "why": "Un salto comienza una página nueva."
+  },
+  {
+    "id": "t046",
+    "title": "Insertar imagen en Google Docs",
+    "aliases": [
+      "agregar foto docs",
+      "poner imagen documento"
+    ],
+    "steps": [
+      "Coloca el cursor en el lugar deseado.",
+      "Elige Insertar > Imagen y la fuente permitida.",
+      "Selecciona el archivo y ajusta el tamaño desde una esquina."
+    ],
+    "why": "La fuente debe estar autorizada."
+  },
+  {
+    "id": "t047",
+    "title": "Presentar Google Slides",
+    "aliases": [
+      "presentar diapositivas",
+      "modo presentacion"
+    ],
+    "steps": [
+      "Abre la presentación correcta.",
+      "Pulsa Presentación de diapositivas (Slideshow).",
+      "Usa las flechas para avanzar y Esc para salir."
+    ],
+    "why": "El modo de presentación oculta las herramientas de edición."
+  },
+  {
+    "id": "t048",
+    "title": "Recortar imagen en Google Slides",
+    "aliases": [
+      "cortar foto slides",
+      "recortar diapositiva"
+    ],
+    "steps": [
+      "Selecciona la imagen de tu diapositiva.",
+      "Pulsa Recortar y arrastra los controles de recorte.",
+      "Pulsa Enter o haz clic fuera para terminar."
+    ],
+    "why": "Recortar oculta los bordes no deseados."
+  },
+  {
+    "id": "t049",
+    "title": "Cuadro de texto en Google Slides",
+    "aliases": [
+      "agregar texto slides",
+      "poner texto diapositiva"
+    ],
+    "steps": [
+      "Elige Insertar > Cuadro de texto.",
+      "Haz clic o arrastra en la diapositiva.",
+      "Escribe tus propias palabras y ajusta el tamaño o alineación."
+    ],
+    "why": "Un cuadro permite colocar texto donde lo necesites."
+  },
+  {
+    "id": "t050",
+    "title": "Fórmula no funciona en Google Sheets",
+    "aliases": [
+      "error formula",
+      "formula hojas de calculo"
+    ],
+    "steps": [
+      "Selecciona la celda y mira la barra de fórmulas.",
+      "Comprueba el signo = al inicio, referencias de celda y paréntesis.",
+      "Compara con el ejemplo de tu maestro. Si sigue el error, pide ayuda."
+    ],
+    "why": "La sintaxis debe estar completa; el asistente no resuelve la tarea."
+  },
+  {
+    "id": "t051",
+    "title": "Texto cortado en celda de Google Sheets",
+    "aliases": [
+      "texto no cabe celda",
+      "ajustar texto sheets"
+    ],
+    "steps": [
+      "Selecciona la celda afectada.",
+      "Usa el botón Ajuste de texto y elige Ajustar (Wrap).",
+      "Si hace falta, arrastra el borde del encabezado de columna."
+    ],
+    "why": "Ajustar permite mostrar texto en varias líneas."
+  },
+  {
+    "id": "t052",
+    "title": "No puedo enviar Google Forms",
+    "aliases": [
+      "formulario no envia",
+      "error formulario"
+    ],
+    "steps": [
+      "Busca preguntas obligatorias con asterisco o mensajes de error.",
+      "Completa tus propias respuestas y revisa el formato solicitado.",
+      "Si el formulario está cerrado o bloqueado, avisa al maestro."
+    ],
+    "why": "Algunas preguntas requieren una respuesta válida antes de enviar."
+  },
+  {
+    "id": "t053",
+    "title": "Audio o cámara de Google Meet",
+    "aliases": [
+      "meet no se escucha",
+      "meet camara"
+    ],
+    "steps": [
+      "Revisa los botones de micrófono y cámara de la reunión.",
+      "Comprueba auriculares aprobados y cubierta física de la cámara.",
+      "Si el acceso está bloqueado, avisa al maestro sin cambiar permisos."
+    ],
+    "why": "Las restricciones de privacidad deben respetarse."
+  },
+  {
+    "id": "t054",
+    "title": "Página web no carga",
+    "aliases": [
+      "pagina no abre",
+      "sitio no carga"
+    ],
+    "steps": [
+      "Comprueba la dirección o usa el enlace del maestro.",
+      "Recarga una vez si no tienes respuestas sin guardar y prueba otro sitio de clase aprobado.",
+      "Si sigue sin cargar o está bloqueado, avisa al maestro."
+    ],
+    "why": "Así se distingue un problema del sitio de uno de conexión."
+  },
+  {
+    "id": "t055",
+    "title": "Página del navegador demasiado grande o pequeña",
+    "aliases": [
+      "zoom navegador",
+      "letras gigantes",
+      "pagina muy grande"
+    ],
+    "steps": [
+      "Con el navegador activo, usa Ctrl + 0 si no necesitas un zoom de accesibilidad específico.",
+      "Usa Ctrl + más o menos para leer cómodamente.",
+      "Si afecta toda la pantalla, pide ayuda sin cambiar ajustes del sistema."
+    ],
+    "why": "El zoom del navegador no es el mismo que el del sistema."
+  },
+  {
+    "id": "t056",
+    "title": "Reabrir pestaña cerrada",
+    "aliases": [
+      "cerre pestana",
+      "recuperar pestana"
+    ],
+    "steps": [
+      "Pulsa Ctrl + Mayús + T en Chrome.",
+      "Verifica que es la página que necesitas. Los datos no guardados pueden no regresar."
+    ],
+    "why": "Este atajo reabre la última pestaña cerrada."
+  },
+  {
+    "id": "t057",
+    "title": "Salir de pantalla completa del navegador",
+    "aliases": [
+      "no veo barra navegador",
+      "pantalla completa"
+    ],
+    "steps": [
+      "En Windows, prueba F11 una vez. En Chromebook, usa la tecla de pantalla completa.",
+      "Si es un video en pantalla completa, prueba Esc."
+    ],
+    "why": "La pantalla completa oculta algunas barras."
+  },
+  {
+    "id": "t058",
+    "title": "Página bloqueada por la escuela",
+    "aliases": [
+      "sitio bloqueado",
+      "web bloqueada"
+    ],
+    "steps": [
+      "Detente en la página de bloqueo.",
+      "Dile al maestro qué sitio educativo necesitas.",
+      "Espera la revisión del personal. No intentes otra dirección ni métodos para evadir el bloqueo."
+    ],
+    "why": "Solo personal autorizado revisa restricciones de acceso."
+  },
+  {
+    "id": "t059",
+    "title": "Ventana emergente sospechosa",
+    "aliases": [
+      "publicidad rara",
+      "alerta virus",
+      "estafa"
+    ],
+    "steps": [
+      "No pulses la alerta, llames, descargues ni introduzcas información.",
+      "Si puedes hacerlo sin interactuar con la alerta, cierra la pestaña normal.",
+      "Avisa al maestro de inmediato, especialmente si ya pulsaste algo."
+    ],
+    "why": "Las alertas falsas intentan presionarte."
+  },
+  {
+    "id": "t060",
+    "title": "Olvidé la contraseña escolar",
+    "aliases": [
+      "no recuerdo contrasena",
+      "no puedo iniciar sesion"
+    ],
+    "steps": [
+      "Comprueba que usas la página escolar correcta y que Caps Lock no está activado.",
+      "Si no puedes entrar, pide ayuda al maestro o al personal autorizado.",
+      "Nunca escribas tu contraseña en TechGuide ni se la des a otro estudiante."
+    ],
+    "why": "La recuperación de cuentas sigue el proceso escolar."
+  },
+  {
+    "id": "t061",
+    "title": "Panel Capas de Photoshop desapareció",
+    "aliases": [
+      "no veo capas",
+      "capas perdidas",
+      "panel layers"
+    ],
+    "steps": [
+      "En Photoshop, abre Ventana (Window).",
+      "Elige Capas (Layers).",
+      "Selecciona la capa que necesitas y comprueba que esté visible."
+    ],
+    "why": "Cerrar un panel no borra las capas."
+  },
+  {
+    "id": "t062",
+    "title": "Pincel de Photoshop no pinta",
+    "aliases": [
+      "pincel no funciona",
+      "brocha no pinta"
+    ],
+    "steps": [
+      "Selecciona Pincel y una capa editable y visible.",
+      "Revisa tamaño, color frontal y opacidad. Si está seleccionada una máscara, revisa si querías la miniatura de imagen.",
+      "Si hay una selección activa, pulsa Ctrl + D solo si ya no la necesitas."
+    ],
+    "why": "Capas, selecciones y opciones del pincel afectan la pintura."
+  },
+  {
+    "id": "t063",
+    "title": "Quitar líneas punteadas de selección Photoshop",
+    "aliases": [
+      "hormigas marchando",
+      "quitar seleccion",
+      "lineas de puntitos"
+    ],
+    "steps": [
+      "Guarda si es necesario.",
+      "Si terminaste la selección, elige Selección > Deseleccionar o Ctrl + D.",
+      "Comprueba que desapareció el borde móvil."
+    ],
+    "why": "Deseleccionar no borra los píxeles."
+  },
+  {
+    "id": "t064",
+    "title": "Imagen de Photoshop no se mueve",
+    "aliases": [
+      "no puedo mover foto",
+      "imagen bloqueada"
+    ],
+    "steps": [
+      "Elige Mover y la capa correcta en el panel Capas.",
+      "Revisa el candado y que sea la capa que quieres.",
+      "Si está bloqueada intencionalmente o es Fondo, consulta al maestro antes de cambiarla."
+    ],
+    "why": "Mover actúa sobre la capa seleccionada."
+  },
+  {
+    "id": "t065",
+    "title": "Imagen de Photoshop desapareció",
+    "aliases": [
+      "foto invisible",
+      "imagen perdida"
+    ],
+    "steps": [
+      "Revisa el icono de ojo junto a la capa.",
+      "Comprueba si hay una capa opaca encima o si la opacidad está en cero.",
+      "Deshaz solo un cambio reciente no deseado. No borres capas para buscar la imagen."
+    ],
+    "why": "Una capa oculta puede seguir existiendo."
+  },
+  {
+    "id": "t066",
+    "title": "Texto de Photoshop difícil de ver",
+    "aliases": [
+      "no veo texto",
+      "titulo poco visible"
+    ],
+    "steps": [
+      "Selecciona la capa de texto y revisa su visibilidad.",
+      "Con Texto, verifica tamaño y color frente al fondo.",
+      "Comprueba que la capa de texto esté encima del fondo."
+    ],
+    "why": "El contraste y el orden ayudan a leer."
+  },
+  {
+    "id": "t067",
+    "title": "Contorno de texto en Photoshop",
+    "aliases": [
+      "borde titulo",
+      "trazo texto",
+      "contorno letras"
+    ],
+    "steps": [
+      "Selecciona la capa de texto.",
+      "Pulsa fx en Capas y elige Trazo (Stroke).",
+      "Elige color y grosor legibles, revisa y confirma."
+    ],
+    "why": "El estilo mantiene el texto editable."
+  },
+  {
+    "id": "t068",
+    "title": "Exportar PNG o JPG en Photoshop",
+    "aliases": [
+      "guardar png photoshop",
+      "exportar imagen photoshop"
+    ],
+    "steps": [
+      "Guarda primero el proyecto PSD editable.",
+      "Elige Archivo > Exportar > Exportar como y el formato PNG o JPG solicitado.",
+      "Revisa la vista previa, exporta a la carpeta asignada y abre el resultado."
+    ],
+    "why": "PNG puede conservar transparencia; JPG no. Conserva el PSD."
+  },
+  {
+    "id": "t069",
+    "title": "Guardar PSD de Photoshop",
+    "aliases": [
+      "guardar proyecto psd",
+      "archivo editable photoshop"
+    ],
+    "steps": [
+      "Elige Archivo > Guardar como para nombrar el proyecto.",
+      "Selecciona Photoshop (PSD) si está disponible y la carpeta asignada.",
+      "Guarda y verifica el nombre. Conserva las capas."
+    ],
+    "why": "El PSD preserva las funciones editables."
+  },
+  {
+    "id": "t070",
+    "title": "Borrador de Photoshop no funciona",
+    "aliases": [
+      "goma no borra",
+      "borrador no borra"
+    ],
+    "steps": [
+      "Selecciona una capa visible y editable.",
+      "Revisa si está seleccionada la imagen y no la máscara; comprueba tamaño y opacidad.",
+      "Si es Objeto inteligente o está bloqueada, consulta al maestro antes de convertirla."
+    ],
+    "why": "Una máscara puede ser más segura que borrar píxeles."
+  },
+  {
+    "id": "t071",
+    "title": "Imagen de Photoshop pixelada",
+    "aliases": [
+      "foto borrosa",
+      "pixeles grandes"
+    ],
+    "steps": [
+      "Mira la imagen al 100% de zoom.",
+      "Comprueba si la imagen original era pequeña o se amplió mucho.",
+      "Pide una fuente aprobada de mayor resolución si hace falta."
+    ],
+    "why": "Ampliar no recupera detalle perdido."
+  },
+  {
+    "id": "t072",
+    "title": "Máscara de capa en Photoshop",
+    "aliases": [
+      "mascara capa",
+      "ocultar fondo mascara"
+    ],
+    "steps": [
+      "Selecciona la capa y su miniatura de máscara si ya existe.",
+      "Pinta negro para ocultar y blanco para mostrar; prueba en un área pequeña.",
+      "Selecciona otra vez la miniatura de imagen cuando quieras editar la imagen."
+    ],
+    "why": "Las máscaras ocultan sin borrar permanentemente."
+  },
+  {
+    "id": "t073",
+    "title": "Cambiar color de parte de foto Photoshop",
+    "aliases": [
+      "cambiar color ropa",
+      "tono saturacion"
+    ],
+    "steps": [
+      "Selecciona solo la zona que deseas cambiar.",
+      "Agrega una capa de ajuste Tono/Saturación (Hue/Saturation).",
+      "Ajusta tono y saturación; refina la máscara si cambia zonas no deseadas."
+    ],
+    "why": "El ajuste no modifica permanentemente la imagen original."
+  },
+  {
+    "id": "t074",
+    "title": "Herramientas o paneles de Illustrator desaparecieron",
+    "aliases": [
+      "no veo herramientas illustrator",
+      "panel perdido illustrator"
+    ],
+    "steps": [
+      "Abre Ventana (Window) y busca Capas o Propiedades, según lo que falte.",
+      "Elige el panel; si falta la barra, revisa Ventana > Barras de herramientas.",
+      "Pregunta al maestro si su espacio de trabajo es diferente."
+    ],
+    "why": "Ocultar paneles no elimina el dibujo."
+  },
+  {
+    "id": "t075",
+    "title": "Relleno y trazo en Illustrator",
+    "aliases": [
+      "fill stroke",
+      "color relleno",
+      "color borde"
+    ],
+    "steps": [
+      "Selecciona el objeto con Selección.",
+      "En la barra o Propiedades, elige Relleno (Fill) para el interior o Trazo (Stroke) para el borde.",
+      "Elige color y grosor de trazo si hace falta."
+    ],
+    "why": "Relleno y trazo son atributos independientes."
+  },
+  {
+    "id": "t076",
+    "title": "Objeto de Illustrator no se mueve",
+    "aliases": [
+      "no puedo mover forma",
+      "forma bloqueada"
+    ],
+    "steps": [
+      "Elige Selección (flecha negra) y haz clic en el objeto.",
+      "Revisa Capas para ver si está bloqueado u oculto. No desbloquees objetos protegidos por el maestro.",
+      "Si elegiste otro objeto, deselecciona y prueba de nuevo."
+    ],
+    "why": "La flecha blanca edita puntos individuales."
+  },
+  {
+    "id": "t077",
+    "title": "Crear forma en Illustrator",
+    "aliases": [
+      "hacer circulo",
+      "hacer rectangulo",
+      "formas illustrator"
+    ],
+    "steps": [
+      "Elige Rectángulo, Elipse u otra forma aprobada.",
+      "Haz clic y arrastra en la mesa de trabajo. Mantén Mayús para círculo o cuadrado.",
+      "Ajusta relleno y trazo en Propiedades."
+    ],
+    "why": "Las formas vectoriales conservan bordes al cambiar tamaño."
+  },
+  {
+    "id": "t078",
+    "title": "Herramienta Texto de Illustrator",
+    "aliases": [
+      "agregar texto illustrator",
+      "escribir letras"
+    ],
+    "steps": [
+      "Elige Texto y haz clic en la mesa de trabajo.",
+      "Escribe tus propias palabras y selecciona para ajustar fuente, tamaño y color.",
+      "Cambia a Selección para mover el objeto de texto."
+    ],
+    "why": "El asistente explica la herramienta, no escribe tu tarea."
+  },
+  {
+    "id": "t079",
+    "title": "Alinear objetos en Illustrator",
+    "aliases": [
+      "objetos desalineados",
+      "alinear formas"
+    ],
+    "steps": [
+      "Selecciona los objetos que quieres alinear.",
+      "Abre Ventana > Alinear si no ves los controles.",
+      "Revisa Alinear a y elige alineación o distribución."
+    ],
+    "why": "Alinear a la mesa no es igual que alinear entre objetos."
+  },
+  {
+    "id": "t080",
+    "title": "Creador de formas en Illustrator",
+    "aliases": [
+      "shape builder",
+      "unir formas"
+    ],
+    "steps": [
+      "Selecciona las formas editables que se superponen.",
+      "Elige Creador de formas (Shape Builder) y arrastra por las regiones que quieras unir.",
+      "Revisa el resultado y deshaz si uniste regiones incorrectas."
+    ],
+    "why": "La herramienta usa regiones de formas seleccionadas."
+  },
+  {
+    "id": "t081",
+    "title": "Mesa de trabajo de Illustrator pequeña",
+    "aliases": [
+      "artboard pequeno",
+      "cambiar tamano mesa"
+    ],
+    "steps": [
+      "Comprueba las dimensiones exigidas.",
+      "Elige Mesa de trabajo y selecciona la mesa correcta.",
+      "Cambia ancho y alto; vuelve a Selección."
+    ],
+    "why": "Cambiar mesa no cambia automáticamente el dibujo."
+  },
+  {
+    "id": "t082",
+    "title": "Exportar PNG o JPG en Illustrator",
+    "aliases": [
+      "guardar png illustrator",
+      "exportar imagen illustrator"
+    ],
+    "steps": [
+      "Guarda primero el documento AI editable.",
+      "Elige Archivo > Exportar > Exportar como, PNG o JPG y Usar mesas de trabajo si se necesita ese recorte.",
+      "Elige las opciones solicitadas, exporta y verifica el archivo."
+    ],
+    "why": "La imagen exportada no reemplaza el proyecto AI."
+  },
+  {
+    "id": "t083",
+    "title": "Guardar archivo AI de Illustrator",
+    "aliases": [
+      "guardar proyecto illustrator",
+      "archivo editable ai"
+    ],
+    "steps": [
+      "Elige Archivo > Guardar como para nombrar el proyecto.",
+      "Selecciona Adobe Illustrator (AI) y la carpeta asignada.",
+      "Guarda y verifica el nombre antes de exportar."
+    ],
+    "why": "AI conserva objetos editables."
+  },
+  {
+    "id": "t084",
+    "title": "Illustrator muestra solo contornos",
+    "aliases": [
+      "sin colores illustrator",
+      "modo contorno"
+    ],
+    "steps": [
+      "Abre Ver (View) y busca Previsualizar (Preview).",
+      "Elige Previsualizar si entraste en Contorno, o usa Ctrl + Y cuando corresponda.",
+      "Comprueba si regresan los colores; si no, pregunta al maestro."
+    ],
+    "why": "Contorno muestra trazados, no el relleno."
+  },
+  {
+    "id": "t085",
+    "title": "Objeto de Illustrator detrás de otro",
+    "aliases": [
+      "forma tapada",
+      "traer al frente"
+    ],
+    "steps": [
+      "Selecciona el objeto con Selección o Capas.",
+      "Usa Objeto > Organizar y elige por ejemplo Traer al frente.",
+      "Revisa sin borrar otras partes del dibujo."
+    ],
+    "why": "Los objetos superiores pueden tapar los inferiores."
+  },
+  {
+    "id": "t086",
+    "title": "Juego de PlayForge no carga",
+    "aliases": [
+      "playforge no abre",
+      "juego no funciona"
+    ],
+    "steps": [
+      "Confirma que el maestro permite el juego en ese momento.",
+      "Vuelve a PlayForge y abre una vez la aplicación autorizada. Evita recargar si hay datos sin guardar.",
+      "Dile al maestro el nombre del juego y lo que aparece."
+    ],
+    "why": "Puede requerir una primera carga con internet."
+  },
+  {
+    "id": "t087",
+    "title": "Progreso de PlayForge desapareció",
+    "aliases": [
+      "perdi progreso",
+      "juego no guardo"
+    ],
+    "steps": [
+      "Comprueba que usas el mismo dispositivo y perfil de navegador.",
+      "Si tiene importación, pregunta cómo restaurar tu propia copia exportada.",
+      "No borres datos del navegador ni cambies cuentas para recuperar progreso."
+    ],
+    "why": "Muchas aplicaciones guardan localmente y no sincronizan."
+  },
+  {
+    "id": "t090",
+    "title": "Chromebook demasiado caliente",
+    "aliases": [
+      "sobrecalentado",
+      "muy caliente"
+    ],
+    "steps": [
+      "Deja de usarlo y avisa al maestro de inmediato.",
+      "No manipules un equipo peligrosamente caliente. Mantén materiales inflamables lejos si es seguro hacerlo."
+    ],
+    "why": "El calor extremo puede indicar un problema peligroso."
+  },
+  {
+    "id": "t091",
+    "title": "Líquido derramado en Chromebook",
+    "aliases": [
+      "derrame",
+      "agua en chromebook",
+      "mojado"
+    ],
+    "steps": [
+      "Deja de usar el Chromebook y avisa a un adulto inmediatamente.",
+      "No lo cargues, enciendas de nuevo, sacudas ni seques con calor."
+    ],
+    "why": "La electricidad y los líquidos son peligrosos."
+  },
+  {
+    "id": "t092",
+    "title": "Chromebook caído o roto",
+    "aliases": [
+      "pantalla rota",
+      "se me cayo"
+    ],
+    "steps": [
+      "Deja de usarlo si se dañó el vidrio, la carcasa o las bisagras.",
+      "Informa al maestro. No presiones el vidrio ni intentes reparar el equipo."
+    ],
+    "why": "Los bordes rotos pueden causar lesiones."
+  },
+  {
+    "id": "t120",
+    "title": "Copiar texto",
+    "aliases": [
+      "como copiar",
+      "copiar y pegar"
+    ],
+    "steps": [
+      "Selecciona tu texto o contenido permitido.",
+      "Pulsa Ctrl + C."
+    ],
+    "why": "Copiar no elimina el original."
+  },
+  {
+    "id": "t121",
+    "title": "Pegar texto",
+    "aliases": [
+      "como pegar",
+      "pegar texto"
+    ],
+    "steps": [
+      "Coloca el cursor donde quieres pegar el contenido permitido.",
+      "Pulsa Ctrl + V."
+    ],
+    "why": "Pegar inserta lo que copiaste."
+  },
+  {
+    "id": "t124",
+    "title": "Deshacer un cambio",
+    "aliases": [
+      "deshacer error",
+      "volver atras"
+    ],
+    "steps": [
+      "Si acabas de cambiar algo por error, pulsa Ctrl + Z en la aplicación.",
+      "Revisa el resultado antes de repetir."
+    ],
+    "why": "Deshacer puede revertir cambios recientes."
+  },
+  {
+    "id": "t126",
+    "title": "Seleccionar todo el texto",
+    "aliases": [
+      "seleccionar todo",
+      "marcar todo"
+    ],
+    "steps": [
+      "Haz clic dentro del área de texto que quieres seleccionar.",
+      "Pulsa Ctrl + A y revisa la selección."
+    ],
+    "why": "Seleccionar todo depende del área activa."
+  },
+  {
+    "id": "t127",
+    "title": "Buscar palabra en página",
+    "aliases": [
+      "buscar texto",
+      "encontrar palabra"
+    ],
+    "steps": [
+      "Pulsa Ctrl + F.",
+      "Escribe la palabra y recorre las coincidencias."
+    ],
+    "why": "Buscar no modifica el documento."
+  },
+  {
+    "id": "t169",
+    "title": "Captura de una parte de pantalla Chromebook",
+    "aliases": [
+      "captura parcial",
+      "recortar captura"
+    ],
+    "steps": [
+      "Pulsa Ctrl + Mayús + Mostrar ventanas.",
+      "Elige captura de área y arrastra sobre tu trabajo permitido.",
+      "Guarda o localiza la captura en Archivos."
+    ],
+    "why": "Una captura parcial evita incluir información ajena."
+  },
+  {
+    "id": "ps05-060",
+    "title": "Seleccionar y aplicar máscara Photoshop",
+    "aliases": [
+      "select and mask",
+      "refinar bordes"
+    ],
+    "steps": [
+      "Selecciona la zona con una herramienta de selección.",
+      "Abre Select and Mask (Seleccionar y aplicar máscara) desde Selección o la barra de opciones.",
+      "Usa una vista previa y ajusta bordes suavemente; revisa antes de confirmar."
+    ],
+    "why": "Sirve para mejorar los bordes de una selección."
+  },
+  {
+    "id": "ps05-020",
+    "title": "Disco de memoria virtual lleno Photoshop",
+    "aliases": [
+      "scratch disk full",
+      "disco lleno photoshop"
+    ],
+    "steps": [
+      "Guarda el trabajo si puedes.",
+      "Muestra el error al maestro. No borres archivos ni cambies discos o preferencias."
+    ],
+    "why": "El personal autorizado debe resolver el almacenamiento."
+  },
+  {
+    "id": "ps05-088",
+    "title": "Sombra de contacto en Photoshop",
+    "aliases": [
+      "persona flota",
+      "sombra debajo"
+    ],
+    "steps": [
+      "Crea una capa debajo de la persona y encima del fondo.",
+      "Con un pincel suave pinta una sombra pequeña donde toca el suelo.",
+      "Ajusta opacidad y revisa la dirección de la luz."
+    ],
+    "why": "Las sombras de contacto ayudan a unir visualmente los elementos."
+  },
+  {
+    "id": "ps05-146",
+    "title": "PNG de Photoshop tiene fondo transparente",
+    "aliases": [
+      "fondo blanco photoshop",
+      "quitar transparencia png"
+    ],
+    "steps": [
+      "Guarda el PSD editable primero.",
+      "Si la tarea exige fondo blanco, agrega una capa blanca debajo del arte y comprueba que cubra el lienzo.",
+      "Exporta el PNG y verifica el fondo en el archivo exportado."
+    ],
+    "why": "El PNG admite transparencia aunque el proyecto necesite un fondo opaco."
+  },
+  {
+    "id": "ai06-015",
+    "title": "Quitar cuadrícula de perspectiva Illustrator",
+    "aliases": [
+      "cuadricula rara",
+      "perspective grid"
+    ],
+    "steps": [
+      "Abre Ver > Cuadrícula de perspectiva (View > Perspective Grid).",
+      "Elige Ocultar cuadrícula o usa el atajo indicado en el menú."
+    ],
+    "why": "La cuadrícula de perspectiva no es parte del arte."
+  },
+  {
+    "id": "ai06-125",
+    "title": "Texto sobre trazado está al revés",
+    "aliases": [
+      "texto circulo",
+      "letras al reves circulo"
+    ],
+    "steps": [
+      "Selecciona el texto sobre el trazado.",
+      "Abre Texto > Texto en trazado > Opciones de texto en trazado (Type on a Path Options).",
+      "Prueba Voltear y revisa la alineación."
+    ],
+    "why": "El texto sigue un trazado y puede aparecer en ambos lados."
+  },
+  {
+    "id": "ai06-139",
+    "title": "Mostrar cuadrícula de Illustrator",
+    "aliases": [
+      "hacer cuadricula",
+      "mostrar grid"
+    ],
+    "steps": [
+      "Abre Ver > Mostrar cuadrícula (View > Show Grid).",
+      "Comprueba que se vea al trabajar y en la captura requerida."
+    ],
+    "why": "La cuadrícula de documento es una guía y no se exporta como dibujo."
+  },
+  {
+    "id": "ai06-027",
+    "title": "Dibujar cuadrícula de rectángulos Illustrator",
+    "aliases": [
+      "crear grid de formas",
+      "cuadricula real"
+    ],
+    "steps": [
+      "Elige la herramienta Cuadrícula rectangular si está disponible en la barra.",
+      "Haz clic y configura filas y columnas según las instrucciones de clase.",
+      "Revisa relleno y trazo, y ajusta el tamaño sin deformar la cuadrícula."
+    ],
+    "why": "Una cuadrícula dibujada sí forma parte del arte."
+  },
+  {
+    "id": "ai06-098",
+    "title": "Mover imagen dentro de máscara de recorte",
+    "aliases": [
+      "foto dentro de forma",
+      "mover foto recortada"
+    ],
+    "steps": [
+      "Selecciona el grupo de recorte.",
+      "Usa Selección directa o el control para editar contenido.",
+      "Mueve la imagen dentro de la forma sin mover el trazado de recorte."
+    ],
+    "why": "La máscara oculta partes sin borrar la imagen."
+  },
+  {
+    "id": "win094",
+    "title": "Impresora tiene papel atascado",
+    "aliases": [
+      "atasco de papel",
+      "impresora atascada"
+    ],
+    "steps": [
+      "Deja de enviar trabajos.",
+      "Avisa al maestro qué impresora tiene el error.",
+      "No metas la mano ni retires papel de la impresora."
+    ],
+    "why": "Las partes internas pueden estar calientes."
+  },
+  {
+    "id": "gs04-134",
+    "title": "Texto cortado en Google Slides",
+    "aliases": [
+      "texto no cabe slides",
+      "texto cortado diapositiva"
+    ],
+    "steps": [
+      "Selecciona el borde del cuadro de texto.",
+      "Ajusta el tamaño del cuadro o de la fuente según las instrucciones.",
+      "Revisa en modo presentación que se vea todo el texto."
+    ],
+    "why": "El cuadro de texto puede ser demasiado pequeño para el contenido."
+  },
+  {
+    "id": "ai06-124",
+    "title": "Poner texto alrededor de un círculo Illustrator",
+    "aliases": [
+      "texto alrededor de circulo",
+      "escribir en circulo"
+    ],
+    "steps": [
+      "Dibuja un círculo en la mesa de trabajo.",
+      "Elige Texto en trazado (Type on a Path) y haz clic en el trazado del círculo.",
+      "Escribe tus propias palabras y ajusta la posición con Selección."
+    ],
+    "why": "El texto sigue el borde de un trazado editable."
+  },
+  {
+    "id": "cl04-001",
+    "title": "No aparece mi clase en Classroom",
+    "aliases": [
+      "falta mi clase",
+      "no veo mi clase"
+    ],
+    "steps": [
+      "Comprueba que estás en tu cuenta escolar.",
+      "Abre la lista de clases y busca el nombre correcto.",
+      "Si no aparece, pregunta al maestro. No uses otra cuenta."
+    ],
+    "why": "La clase puede estar archivada o tu inscripción puede estar pendiente."
+  },
+  {
+    "id": "cl04-002",
+    "title": "Buscar tareas por tema",
+    "aliases": [
+      "buscar tema",
+      "tareas por tema"
+    ],
+    "steps": [
+      "Abre la clase correcta en Classroom.",
+      "Entra en Trabajo de clase (Classwork).",
+      "Elige el tema que indicó tu maestro."
+    ],
+    "why": "Los temas agrupan materiales y tareas relacionadas."
+  },
+  {
+    "id": "cl04-003",
+    "title": "Diferencia entre Novedades y Trabajo de clase",
+    "aliases": [
+      "tablon trabajo de clase",
+      "stream classwork"
+    ],
+    "steps": [
+      "Abre tu clase.",
+      "Usa Novedades (Stream) para avisos.",
+      "Usa Trabajo de clase (Classwork) para encontrar tareas y materiales."
+    ],
+    "why": "Cada sección organiza información distinta."
+  },
+  {
+    "id": "cl04-004",
+    "title": "Encontrar fecha de entrega",
+    "aliases": [
+      "fecha limite",
+      "cuando vence la tarea"
+    ],
+    "steps": [
+      "Abre la tarea en Trabajo de clase.",
+      "Busca la fecha y hora de entrega junto al título o tu trabajo.",
+      "Si no hay fecha, pregunta al maestro."
+    ],
+    "why": "No todas las tareas tienen una fecha de entrega."
+  },
+  {
+    "id": "cl04-005",
+    "title": "Lista de tareas pendientes",
+    "aliases": [
+      "lista pendiente",
+      "que me falta entregar"
+    ],
+    "steps": [
+      "Abre el menú de Classroom.",
+      "Busca Pendientes (To-do).",
+      "Revisa la clase y la sección correspondiente."
+    ],
+    "why": "La lista reúne trabajos de las clases en que participas."
+  },
+  {
+    "id": "cl04-006",
+    "title": "Ver todo mi trabajo de una clase",
+    "aliases": [
+      "todas mis tareas",
+      "trabajos de una clase"
+    ],
+    "steps": [
+      "Abre la clase correcta.",
+      "En Trabajo de clase, busca Ver tu trabajo (View your work).",
+      "Revisa los estados y abre la tarea deseada."
+    ],
+    "why": "Esta vista ayuda a revisar entregas y calificaciones propias."
+  },
+  {
+    "id": "cl04-007",
+    "title": "Un material no tiene botón Entregar",
+    "aliases": [
+      "material sin entregar",
+      "no hay boton en material"
+    ],
+    "steps": [
+      "Comprueba si el elemento está marcado como Material y no como Tarea.",
+      "Lee las instrucciones del maestro.",
+      "Busca la tarea correspondiente o pregunta dónde entregar."
+    ],
+    "why": "Un material puede ser solo una lectura o recurso."
+  },
+  {
+    "id": "cl04-008",
+    "title": "Abrir tutorial adjunto",
+    "aliases": [
+      "enlace tutorial",
+      "video de instrucciones"
+    ],
+    "steps": [
+      "Abre la tarea o material correcto.",
+      "Busca los enlaces o archivos adjuntos debajo de las instrucciones.",
+      "Abre solo el recurso indicado por tu maestro. Si está bloqueado, avisa."
+    ],
+    "why": "El tutorial puede estar separado del documento que entregas."
+  },
+  {
+    "id": "cl04-009",
+    "title": "No veo todas las instrucciones",
+    "aliases": [
+      "instrucciones cortadas",
+      "texto de tarea incompleto"
+    ],
+    "steps": [
+      "Abre la tarea completa en Trabajo de clase.",
+      "Desplázate por las instrucciones y archivos adjuntos.",
+      "Si falta información, pregunta al maestro."
+    ],
+    "why": "La vista previa puede mostrar solo parte del texto."
+  },
+  {
+    "id": "cl04-010",
+    "title": "Tarea bloqueada o no disponible",
+    "aliases": [
+      "tarea cerrada",
+      "tarea bloqueada"
+    ],
+    "steps": [
+      "Verifica que abriste la clase y tarea correctas.",
+      "Anota el aviso sin incluir datos privados.",
+      "Pregunta al maestro. No intentes evitar el bloqueo."
+    ],
+    "why": "La disponibilidad depende de la configuración del maestro."
+  },
+  {
+    "id": "cl04-011",
+    "title": "Calendario de Classroom",
+    "aliases": [
+      "calendario tareas",
+      "ver calendario entregas"
+    ],
+    "steps": [
+      "Abre la clase o el menú de Classroom.",
+      "Busca el calendario disponible para tu cuenta.",
+      "Revisa las fechas de tus propias tareas."
+    ],
+    "why": "El calendario ayuda a planificar entregas."
+  },
+  {
+    "id": "cl04-012",
+    "title": "Código de clase no funciona",
+    "aliases": [
+      "codigo incorrecto",
+      "no puedo unirme a clase"
+    ],
+    "steps": [
+      "Comprueba que usas tu cuenta escolar.",
+      "Revisa el código que el maestro te dio sin compartirlo aquí.",
+      "Si no funciona, pide al maestro que revise tu inscripción."
+    ],
+    "why": "El código puede estar desactivado o pertenecer a otra clase."
+  },
+  {
+    "id": "cl04-013",
+    "title": "Abrir mi copia de un documento asignado",
+    "aliases": [
+      "mi copia asignada",
+      "abrir documento de tarea"
+    ],
+    "steps": [
+      "Abre la tarea y busca Tu trabajo (Your work).",
+      "Abre la copia que lleva tu nombre si el maestro la asignó.",
+      "Trabaja en esa copia y vuelve a Classroom para entregar."
+    ],
+    "why": "La copia individual permite que el maestro revise tu trabajo."
+  },
+  {
+    "id": "cl04-014",
+    "title": "Documento de Classroom solo lectura",
+    "aliases": [
+      "solo ver documento",
+      "no puedo editar tarea"
+    ],
+    "steps": [
+      "Comprueba si abriste un ejemplo o tu propia copia.",
+      "Revisa si ya entregaste la tarea.",
+      "Si necesitas editar, sigue las reglas del maestro sobre correcciones y permisos."
+    ],
+    "why": "Los archivos de ejemplo y las tareas entregadas pueden limitar la edición."
+  },
+  {
+    "id": "cl04-015",
+    "title": "Marcar como completada o Entregar",
+    "aliases": [
+      "marcar como hecha",
+      "marcar completada versus entregar"
+    ],
+    "steps": [
+      "Lee qué producto pide la tarea.",
+      "Adjunta los archivos requeridos antes de terminar.",
+      "Usa el botón disponible y confirma que el estado corresponde al trabajo que hiciste."
+    ],
+    "why": "El botón depende del tipo de tarea y de los archivos adjuntos."
+  },
+  {
+    "id": "cl04-016",
+    "title": "Carga de archivo detenida",
+    "aliases": [
+      "subida atascada",
+      "archivo cargando sin terminar"
+    ],
+    "steps": [
+      "Espera un momento sin cerrar la pestaña.",
+      "Comprueba la conexión aprobada y que tu archivo esté guardado.",
+      "Si no termina, anota el error y avisa al maestro antes de repetir la carga."
+    ],
+    "why": "Cerrar la página durante una carga puede interrumpirla."
+  },
+  {
+    "id": "cl04-017",
+    "title": "Entregar una imagen descargada",
+    "aliases": [
+      "entregar png",
+      "adjuntar imagen descargada"
+    ],
+    "steps": [
+      "Abre la tarea y el área Tu trabajo.",
+      "Selecciona Añadir o crear y elige Archivo.",
+      "Busca tu PNG o JPG, espera la carga y comprueba el archivo antes de entregar."
+    ],
+    "why": "El archivo exportado es distinto del proyecto editable."
+  },
+  {
+    "id": "cl04-018",
+    "title": "Adjuntar documento de Drive",
+    "aliases": [
+      "adjuntar drive",
+      "entregar documento de google"
+    ],
+    "steps": [
+      "Abre la tarea correcta en Classroom.",
+      "En Tu trabajo, selecciona Añadir o crear y Google Drive.",
+      "Elige tu documento, verifica que sea correcto y entrega cuando esté listo."
+    ],
+    "why": "Adjuntar el documento correcto permite revisarlo sin crear copias innecesarias."
+  },
+  {
+    "id": "cl04-019",
+    "title": "Entregar varios archivos",
+    "aliases": [
+      "entregar dos archivos",
+      "adjuntar varios archivos"
+    ],
+    "steps": [
+      "Lee la lista de archivos requeridos.",
+      "Añade cada archivo a Tu trabajo y espera a que termine la carga.",
+      "Comprueba nombres y formatos antes de pulsar Entregar."
+    ],
+    "why": "Una tarea puede requerir tanto el proyecto editable como la imagen exportada."
+  },
+  {
+    "id": "cl04-020",
+    "title": "Adjunté el archivo equivocado",
+    "aliases": [
+      "archivo adjunto incorrecto",
+      "adjunte otro archivo"
+    ],
+    "steps": [
+      "Antes de entregar, identifica el archivo incorrecto en Tu trabajo.",
+      "Quita solo ese adjunto de la tarea, sin borrar el archivo original.",
+      "Añade el correcto y verifica el nombre."
+    ],
+    "why": "Quitar un adjunto no es lo mismo que eliminar el archivo original."
+  },
+  {
+    "id": "cl04-021",
+    "title": "Entregué demasiado pronto",
+    "aliases": [
+      "entregue antes de terminar",
+      "anular entrega"
+    ],
+    "steps": [
+      "Consulta las reglas de tu maestro para volver a entregar.",
+      "Si está permitido y disponible, usa Anular entrega y termina tu propio trabajo.",
+      "Entrega de nuevo y comprueba el estado."
+    ],
+    "why": "Anular una entrega puede afectar la hora y el estado de entrega."
+  },
+  {
+    "id": "cl04-022",
+    "title": "La tarea sigue como asignada",
+    "aliases": [
+      "sigue asignada",
+      "no aparece entregada"
+    ],
+    "steps": [
+      "Abre la tarea correcta y revisa Tu trabajo.",
+      "Comprueba que terminaron todas las cargas y confirma Entregar si corresponde.",
+      "Si el estado no cambia, avisa al maestro."
+    ],
+    "why": "Adjuntar archivos por sí solo puede no completar la entrega."
+  },
+  {
+    "id": "cl04-023",
+    "title": "Tarea marcada tarde o pendiente",
+    "aliases": [
+      "tarea tarde",
+      "tarea sin entregar"
+    ],
+    "steps": [
+      "Abre la tarea y revisa su fecha y estado.",
+      "Comprueba si entregaste todos los archivos requeridos.",
+      "Pregunta al maestro sobre la política de entregas tardías."
+    ],
+    "why": "TechGuide no puede cambiar fechas ni calificaciones."
+  },
+  {
+    "id": "cl04-024",
+    "title": "Trabajo devuelto para corregir",
+    "aliases": [
+      "tarea devuelta",
+      "puedo corregir tarea"
+    ],
+    "steps": [
+      "Abre la tarea devuelta y lee los comentarios del maestro.",
+      "Si permite correcciones, abre tu archivo y realiza tu propio trabajo.",
+      "Vuelve a entregar según sus instrucciones."
+    ],
+    "why": "Una devolución puede permitir editar nuevamente el archivo."
+  },
+  {
+    "id": "cl04-025",
+    "title": "No abre la vista previa del adjunto",
+    "aliases": [
+      "vista previa no abre",
+      "adjunto no se ve"
+    ],
+    "steps": [
+      "Confirma el nombre y formato del archivo.",
+      "Intenta abrir tu propio archivo con la aplicación de clase aprobada.",
+      "Si sigue sin abrir, muestra el error al maestro."
+    ],
+    "why": "Algunos formatos no tienen vista previa en Classroom."
+  },
+  {
+    "id": "cl04-026",
+    "title": "Entregué una versión anterior",
+    "aliases": [
+      "entregue version vieja",
+      "archivo antiguo"
+    ],
+    "steps": [
+      "Abre tu proyecto y comprueba que guardaste los cambios.",
+      "Localiza la última versión en el lugar aprobado.",
+      "Pregunta al maestro cómo reemplazar o volver a entregar el archivo."
+    ],
+    "why": "Exportar otra vez puede ser necesario después de editar un proyecto."
+  },
+  {
+    "id": "cl04-027",
+    "title": "Archivo demasiado grande para entregar",
+    "aliases": [
+      "archivo muy pesado",
+      "limite de archivo"
+    ],
+    "steps": [
+      "Comprueba el tamaño y el formato que pidió tu maestro.",
+      "Conserva el proyecto original y pregunta si se acepta una copia exportada más pequeña.",
+      "No uses servicios externos para comprimirlo sin permiso."
+    ],
+    "why": "Los archivos de diseño pueden ocupar mucho espacio."
+  },
+  {
+    "id": "cl04-028",
+    "title": "Ver comentarios privados",
+    "aliases": [
+      "comentarios privados",
+      "mensaje del maestro"
+    ],
+    "steps": [
+      "Abre la tarea en Classroom.",
+      "Busca la sección de comentarios privados, si está disponible.",
+      "Lee los comentarios antes de hacer correcciones."
+    ],
+    "why": "Los comentarios privados pertenecen a la comunicación de esa tarea."
+  },
+  {
+    "id": "cl04-029",
+    "title": "Encontrar comentarios en un documento",
+    "aliases": [
+      "comentarios dentro de docs",
+      "comentarios de documento"
+    ],
+    "steps": [
+      "Abre tu documento asignado.",
+      "Busca los marcadores de comentarios o el panel de comentarios.",
+      "Lee cada comentario relacionado con tu trabajo."
+    ],
+    "why": "Los comentarios pueden estar asociados con una sección concreta del documento."
+  },
+  {
+    "id": "cl04-030",
+    "title": "Encontrar la rúbrica de una tarea",
+    "aliases": [
+      "rubrica",
+      "criterios de evaluacion"
+    ],
+    "steps": [
+      "Abre la tarea completa.",
+      "Busca la rúbrica o los criterios junto a sus instrucciones.",
+      "Lee los niveles y requisitos antes de entregar."
+    ],
+    "why": "La rúbrica describe cómo se evalúa el trabajo."
+  },
+  {
+    "id": "cl04-031",
+    "title": "No veo mi calificación",
+    "aliases": [
+      "nota no aparece",
+      "calificacion sin mostrar"
+    ],
+    "steps": [
+      "Abre la tarea correcta o Ver tu trabajo.",
+      "Comprueba si el maestro ya devolvió la tarea.",
+      "Si aún no aparece, pregunta al maestro."
+    ],
+    "why": "Las calificaciones pueden estar pendientes de publicación."
+  },
+  {
+    "id": "cl04-032",
+    "title": "Mi calificación es distinta de lo esperado",
+    "aliases": [
+      "nota incorrecta",
+      "calificacion diferente"
+    ],
+    "steps": [
+      "Revisa la tarea, la rúbrica y los comentarios.",
+      "Comprueba que entregaste todos los archivos solicitados.",
+      "Pregunta al maestro en privado con una duda concreta."
+    ],
+    "why": "TechGuide no puede determinar ni cambiar una calificación."
+  },
+  {
+    "id": "cl04-033",
+    "title": "Responder a comentarios del maestro",
+    "aliases": [
+      "responder comentario",
+      "contestar maestro"
+    ],
+    "steps": [
+      "Abre la tarea o comentario correspondiente.",
+      "Usa el campo de respuesta permitido por el maestro.",
+      "Escribe tu propia pregunta o explicación respetuosa."
+    ],
+    "why": "TechGuide puede mostrar los controles, no redactar tu respuesta."
+  },
+  {
+    "id": "cl04-034",
+    "title": "No aparece el cuadro de comentario",
+    "aliases": [
+      "no puedo comentar",
+      "cuadro comentarios falta"
+    ],
+    "steps": [
+      "Comprueba que abriste la tarea completa.",
+      "Busca la sección de comentarios privados, si está disponible.",
+      "Si no ves el control, pregunta al maestro; no cambies permisos."
+    ],
+    "why": "Los maestros pueden limitar los comentarios."
+  },
+  {
+    "id": "cl04-035",
+    "title": "Desapareció un anuncio",
+    "aliases": [
+      "anuncio desaparecido",
+      "no encuentro aviso"
+    ],
+    "steps": [
+      "Abre la sección Novedades de la clase correcta.",
+      "Busca el aviso o los materiales relacionados en Trabajo de clase.",
+      "Si fue movido o borrado, pregunta al maestro."
+    ],
+    "why": "Los anuncios pueden cambiar cuando el maestro actualiza la clase."
+  },
+  {
+    "id": "cl04-036",
+    "title": "Notificación abre otra clase",
+    "aliases": [
+      "notificacion clase equivocada",
+      "enlace equivocado"
+    ],
+    "steps": [
+      "Regresa a tu lista de clases.",
+      "Abre la clase y tarea indicadas en el aviso.",
+      "Si el aviso sigue llevando a otro lugar, avisa al maestro."
+    ],
+    "why": "Un enlace antiguo puede apuntar a otro elemento."
+  },
+  {
+    "id": "cl04-037",
+    "title": "No veo trabajo de otro estudiante",
+    "aliases": [
+      "ver tarea compañero",
+      "trabajo de compañero no aparece"
+    ],
+    "steps": [
+      "Usa solo tus propios archivos o los que el maestro compartió expresamente.",
+      "Comprueba las instrucciones de una actividad grupal.",
+      "Si necesitas acceso, pide al maestro que lo gestione."
+    ],
+    "why": "El trabajo de otros estudiantes puede ser privado."
+  },
+  {
+    "id": "dr04-038",
+    "title": "Archivos recientes de Drive",
+    "aliases": [
+      "archivos recientes",
+      "ultimo archivo abierto"
+    ],
+    "steps": [
+      "Abre Google Drive con tu cuenta escolar.",
+      "Selecciona Recientes (Recent).",
+      "Busca el nombre y verifica la fecha del archivo."
+    ],
+    "why": "Recientes muestra archivos que abriste hace poco."
+  },
+  {
+    "id": "dr04-039",
+    "title": "Archivos incluidos por el maestro",
+    "aliases": [
+      "archivos compartidos maestro",
+      "compartido conmigo"
+    ],
+    "steps": [
+      "Abre Drive y busca Compartido conmigo.",
+      "Busca el nombre del archivo o el enlace de la tarea.",
+      "Si no aparece, pide al maestro el enlace aprobado."
+    ],
+    "why": "Los archivos compartidos no siempre aparecen en Mi unidad."
+  },
+  {
+    "id": "dr04-040",
+    "title": "Buscar Drive por tipo de archivo",
+    "aliases": [
+      "buscar pdf en drive",
+      "filtrar tipo de archivo"
+    ],
+    "steps": [
+      "Abre Drive y pulsa la barra de búsqueda.",
+      "Usa los filtros de tipo de archivo si están disponibles.",
+      "Selecciona el formato y añade parte del nombre."
+    ],
+    "why": "Los filtros reducen resultados sin mover archivos."
+  },
+  {
+    "id": "dr04-041",
+    "title": "Buscar Drive por fecha",
+    "aliases": [
+      "buscar por fecha",
+      "archivo modificado ayer"
+    ],
+    "steps": [
+      "Abre la búsqueda de Drive.",
+      "Usa el filtro de fecha de modificación.",
+      "Selecciona el intervalo aproximado y revisa resultados."
+    ],
+    "why": "La fecha de modificación no siempre coincide con la de creación."
+  },
+  {
+    "id": "dr04-042",
+    "title": "Crear carpeta de clase",
+    "aliases": [
+      "crear carpeta drive",
+      "organizar carpeta"
+    ],
+    "steps": [
+      "Abre tu ubicación aprobada en Mi unidad.",
+      "Pulsa Nuevo y Carpeta.",
+      "Escribe un nombre claro para tu clase."
+    ],
+    "why": "Las carpetas ayudan a organizar archivos del curso."
+  },
+  {
+    "id": "dr04-043",
+    "title": "Mover mi archivo a una carpeta",
+    "aliases": [
+      "mover archivo drive",
+      "guardar en carpeta"
+    ],
+    "steps": [
+      "Selecciona tu propio archivo en Drive.",
+      "Usa Organizar o Mover y elige tu carpeta aprobada.",
+      "Confirma el destino sin modificar permisos compartidos."
+    ],
+    "why": "Mover un archivo cambia su ubicación."
+  },
+  {
+    "id": "dr04-044",
+    "title": "Destacar archivo importante",
+    "aliases": [
+      "poner estrella drive",
+      "destacar archivo"
+    ],
+    "steps": [
+      "Busca tu archivo en Drive.",
+      "Abre el menú del archivo y busca la opción de destacar.",
+      "Revisa Destacados para volver a encontrarlo."
+    ],
+    "why": "Una estrella es un marcador, no una copia."
+  },
+  {
+    "id": "dr04-045",
+    "title": "Quitar estrella de Drive",
+    "aliases": [
+      "quitar estrella",
+      "dejar de destacar"
+    ],
+    "steps": [
+      "Abre Destacados en Drive.",
+      "Selecciona tu archivo y busca quitar de destacados.",
+      "Comprueba que sigue en su carpeta original."
+    ],
+    "why": "Quitar una estrella no borra el archivo."
+  },
+  {
+    "id": "dr04-046",
+    "title": "Dónde está guardado un archivo de Drive",
+    "aliases": [
+      "ubicacion archivo drive",
+      "en que carpeta esta"
+    ],
+    "steps": [
+      "Busca tu archivo en Drive.",
+      "Revisa su ubicación en los detalles o en el menú Organizar.",
+      "Abre la carpeta correspondiente si tienes acceso."
+    ],
+    "why": "El lugar de almacenamiento ayuda a encontrar el archivo después."
+  },
+  {
+    "id": "dr04-047",
+    "title": "Vista de lista o cuadrícula en Drive",
+    "aliases": [
+      "vista cuadricula",
+      "ver archivos como lista"
+    ],
+    "steps": [
+      "Abre tu carpeta de Drive.",
+      "Busca el botón de vista de lista o cuadrícula.",
+      "Prueba la vista que facilite reconocer nombres e imágenes."
+    ],
+    "why": "Cambiar la vista no cambia los archivos."
+  },
+  {
+    "id": "dr04-048",
+    "title": "Ordenar archivos por nombre",
+    "aliases": [
+      "orden alfabetico drive",
+      "ordenar carpeta"
+    ],
+    "steps": [
+      "Abre tu carpeta en Drive.",
+      "Busca el control de orden junto a los encabezados.",
+      "Selecciona nombre si quieres orden alfabético."
+    ],
+    "why": "El orden solo afecta cómo ves la lista."
+  },
+  {
+    "id": "dr04-049",
+    "title": "Acceso directo versus archivo real",
+    "aliases": [
+      "acceso directo drive",
+      "archivo con flechita"
+    ],
+    "steps": [
+      "Mira si el archivo tiene el símbolo de acceso directo.",
+      "Abre el acceso directo si está permitido.",
+      "Si no abre, pide al propietario o maestro el acceso correcto."
+    ],
+    "why": "Un acceso directo apunta a un archivo, no contiene una copia."
+  },
+  {
+    "id": "dr04-050",
+    "title": "Encontrar archivo en papelera de Drive",
+    "aliases": [
+      "papelera drive",
+      "archivo borrado"
+    ],
+    "steps": [
+      "Abre Papelera en Drive.",
+      "Busca únicamente tu propio archivo eliminado por error.",
+      "Pide permiso al maestro si necesitas restaurarlo en un espacio compartido."
+    ],
+    "why": "La papelera puede conservar archivos durante un tiempo limitado."
+  },
+  {
+    "id": "dr04-051",
+    "title": "Dos archivos de nombre parecido",
+    "aliases": [
+      "archivos duplicados",
+      "dos versiones drive"
+    ],
+    "steps": [
+      "Busca el nombre en Drive.",
+      "Compara fecha, formato y contenido de tus propios archivos.",
+      "Usa la versión que pide el maestro y no borres los demás sin verificar."
+    ],
+    "why": "Nombres parecidos pueden representar versiones distintas."
+  },
+  {
+    "id": "dr04-052",
+    "title": "Archivo sin título",
+    "aliases": [
+      "documento sin titulo",
+      "archivo sin nombre"
+    ],
+    "steps": [
+      "Abre tu archivo y confirma el contenido.",
+      "Pulsa su nombre en la parte superior si tienes permiso de edición.",
+      "Escribe el nombre que pidió el maestro."
+    ],
+    "why": "Un nombre claro facilita encontrar y entregar el trabajo."
+  },
+  {
+    "id": "dr04-053",
+    "title": "Carpeta de Drive vacía",
+    "aliases": [
+      "carpeta vacia",
+      "no hay archivos"
+    ],
+    "steps": [
+      "Comprueba que estás en la carpeta y cuenta correctas.",
+      "Busca también en Recientes y Compartido conmigo.",
+      "Si es una carpeta de clase, pide al maestro que compruebe el acceso."
+    ],
+    "why": "La carpeta puede estar vacía o tener acceso limitado."
+  },
+  {
+    "id": "dr04-054",
+    "title": "Subir archivo local a Drive",
+    "aliases": [
+      "subir a drive",
+      "cargar archivo local"
+    ],
+    "steps": [
+      "Abre la carpeta permitida de Drive.",
+      "Pulsa Nuevo y Subir archivo; elige tu archivo guardado.",
+      "Espera a que termine la carga y verifica el nombre."
+    ],
+    "why": "Subir crea un archivo en Drive sin borrar el original local."
+  },
+  {
+    "id": "dr04-055",
+    "title": "Descargar un archivo permitido de Drive",
+    "aliases": [
+      "descargar desde drive",
+      "bajar archivo"
+    ],
+    "steps": [
+      "Selecciona el archivo que el maestro permite descargar.",
+      "Usa Descargar si está disponible.",
+      "Busca la copia en Descargas y revisa su formato."
+    ],
+    "why": "La copia local no se actualiza automáticamente con el archivo en Drive."
+  },
+  {
+    "id": "dr04-056",
+    "title": "Drive descargó un ZIP",
+    "aliases": [
+      "descarga zip",
+      "varios archivos zip"
+    ],
+    "steps": [
+      "Busca el ZIP en Descargas.",
+      "Abre o extrae el ZIP con la herramienta aprobada del equipo.",
+      "Comprueba los archivos incluidos antes de abrirlos."
+    ],
+    "why": "Drive puede agrupar varios archivos en una sola descarga."
+  },
+  {
+    "id": "dr04-057",
+    "title": "Falló la carga en Drive",
+    "aliases": [
+      "subida fallida",
+      "no sube a drive"
+    ],
+    "steps": [
+      "Comprueba que tu archivo original sigue guardado.",
+      "Revisa la conexión aprobada y el mensaje de error.",
+      "Si la carga no termina, pide ayuda antes de intentarlo muchas veces."
+    ],
+    "why": "Una interrupción puede dejar la carga incompleta."
+  },
+  {
+    "id": "dr04-058",
+    "title": "Drive indica sin conexión",
+    "aliases": [
+      "drive sin internet",
+      "drive desconectado"
+    ],
+    "steps": [
+      "Comprueba la conexión escolar sin cambiar ajustes de red.",
+      "Si ya tienes una copia disponible sin conexión, abre esa copia.",
+      "Si no, espera la conexión o pide ayuda al maestro."
+    ],
+    "why": "No todos los archivos están disponibles sin conexión."
+  },
+  {
+    "id": "dr04-059",
+    "title": "Cambios de Docs no guardados",
+    "aliases": [
+      "docs no guarda",
+      "guardado pendiente"
+    ],
+    "steps": [
+      "Mantén el documento abierto.",
+      "Comprueba el indicador de guardado y la conexión escolar.",
+      "Si hay un aviso de error, conserva tu trabajo y pide ayuda antes de cerrar."
+    ],
+    "why": "La sincronización puede tardar cuando falla la red."
+  },
+  {
+    "id": "dr04-060",
+    "title": "Enlace de Drive abre otra cuenta",
+    "aliases": [
+      "cuenta equivocada drive",
+      "enlace otra cuenta"
+    ],
+    "steps": [
+      "Revisa el icono de tu cuenta en Drive.",
+      "Abre el enlace con tu cuenta escolar asignada.",
+      "Si el acceso falla, pide ayuda sin usar credenciales de otra persona."
+    ],
+    "why": "Los permisos dependen de la cuenta que abre el enlace."
+  },
+  {
+    "id": "dr04-061",
+    "title": "Solicitar acceso a archivo del maestro",
+    "aliases": [
+      "solicitar acceso",
+      "permiso denegado drive"
+    ],
+    "steps": [
+      "Verifica que usas tu cuenta escolar y el enlace correcto.",
+      "Si aparece Solicitar acceso y el maestro lo permite, úsalo.",
+      "Si no se resuelve, pide al maestro que revise el enlace."
+    ],
+    "why": "Solo el propietario o personal autorizado puede conceder acceso."
+  },
+  {
+    "id": "dr04-062",
+    "title": "Lector, comentarista y editor",
+    "aliases": [
+      "lector editor comentarista",
+      "tipos de acceso drive"
+    ],
+    "steps": [
+      "Revisa qué acciones permite el archivo.",
+      "Usa solo las acciones disponibles: ver, comentar o editar.",
+      "Si necesitas otra función, pide permiso al maestro."
+    ],
+    "why": "Cada rol limita las acciones sobre un archivo."
+  },
+  {
+    "id": "dr04-063",
+    "title": "Drive no tiene espacio",
+    "aliases": [
+      "drive lleno",
+      "cuota de almacenamiento"
+    ],
+    "steps": [
+      "Guarda tu trabajo en el lugar aprobado si es posible.",
+      "Anota el aviso de almacenamiento.",
+      "Pide ayuda al maestro sin borrar archivos desconocidos."
+    ],
+    "why": "La cuota puede impedir cargas nuevas."
+  },
+  {
+    "id": "dr04-064",
+    "title": "Archivo de Google pertenece a otra persona",
+    "aliases": [
+      "no soy propietario",
+      "archivo de otro dueno"
+    ],
+    "steps": [
+      "Comprueba quién comparte el archivo.",
+      "Usa únicamente los permisos concedidos.",
+      "Si necesitas una copia o cambios, pregunta al maestro."
+    ],
+    "why": "El propietario controla el acceso y otras opciones del archivo."
+  },
+  {
+    "id": "dr04-065",
+    "title": "Ver tamaño de archivo en Drive",
+    "aliases": [
+      "tamano archivo drive",
+      "cuanto pesa archivo"
+    ],
+    "steps": [
+      "Selecciona tu archivo en Drive.",
+      "Abre Detalles o revisa la columna de tamaño si aparece.",
+      "Compara el dato con el límite que indicó el maestro."
+    ],
+    "why": "Los formatos nativos de Google pueden mostrarse de forma distinta a archivos subidos."
+  },
+  {
+    "id": "dr04-066",
+    "title": "Vista previa de PDF en blanco",
+    "aliases": [
+      "pdf blanco drive",
+      "no se ve pdf"
+    ],
+    "steps": [
+      "Comprueba el nombre y deja terminar la carga.",
+      "Si está permitido, descarga tu PDF y ábrelo en el visor aprobado.",
+      "Si continúa en blanco, avisa al maestro."
+    ],
+    "why": "Una vista previa puede fallar aunque el original esté bien."
+  },
+  {
+    "id": "dr04-067",
+    "title": "Acceso directo de Drive sin permiso",
+    "aliases": [
+      "acceso directo denegado",
+      "no abre acceso directo"
+    ],
+    "steps": [
+      "Comprueba la cuenta escolar y el enlace.",
+      "Pide al maestro acceso al archivo original.",
+      "No cambies permisos ni uses otra cuenta para evitar la restricción."
+    ],
+    "why": "El acceso directo no concede acceso al archivo original."
+  }
+]

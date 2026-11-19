@@ -1,0 +1,18 @@
+{
+  "name": "TechGuide Student Help Desk",
+  "short_name": "TechGuide",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3fa",
+  "theme_color": "#142745",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
