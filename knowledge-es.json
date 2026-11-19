@@ -8,11 +8,12 @@
       "sin energia"
     ],
     "steps": [
-      "Conecta el cargador aprobado a una toma permitida.",
-      "Espera unos minutos y observa si hay luz de carga.",
-      "Pulsa Encendido una vez. Si no responde, avisa al maestro."
+      "Coloca el Chromebook en una mesa. Usa solo el cargador escolar que entra en el puerto lateral sin fuerza.",
+      "Pide ayuda para conectarlo a una toma autorizada. Espera 10–15 minutos y busca una luz de carga.",
+      "Abre la tapa y pulsa Encendido una vez. Si no aparece la pantalla de inicio, avisa al maestro."
     ],
-    "why": "Una batería descargada puede tardar en reaccionar. Nunca abras el equipo."
+    "why": "Una batería descargada puede tardar en reaccionar. Nunca abras el equipo.",
+    "flow": "walkthrough"
   },
   {
     "id": "t002",
@@ -23,11 +24,12 @@
       "cargador no funciona"
     ],
     "steps": [
-      "Comprueba que el cargador aprobado esté conectado en ambos extremos.",
-      "Si ves daños o notas calor anormal, no lo toques y avisa al maestro.",
-      "Si aún no carga, pide al maestro que pruebe otro cargador aprobado."
+      "Mira el cable y el conector. Si ves daños o hay calor excesivo, deja de usarlo y avisa al maestro.",
+      "Comprueba que el cargador escolar esté conectado al puerto correcto y a una toma autorizada.",
+      "Si la pantalla funciona, pulsa la hora abajo a la derecha y busca el símbolo de batería en carga. Si no carga, pide ayuda."
     ],
-    "why": "El cargador debe ser compatible y estar en buen estado."
+    "why": "El cargador debe ser compatible y estar en buen estado.",
+    "flow": "walkthrough"
   },
   {
     "id": "t003",
@@ -38,11 +40,12 @@
       "raton tactil"
     ],
     "steps": [
-      "Asegúrate de que tus dedos y el panel estén limpios y secos.",
-      "Desliza un dedo y prueba un toque suave.",
-      "Si falla, pide permiso para usar un ratón aprobado."
+      "Busca el rectángulo debajo del teclado. Seca tus dedos.",
+      "Desliza un dedo por el centro y observa si se mueve la flecha.",
+      "Toca un botón de la pantalla con el puntero. Si no responde, pide permiso para probar un ratón escolar."
     ],
-    "why": "El panel necesita contacto limpio y seco."
+    "why": "El panel necesita contacto limpio y seco.",
+    "flow": "walkthrough"
   },
   {
     "id": "t004",
@@ -52,10 +55,12 @@
       "clic secundario"
     ],
     "steps": [
-      "Toca el panel táctil con dos dedos a la vez.",
-      "Elige la opción necesaria o toca fuera del menú para cerrarlo."
+      "Coloca la flecha sobre el elemento que quieres seleccionar.",
+      "Toca el panel táctil con dos dedos juntos. Aparecerá un menú pequeño.",
+      "Elige la opción que necesitas o toca fuera del menú para cerrarlo."
     ],
-    "why": "Dos dedos suelen abrir el menú contextual."
+    "why": "Dos dedos suelen abrir el menú contextual.",
+    "flow": "walkthrough"
   },
   {
     "id": "t005",
@@ -66,11 +71,12 @@
       "pantallazo"
     ],
     "steps": [
-      "Pulsa la tecla de captura o Ctrl + Mayús + Mostrar ventanas.",
-      "Elige captura de imagen y selecciona pantalla completa o un área.",
-      "Busca la captura en la notificación o en Archivos > Descargas. Captura solo tu propio trabajo."
+      "Busca la tecla Mostrar ventanas: un rectángulo con líneas en la fila superior. Pulsa Ctrl + Mostrar ventanas.",
+      "Busca la notificación con la imagen capturada.",
+      "Abre Archivos con Mayús + Alt + M y elige Mis archivos > Descargas. Busca el PNG reciente. No compartas información privada."
     ],
-    "why": "Mostrar ventanas suele tener un icono de rectángulo con líneas."
+    "why": "Mostrar ventanas suele tener un icono de rectángulo con líneas.",
+    "flow": "walkthrough"
   },
   {
     "id": "t006",
@@ -80,10 +86,12 @@
       "subir brillo"
     ],
     "steps": [
-      "Pulsa unas veces la tecla de aumentar brillo.",
-      "Toca una tecla para comprobar si el equipo está despierto. Si sigue en negro, avisa al maestro."
+      "Busca las teclas con soles en la fila superior.",
+      "Pulsa el sol grande unas veces hasta ver la barra de brillo y leer la pantalla.",
+      "Si no aparece nada, usa el cargador escolar y pide ayuda al maestro."
     ],
-    "why": "El brillo es un control cotidiano."
+    "why": "El brillo es un control cotidiano.",
+    "flow": "walkthrough"
   },
   {
     "id": "t007",
@@ -93,10 +101,11 @@
       "pantalla al reves"
     ],
     "steps": [
-      "Muestra la pantalla girada a tu maestro.",
-      "Pídele que restaure la orientación aprobada. No cambies otros ajustes."
+      "Muestra al maestro que la imagen está girada de lado o al revés.",
+      "Pide que restaure la orientación autorizada. No cambies la configuración de pantalla por tu cuenta."
     ],
-    "why": "La orientación puede afectar las adaptaciones y el equipo escolar."
+    "why": "La orientación puede afectar las adaptaciones y el equipo escolar.",
+    "flow": "walkthrough"
   },
   {
     "id": "t008",
@@ -106,11 +115,12 @@
       "chromebook no responde"
     ],
     "steps": [
-      "Espera un momento por si una aplicación está procesando algo.",
-      "Intenta cambiar a otra pestaña o ventana. Guarda tu trabajo si responde.",
-      "Si nada responde, avisa al maestro antes de reiniciar o apagar a la fuerza."
+      "Espera un momento y mueve un dedo en el panel táctil. Mira si se mueve la flecha.",
+      "Pulsa Alt + Tab para probar otra aplicación abierta. Si responde, regresa a la primera y guarda el trabajo.",
+      "Si nada responde, avisa al maestro antes de reiniciar."
     ],
-    "why": "Apagar a la fuerza puede perder trabajo sin guardar."
+    "why": "Apagar a la fuerza puede perder trabajo sin guardar.",
+    "flow": "walkthrough"
   },
   {
     "id": "t009",
@@ -121,11 +131,12 @@
       "no hay sonido"
     ],
     "steps": [
-      "Pulsa subir volumen una o dos veces, a un nivel cómodo.",
-      "Comprueba si el video o la pestaña tiene su propio botón de silencio.",
-      "Si usas auriculares aprobados, revisa su conexión. Si sigue el problema, avisa al maestro."
+      "Pulsa la tecla de altavoz con ondas en la fila superior. Busca la barra de volumen.",
+      "Mueve la flecha sobre el video y busca su altavoz, normalmente abajo. Si está tachado, actívalo solo si se permite sonido.",
+      "Baja el volumen y comprueba que los auriculares autorizados estén conectados. Si sigue sin sonido, avisa al maestro."
     ],
-    "why": "El volumen de la aplicación y del equipo son distintos."
+    "why": "El volumen de la aplicación y del equipo son distintos.",
+    "flow": "walkthrough"
   },
   {
     "id": "t010",
@@ -136,11 +147,12 @@
       "chromebook desconectado"
     ],
     "steps": [
-      "Haz clic en la hora y mira el icono de Wi-Fi sin cambiar la configuración.",
-      "Comprueba si tampoco cargan otros sitios de clase autorizados.",
-      "Explica al maestro qué sitio o red no funciona. No te conectes a otra red sin permiso."
+      "Pulsa la hora abajo a la derecha. Mira el símbolo de wifi y el nombre de la red sin cambiarlo.",
+      "Prueba otra página de clase autorizada en una pestaña nueva.",
+      "Si ambas fallan, avisa al maestro. Si falla solo una, muestra el mensaje de error. No cambies de red."
     ],
-    "why": "Así se distingue una falla de red de una falla del equipo."
+    "why": "Así se distingue una falla de red de una falla del equipo.",
+    "flow": "walkthrough"
   },
   {
     "id": "t011",
@@ -150,11 +162,12 @@
       "archivo descargado perdido"
     ],
     "steps": [
-      "Abre el iniciador y elige Archivos (Files).",
-      "Ve a Mis archivos > Descargas y busca por nombre o fecha.",
-      "Abre únicamente archivos que reconozcas y tengas permiso de usar."
+      "Pulsa Mayús + Alt + M para abrir Archivos, o busca la aplicación Archivos desde el lanzador.",
+      "En la columna izquierda pulsa Mis archivos > Descargas.",
+      "Busca el nombre del archivo. Puedes ordenar por fecha de modificación. Si falta, abre Chrome y pulsa Ctrl + J."
     ],
-    "why": "Descargas locales y Google Drive son ubicaciones distintas."
+    "why": "Descargas locales y Google Drive son ubicaciones distintas.",
+    "flow": "walkthrough"
   },
   {
     "id": "t012",
@@ -164,10 +177,12 @@
       "otra aplicacion"
     ],
     "steps": [
-      "Pulsa Mostrar ventanas.",
-      "Elige la ventana que buscas o usa Alt + Tab."
+      "Mantén Alt y pulsa Tab. Aparecerán las ventanas abiertas.",
+      "Sigue pulsando Tab hasta resaltar la ventana que quieres y suelta Alt.",
+      "También puedes pulsar Mostrar ventanas en la fila superior y elegir una vista previa."
     ],
-    "why": "Tu trabajo puede estar detrás de otra ventana."
+    "why": "Tu trabajo puede estar detrás de otra ventana.",
+    "flow": "walkthrough"
   },
   {
     "id": "t013",
@@ -178,11 +193,12 @@
       "raton no responde"
     ],
     "steps": [
-      "Si tiene cable, comprueba que el USB esté bien conectado. Si es inalámbrico, revisa su interruptor y receptor aprobado.",
-      "Prueba en una superficie plana y lisa.",
-      "Pide al maestro que pruebe un ratón de repuesto. No desconectes el de otro estudiante."
+      "Sigue el cable del ratón hasta la computadora. Si no tiene cable, busca el interruptor ON/OFF debajo.",
+      "Con permiso, verifica que su conector USB esté bien colocado en el puerto asignado. Mueve el ratón sobre una superficie mate.",
+      "Si la flecha no se mueve, pide probar un ratón de repuesto. Si tampoco funciona el teclado, avisa al maestro."
     ],
-    "why": "La conexión, la superficie o la energía pueden impedir el movimiento."
+    "why": "La conexión, la superficie o la energía pueden impedir el movimiento.",
+    "flow": "walkthrough"
   },
   {
     "id": "t014",
@@ -193,11 +209,12 @@
       "cambiar boton principal"
     ],
     "steps": [
-      "Con permiso del maestro, abre Configuración de Windows y busca Mouse.",
-      "Cambia únicamente Botón principal del mouse a izquierda o derecha. Si está bloqueado, pide ayuda.",
-      "Prueba un clic. No modifiques otros ajustes."
+      "Pide permiso al maestro. Haz clic en el logo de Windows y escribe Mouse settings (Configuración del mouse).",
+      "Busca Primary mouse button (Botón principal del mouse). Elige Derecho para la mano izquierda o Izquierdo para la derecha.",
+      "Prueba un clic y cierra Configuración sin cambiar nada más. Si está bloqueado, pide ayuda."
     ],
-    "why": "Es una adaptación básica permitida solo según las reglas escolares."
+    "why": "Es una adaptación básica permitida solo según las reglas escolares.",
+    "flow": "walkthrough"
   },
   {
     "id": "t015",
@@ -207,11 +224,12 @@
       "scroll no funciona"
     ],
     "steps": [
-      "Prueba la barra de desplazamiento de la ventana.",
-      "Coloca el puntero sobre una zona desplazable y prueba la rueda.",
-      "Si falla en varias aplicaciones, avisa al maestro."
+      "Abre una página larga en una aplicación autorizada y coloca la flecha sobre el texto.",
+      "Gira la rueda hacia ti para bajar. Mira si se mueve la barra de desplazamiento de la derecha.",
+      "Prueba arrastrar esa barra. Si funciona pero la rueda falla en varias aplicaciones, pide otro ratón."
     ],
-    "why": "Cada panel puede manejar el desplazamiento de forma distinta."
+    "why": "Cada panel puede manejar el desplazamiento de forma distinta.",
+    "flow": "walkthrough"
   },
   {
     "id": "t016",
@@ -221,11 +239,12 @@
       "no puedo escribir"
     ],
     "steps": [
-      "Haz clic en un campo de texto y escribe una palabra de prueba.",
-      "Revisa que tu teclado aprobado esté conectado.",
-      "Si sigue sin responder, avisa al maestro. No retires teclas ni lo abras."
+      "Haz clic en un documento de prueba hasta ver el cursor parpadeante. Escribe una palabra.",
+      "Si no aparece nada, sigue el cable del teclado hasta su puerto USB accesible y verifica la conexión con permiso.",
+      "Pulsa Bloq Mayús y observa su luz si tiene una. Si no responde, avisa al maestro."
     ],
-    "why": "Un campo de texto inactivo puede parecer una falla del teclado."
+    "why": "Un campo de texto inactivo puede parecer una falla del teclado.",
+    "flow": "walkthrough"
   },
   {
     "id": "t017",
@@ -235,10 +254,12 @@
       "teclado numerico"
     ],
     "steps": [
-      "Haz clic en un campo de texto y pulsa Num Lock una vez.",
-      "Prueba un número del teclado numérico. Si falla, avisa al maestro."
+      "Busca Num Lock o Bloq Num en la parte superior del teclado numérico a la derecha.",
+      "Púlsalo una vez. Haz clic en un documento de prueba y pulsa el número 5 del teclado numérico.",
+      "Si no escribe números, usa la fila de números encima de las letras y pide ayuda."
     ],
-    "why": "Num Lock cambia la función del teclado numérico."
+    "why": "Num Lock cambia la función del teclado numérico.",
+    "flow": "walkthrough"
   },
   {
     "id": "t018",
@@ -248,10 +269,12 @@
       "caps lock"
     ],
     "steps": [
-      "Pulsa Caps Lock una vez y prueba una letra.",
-      "Comprueba que Mayús no esté presionada. Si hay una tecla atascada, avisa al maestro."
+      "Busca Caps Lock o Bloq Mayús a la izquierda de A y púlsalo una vez.",
+      "Escribe unas letras en un documento de prueba sin mantener pulsada Mayús.",
+      "Si siguen apareciendo mayúsculas, suelta ambas teclas Mayús. Si una está atascada, avisa al maestro."
     ],
-    "why": "Caps Lock y Mayús cambian las mayúsculas."
+    "why": "Caps Lock y Mayús cambian las mayúsculas.",
+    "flow": "walkthrough"
   },
   {
     "id": "t019",
@@ -262,11 +285,12 @@
       "sin senal"
     ],
     "steps": [
-      "Revisa la luz de encendido del monitor y pulsa su botón si hace falta.",
-      "Observa si hay cables flojos sin mover el equipo ni meter la mano detrás. Pide al maestro que los conecte.",
-      "Avísale si aparece Sin señal o sigue la pantalla negra."
+      "Busca la luz y el símbolo de encendido en el borde del monitor. Con permiso, pulsa su botón una vez.",
+      "Mira si la computadora tiene una luz de encendido. No signal significa que el monitor está encendido pero no recibe imagen.",
+      "Explica al maestro qué luces o mensajes ves. No muevas cables detrás del equipo."
     ],
-    "why": "El monitor puede estar apagado aunque la computadora esté encendida."
+    "why": "El monitor puede estar apagado aunque la computadora esté encendida.",
+    "flow": "walkthrough"
   },
   {
     "id": "t020",
@@ -277,11 +301,12 @@
       "headphones"
     ],
     "steps": [
-      "Revisa que los auriculares aprobados estén conectados como te enseñó el maestro.",
-      "Revisa el silencio y volumen de los auriculares y de la aplicación.",
-      "Mantén el volumen bajo al probar. Si falla, avisa al maestro."
+      "Pausa el video. Sigue el cable de los auriculares hasta su puerto asignado y revisa la conexión con permiso.",
+      "Busca la rueda de volumen o el interruptor de silencio del auricular. Haz clic en el altavoz junto al reloj de Windows.",
+      "Reproduce un sonido autorizado a volumen bajo. Si sigue sin sonido, pide ayuda."
     ],
-    "why": "Muchos auriculares tienen sus propios controles."
+    "why": "Muchos auriculares tienen sus propios controles.",
+    "flow": "walkthrough"
   },
   {
     "id": "t021",
@@ -291,11 +316,12 @@
       "mic no funciona"
     ],
     "steps": [
-      "Revisa el interruptor de silencio del micrófono.",
-      "Comprueba el botón de silencio en la aplicación aprobada. Haz una prueba solo con permiso.",
-      "Si el acceso está bloqueado, avisa al maestro; no cambies permisos."
+      "Busca el interruptor de silencio del micrófono en el cable o auricular. Algunos se silencian al subir el brazo.",
+      "En la aplicación autorizada, busca el símbolo del micrófono. Una raya suele indicar silencio; actívalo solo con permiso.",
+      "Usa la prueba de micrófono si está permitida. Si el acceso está bloqueado, avisa al maestro."
     ],
-    "why": "La escuela y la aplicación controlan el acceso al micrófono."
+    "why": "La escuela y la aplicación controlan el acceso al micrófono.",
+    "flow": "walkthrough"
   },
   {
     "id": "t022",
@@ -305,11 +331,12 @@
       "camara negra"
     ],
     "steps": [
-      "Revisa si hay una cubierta física. Ábrela solo con permiso.",
-      "Comprueba el botón de cámara en la aplicación aprobada.",
-      "Si el acceso está bloqueado, avisa al maestro."
+      "Busca la lente encima de la pantalla o en la cámara externa. Abre la tapa física solo con permiso.",
+      "En la aplicación autorizada, busca el botón con símbolo de cámara de video. Actívalo cuando el maestro lo indique.",
+      "Comprueba la vista previa. Si falta permiso o la cámara está ocupada, avisa al maestro."
     ],
-    "why": "No se deben eludir restricciones de privacidad."
+    "why": "No se deben eludir restricciones de privacidad.",
+    "flow": "walkthrough"
   },
   {
     "id": "t023",
@@ -319,11 +346,12 @@
       "memoria usb no funciona"
     ],
     "steps": [
-      "Usa solo dispositivos aprobados. Comprueba que el conector esté bien colocado y sin daños.",
-      "Si es almacenamiento, abre Explorador de archivos > Este equipo.",
-      "Si no aparece, avisa al maestro. Nunca instales controladores ni formatees la unidad."
+      "Usa únicamente el dispositivo USB asignado y verifica que encaje sin fuerza en un puerto autorizado.",
+      "Si es una memoria, pulsa Windows+E y selecciona Este equipo (This PC) a la izquierda. Busca el nombre de la unidad.",
+      "Si no aparece, pide ayuda. No formatees ni instales controladores."
     ],
-    "why": "Una política escolar o una falla puede impedir su uso."
+    "why": "Una política escolar o una falla puede impedir su uso.",
+    "flow": "walkthrough"
   },
   {
     "id": "t024",
@@ -333,11 +361,12 @@
       "lapiz digital no funciona"
     ],
     "steps": [
-      "Comprueba que la tableta esté conectada y que sea el lápiz correcto.",
-      "Abre un documento de dibujo aprobado y elige un pincel en una capa editable.",
-      "Si falla, avisa al maestro. No instales controladores."
+      "Comprueba que el lápiz pertenece a tu tableta. Muévelo un poco por encima de la superficie y observa la flecha.",
+      "En un documento de prueba de Photoshop, pulsa B y selecciona una capa de píxeles visible y desbloqueada.",
+      "Haz un trazo pequeño. Si se mueve la flecha pero no dibuja, o no se mueve en absoluto, explica el resultado al maestro."
     ],
-    "why": "Una capa bloqueada puede parecer un problema de la tableta."
+    "why": "Una capa bloqueada puede parecer un problema de la tableta.",
+    "flow": "walkthrough"
   },
   {
     "id": "t025",
@@ -347,11 +376,12 @@
       "aplicacion no responde"
     ],
     "steps": [
-      "Espera brevemente mientras el programa termina de procesar.",
-      "Si responde, guarda tu trabajo en la ubicación asignada.",
-      "Si sigue congelado, pide ayuda antes de cerrarlo o reiniciar."
+      "Si aparece un círculo giratorio o No responde, espera aproximadamente un minuto sin hacer clic repetidamente.",
+      "Haz clic una vez en la barra de título. Si responde, guarda con Ctrl+S.",
+      "Si sigue congelado, avisa al maestro y explica si guardaste. No fuerces el cierre ni reinicies."
     ],
-    "why": "Cerrar un programa puede perder cambios sin guardar."
+    "why": "Cerrar un programa puede perder cambios sin guardar.",
+    "flow": "walkthrough"
   },
   {
     "id": "t026",
@@ -361,11 +391,12 @@
       "captura windows"
     ],
     "steps": [
-      "Pulsa Windows + Mayús + S.",
-      "Arrastra sobre el área deseada o elige el modo de captura.",
-      "Abre la notificación si aparece y guarda o pega la captura donde se pidió. Solo captura trabajo permitido."
+      "Mantén pulsadas las teclas Windows y Mayús, pulsa S y suelta las teclas.",
+      "Cuando se oscurezca la pantalla, elige el recorte rectangular y arrastra alrededor de tu propio trabajo.",
+      "Abre la notificación de captura si aparece y guarda con el icono de disco, o pega con Ctrl+V en la diapositiva asignada."
     ],
-    "why": "No captures datos de otros estudiantes."
+    "why": "No captures datos de otros estudiantes.",
+    "flow": "walkthrough"
   },
   {
     "id": "t027",
@@ -375,10 +406,12 @@
       "ventana escondida"
     ],
     "steps": [
-      "Busca el icono de la aplicación en la barra de tareas y haz clic.",
-      "Usa Alt + Tab si necesitas recorrer las ventanas abiertas."
+      "Busca el icono del programa en la barra de tareas de abajo y haz clic una vez.",
+      "Si aparecen varias vistas previas, selecciona la que muestra el nombre de tu documento.",
+      "También puedes mantener Alt y pulsar Tab hasta seleccionar tu ventana; suelta Alt."
     ],
-    "why": "Minimizar no cierra la aplicación."
+    "why": "Minimizar no cierra la aplicación.",
+    "flow": "walkthrough"
   },
   {
     "id": "t028",
@@ -388,11 +421,12 @@
       "impresora no funciona"
     ],
     "steps": [
-      "Confirma que tienes permiso de imprimir.",
-      "Revisa la vista previa, la impresora asignada y el número de páginas.",
-      "Si ya enviaste el trabajo, pregunta antes de volver a enviarlo."
+      "Con permiso para imprimir, abre tu documento y pulsa Ctrl+P o Archivo > Imprimir.",
+      "Busca Impresora o Destino y compara el nombre con el asignado. Revisa la vista previa, las páginas y las copias.",
+      "Si ya enviaste el trabajo, no lo envíes de nuevo. Informa al maestro del documento, impresora y hora."
     ],
-    "why": "Repetir la impresión puede desperdiciar papel."
+    "why": "Repetir la impresión puede desperdiciar papel.",
+    "flow": "walkthrough"
   },
   {
     "id": "t029",
@@ -402,11 +436,12 @@
       "controlador juego"
     ],
     "steps": [
-      "Comprueba la conexión del control aprobado según las indicaciones.",
-      "Revisa si el juego admite control y si su ventana está activa.",
-      "Si falla, avisa al maestro. No instales programas ni controladores."
+      "Revisa el cable o luz del control asignado. Usa solo la conexión permitida.",
+      "Haz clic en el área del juego autorizado. Busca Controles o Ayuda para comprobar si admite mandos.",
+      "Prueba un movimiento en modo de práctica. Si no responde, pide ayuda sin instalar programas ni emparejar dispositivos."
     ],
-    "why": "No todos los juegos admiten mandos."
+    "why": "No todos los juegos admiten mandos.",
+    "flow": "walkthrough"
   },
   {
     "id": "t030",
@@ -417,11 +452,17 @@
       "enviar trabajo"
     ],
     "steps": [
-      "Abre la clase y tarea correctas en Classroom.",
-      "En Tu trabajo, abre el archivo adjunto para verificar que es el trabajo correcto.",
-      "Pulsa Entregar (Turn in) y confirma. Si usa Marcar como completada, sigue las instrucciones del maestro."
+      "Abre Classroom y haz clic en la clase correcta.",
+      "Arriba, elige Trabajo en clase, junto a Tablón o Novedades.",
+      "Haz clic en el título de la tarea y luego Ver instrucciones o Ver tarea si aparece.",
+      "Busca Tu trabajo a la derecha de las instrucciones. En una pantalla pequeña, baja hasta debajo de las instrucciones.",
+      "Si falta un archivo obligatorio, pulsa Añadir o crear. Si te asignaron un documento, abre tu copia y termínala.",
+      "Cuando aparezcan todos los archivos, pulsa Entregar y confirma.",
+      "Comprueba que el estado diga Entregada. Si solo ves Marcar como completada, sigue las instrucciones del maestro."
     ],
-    "why": "Adjuntar un archivo no siempre significa entregarlo."
+    "why": "Adjuntar un archivo no siempre significa entregarlo.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "t031",
@@ -431,11 +472,16 @@
       "agregar archivo"
     ],
     "steps": [
-      "Abre la tarea y busca Tu trabajo.",
-      "Elige Agregar o crear y selecciona Drive o Archivo según la ubicación.",
-      "Comprueba que el archivo correcto aparezca antes de entregar."
+      "Abre Classroom, selecciona la clase y pulsa Trabajo en clase.",
+      "Haz clic en el título de la tarea y abre sus instrucciones completas.",
+      "Busca Tu trabajo a la derecha o debajo de las instrucciones.",
+      "Pulsa Añadir o crear. Elige Archivo para un archivo de la computadora o Google Drive para uno guardado en línea.",
+      "En el selector, abre Descargas si acabas de exportar el archivo. Selecciónalo y pulsa Abrir o Subir.",
+      "Espera a que aparezca su nombre en Tu trabajo. Revisa que sea el archivo correcto antes de entregar."
     ],
-    "why": "Usa tu propio trabajo y el formato solicitado."
+    "why": "Usa tu propio trabajo y el formato solicitado.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "t032",
@@ -449,7 +495,9 @@
       "Espera a que se carguen los adjuntos. No pulses Entregar repetidamente.",
       "Muestra el error al maestro sin compartir datos privados."
     ],
-    "why": "Algunos errores necesitan intervención del maestro."
+    "why": "Algunos errores necesitan intervención del maestro.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "t033",
@@ -464,7 +512,9 @@
       "Busca la nota devuelta, rúbrica o comentarios privados si están disponibles.",
       "Lee las instrucciones antes de cambiar o volver a entregar."
     ],
-    "why": "Los comentarios indican qué revisar."
+    "why": "Los comentarios indican qué revisar.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "t034",
@@ -474,11 +524,16 @@
       "entregar correccion"
     ],
     "steps": [
-      "Confirma que tu maestro permite las correcciones.",
-      "Abre la tarea original y actualiza el archivo según las instrucciones.",
-      "Si está permitido, entrega de nuevo y confirma el estado."
+      "Pregunta al maestro si permite correcciones antes de cambiar una entrega.",
+      "Abre Classroom, tu clase, Trabajo en clase y la tarea original.",
+      "Busca Tu trabajo a la derecha o debajo de las instrucciones.",
+      "Si está Entregada y el maestro te da permiso, pulsa Anular entrega y confirma. Si ya fue devuelta y puedes editarla, omite este paso.",
+      "Corrige tu documento o adjunta la nueva imagen con Añadir o crear. Conserva el archivo original.",
+      "Pulsa Entregar y confirma. Comprueba el estado Entregada."
     ],
-    "why": "Las reglas de corrección dependen de la clase."
+    "why": "Las reglas de corrección dependen de la clase.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "t035",
@@ -488,11 +543,14 @@
       "mi tarea no aparece"
     ],
     "steps": [
-      "Abre la clase correcta y elige Trabajo de clase.",
-      "Busca el tema o fecha indicados por el maestro.",
-      "Si no aparece, dile al maestro qué tarea buscas."
+      "Abre Classroom y selecciona la clase correcta.",
+      "Pulsa Trabajo en clase arriba. Elige el tema de la lista izquierda o desplázate por todos los temas.",
+      "Pulsa Ctrl+F y escribe parte del título de la tarea. Pulsa Esc al encontrarla.",
+      "Si no aparece, abre el menú de tres líneas arriba a la izquierda y busca Tareas pendientes. Revisa las tareas asignadas o sin entregar. Pide ayuda al maestro si sigue sin aparecer."
     ],
-    "why": "Cada clase organiza sus tareas de forma diferente."
+    "why": "Cada clase organiza sus tareas de forma diferente.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "t036",
@@ -502,11 +560,14 @@
       "buscar archivo drive"
     ],
     "steps": [
-      "Abre Drive con tu cuenta escolar.",
-      "Busca parte del nombre o revisa Recientes o Compartido conmigo.",
-      "Verifica el título y propietario antes de editar."
+      "Abre drive.google.com con tu cuenta escolar.",
+      "Escribe parte del nombre en Buscar en Drive, arriba, y pulsa Intro.",
+      "Si no aparece, pulsa Reciente o Compartido conmigo en el menú izquierdo.",
+      "Abre el archivo correcto y revisa su título y contenido."
     ],
-    "why": "La búsqueda ayuda a encontrar archivos en distintas carpetas."
+    "why": "La búsqueda ayuda a encontrar archivos en distintas carpetas.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "t037",
@@ -521,7 +582,9 @@
       "Vuelve al enlace original de clase y prueba una vez más.",
       "Si sigue bloqueado, avisa al maestro. No uses otra cuenta ni cambies permisos."
     ],
-    "why": "Los permisos protegen el trabajo y la privacidad."
+    "why": "Los permisos protegen el trabajo y la privacidad.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "t038",
@@ -535,7 +598,9 @@
       "Usa el campo de título o Cambiar nombre y escribe el nombre solicitado.",
       "Conserva la extensión original si usas el explorador."
     ],
-    "why": "Cambiar el nombre no cambia el formato."
+    "why": "Cambiar el nombre no cambia el formato.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "t039",
@@ -549,7 +614,9 @@
       "En el documento, elige Archivo > Hacer una copia si está disponible.",
       "Nombra la copia y guárdala en la ubicación asignada."
     ],
-    "why": "Una copia es independiente del original."
+    "why": "Una copia es independiente del original.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "t040",
@@ -559,11 +626,13 @@
       "donde se guardo windows"
     ],
     "steps": [
-      "Abre Explorador de archivos con el icono de carpeta o Windows + E.",
-      "Elige Descargas y busca por nombre o fecha.",
-      "Si no aparece, mira la lista de descargas del navegador con Ctrl + J."
+      "En Windows, pulsa Windows+E para abrir el Explorador de archivos.",
+      "Selecciona Descargas en el menú izquierdo. Busca el nombre o la fecha del archivo.",
+      "Si no aparece, abre Chrome y pulsa Ctrl+J. Busca la descarga y selecciona Mostrar en carpeta si aparece."
     ],
-    "why": "La lista del navegador indica dónde se descargó."
+    "why": "La lista del navegador indica dónde se descargó.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "t041",
@@ -578,7 +647,9 @@
       "PNG y JPG son imágenes; PSD y AI son proyectos editables de Adobe; PDF es documento; ZIP es archivo comprimido.",
       "Usa el formato solicitado. Cambiar la extensión no convierte el archivo."
     ],
-    "why": "Cada formato sirve para un propósito distinto."
+    "why": "Cada formato sirve para un propósito distinto.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "t042",
@@ -592,7 +663,9 @@
       "En Windows, clic derecho > Extraer todo. En Chromebook, abre el ZIP en Archivos y copia lo necesario a la carpeta asignada.",
       "Abre los archivos extraídos para trabajar."
     ],
-    "why": "Editar desde el archivo comprimido puede causar confusión."
+    "why": "Editar desde el archivo comprimido puede causar confusión.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "t043",
@@ -606,7 +679,9 @@
       "Selecciona la carpeta aprobada y el nombre solicitado.",
       "Verifica la ubicación después de guardar."
     ],
-    "why": "Saber la ubicación facilita la entrega."
+    "why": "Saber la ubicación facilita la entrega.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "t044",
@@ -617,11 +692,13 @@
       "fuente documento"
     ],
     "steps": [
-      "Selecciona el texto que quieres cambiar.",
-      "Usa la barra de herramientas para elegir fuente, tamaño o estilo.",
-      "Comprueba la legibilidad y las instrucciones de la tarea."
+      "Arrastra sobre las palabras hasta que queden resaltadas en azul.",
+      "En la barra encima de la página, busca el nombre de la fuente, el tamaño o los botones B, I y U (pueden variar según el idioma). Elige el formato pedido.",
+      "Haz clic fuera de la selección y comprueba que solo cambiaron esas palabras. Usa Ctrl+Z si te equivocaste."
     ],
-    "why": "El formato cambia la apariencia, no las ideas."
+    "why": "El formato cambia la apariencia, no las ideas.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t045",
@@ -631,11 +708,13 @@
       "salto pagina"
     ],
     "steps": [
-      "Coloca el cursor donde debe comenzar la página.",
-      "Elige Insertar > Salto > Salto de página si el documento usa páginas.",
-      "Si no aparece, pregunta al maestro si el documento está en modo sin páginas."
+      "Haz clic justo antes de la primera palabra que debe ir en la página siguiente.",
+      "Arriba elige Insertar > Salto > Salto de página (Insert > Break > Page break) o pulsa Ctrl+Enter.",
+      "El texto siguiente debe pasar a otra página. Si el documento no usa páginas, consulta al maestro antes de cambiar el formato."
     ],
-    "why": "Un salto comienza una página nueva."
+    "why": "Un salto comienza una página nueva.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t046",
@@ -645,11 +724,13 @@
       "poner imagen documento"
     ],
     "steps": [
-      "Coloca el cursor en el lugar deseado.",
-      "Elige Insertar > Imagen y la fuente permitida.",
-      "Selecciona el archivo y ajusta el tamaño desde una esquina."
+      "Haz clic en el lugar del documento donde necesitas la imagen.",
+      "Elige Insertar > Imagen > Subir del ordenador (Insert > Image > Upload from computer) o Drive para una imagen autorizada.",
+      "Selecciona tu archivo y pulsa Abrir o Insertar. Haz clic en la imagen y arrastra una esquina para cambiar su tamaño."
     ],
-    "why": "La fuente debe estar autorizada."
+    "why": "La fuente debe estar autorizada.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t047",
@@ -659,11 +740,13 @@
       "modo presentacion"
     ],
     "steps": [
-      "Abre la presentación correcta.",
-      "Pulsa Presentación de diapositivas (Slideshow).",
-      "Usa las flechas para avanzar y Esc para salir."
+      "Abre la presentación y pulsa la miniatura de la diapositiva inicial en la columna izquierda.",
+      "Pulsa Presentación (Slideshow) cerca de la esquina superior derecha.",
+      "Usa las flechas del teclado para avanzar o retroceder. Pulsa Esc para volver al editor."
     ],
-    "why": "El modo de presentación oculta las herramientas de edición."
+    "why": "El modo de presentación oculta las herramientas de edición.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t048",
@@ -673,11 +756,13 @@
       "recortar diapositiva"
     ],
     "steps": [
-      "Selecciona la imagen de tu diapositiva.",
-      "Pulsa Recortar y arrastra los controles de recorte.",
-      "Pulsa Enter o haz clic fuera para terminar."
+      "Haz clic una vez sobre la imagen hasta ver un borde azul.",
+      "Pulsa Recortar imagen (Crop image), el icono de ángulos superpuestos en la barra superior.",
+      "Arrastra los bordes negros para ocultar la parte sobrante y pulsa Enter. Usa Ctrl+Z si recortaste demasiado."
     ],
-    "why": "Recortar oculta los bordes no deseados."
+    "why": "Recortar oculta los bordes no deseados.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t049",
@@ -687,11 +772,19 @@
       "poner texto diapositiva"
     ],
     "steps": [
-      "Elige Insertar > Cuadro de texto.",
-      "Haz clic o arrastra en la diapositiva.",
-      "Escribe tus propias palabras y ajusta el tamaño o alineación."
+      "Arriba elige Insertar > Cuadro de texto (Insert > Text box).",
+      "Arrastra un rectángulo en el lugar de la diapositiva donde van tus palabras.",
+      "Escribe tu propio texto. Selecciónalo y usa los controles de fuente y tamaño de la barra superior."
     ],
-    "why": "Un cuadro permite colocar texto donde lo necesites."
+    "why": "Un cuadro permite colocar texto donde lo necesites.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7",
+    "alternatives": [
+      {
+        "label": "El texto queda cortado",
+        "id": "gs04-134"
+      }
+    ]
   },
   {
     "id": "t050",
@@ -701,11 +794,13 @@
       "formula hojas de calculo"
     ],
     "steps": [
-      "Selecciona la celda y mira la barra de fórmulas.",
-      "Comprueba el signo = al inicio, referencias de celda y paréntesis.",
-      "Compara con el ejemplo de tu maestro. Si sigue el error, pide ayuda."
+      "Pulsa la celda con el error y busca la barra de fórmulas junto a fx, encima de las letras de las columnas.",
+      "Coloca el puntero sobre el error para leerlo. Comprueba que tu fórmula comienza con = y que las referencias y paréntesis coinciden con la lección.",
+      "Corrige tu propio error de escritura y pulsa Enter. Si continúa, muestra el mensaje al maestro."
     ],
-    "why": "La sintaxis debe estar completa; el asistente no resuelve la tarea."
+    "why": "La sintaxis debe estar completa; el asistente no resuelve la tarea.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t051",
@@ -715,11 +810,13 @@
       "ajustar texto sheets"
     ],
     "steps": [
-      "Selecciona la celda afectada.",
-      "Usa el botón Ajuste de texto y elige Ajustar (Wrap).",
-      "Si hace falta, arrastra el borde del encabezado de columna."
+      "Haz clic en la celda con texto cortado.",
+      "Elige Formato > Ajuste de texto > Ajustar (Format > Wrapping > Wrap).",
+      "La fila debe crecer para mostrar las palabras. Si falta espacio, arrastra hacia la derecha el límite entre las letras de las columnas."
     ],
-    "why": "Ajustar permite mostrar texto en varias líneas."
+    "why": "Ajustar permite mostrar texto en varias líneas.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t052",
@@ -729,11 +826,13 @@
       "error formulario"
     ],
     "steps": [
-      "Busca preguntas obligatorias con asterisco o mensajes de error.",
-      "Completa tus propias respuestas y revisa el formato solicitado.",
-      "Si el formulario está cerrado o bloqueado, avisa al maestro."
+      "Completa tus propias respuestas y busca Enviar (Submit) al final del formulario.",
+      "Si sigues viendo preguntas, busca un asterisco obligatorio o un aviso rojo debajo de alguna respuesta. Corrige tu propia entrada.",
+      "Pulsa Enviar otra vez y espera la confirmación. Si el formulario está cerrado o bloqueado, consulta al maestro."
     ],
-    "why": "Algunas preguntas requieren una respuesta válida antes de enviar."
+    "why": "Algunas preguntas requieren una respuesta válida antes de enviar.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t053",
@@ -743,11 +842,13 @@
       "meet camara"
     ],
     "steps": [
-      "Revisa los botones de micrófono y cámara de la reunión.",
-      "Comprueba auriculares aprobados y cubierta física de la cámara.",
-      "Si el acceso está bloqueado, avisa al maestro sin cambiar permisos."
+      "Mueve el puntero sobre la reunión y busca los iconos de micrófono y cámara en la parte inferior.",
+      "Con permiso, pulsa el icono necesario si tiene una línea diagonal. Comprueba la conexión de los auriculares autorizados y la tapa de la cámara si necesitas vídeo.",
+      "Pregunta si pueden oírte o verte. Si el acceso sigue bloqueado, pide ayuda al maestro."
     ],
-    "why": "Las restricciones de privacidad deben respetarse."
+    "why": "Las restricciones de privacidad deben respetarse.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t054",
@@ -757,11 +858,23 @@
       "sitio no carga"
     ],
     "steps": [
-      "Comprueba la dirección o usa el enlace del maestro.",
-      "Recarga una vez si no tienes respuestas sin guardar y prueba otro sitio de clase aprobado.",
-      "Si sigue sin cargar o está bloqueado, avisa al maestro."
+      "Compara la dirección de la pestaña con el enlace que dio tu maestro.",
+      "Si no tienes respuestas sin guardar, pulsa una vez la flecha circular junto a la barra de direcciones.",
+      "Abre otro sitio autorizado en una pestaña nueva. Si ambos fallan, avisa al maestro; si solo falla uno, muestra su mensaje de error."
     ],
-    "why": "Así se distingue un problema del sitio de uno de conexión."
+    "why": "Así se distingue un problema del sitio de uno de conexión.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7",
+    "alternatives": [
+      {
+        "label": "Sitio bloqueado por la escuela",
+        "id": "t058"
+      },
+      {
+        "label": "Aviso sospechoso",
+        "id": "t059"
+      }
+    ]
   },
   {
     "id": "t055",
@@ -772,11 +885,19 @@
       "pagina muy grande"
     ],
     "steps": [
-      "Con el navegador activo, usa Ctrl + 0 si no necesitas un zoom de accesibilidad específico.",
-      "Usa Ctrl + más o menos para leer cómodamente.",
-      "Si afecta toda la pantalla, pide ayuda sin cambiar ajustes del sistema."
+      "Haz clic dentro de la pestaña que tiene el tamaño incorrecto.",
+      "Pulsa Ctrl+0 para volver al tamaño normal solo si no necesitas el aumento por accesibilidad.",
+      "Usa Ctrl+ más o Ctrl+ menos para ajustar la vista. Si solo las letras del documento son pequeñas, revisa el tamaño de fuente del documento."
     ],
-    "why": "El zoom del navegador no es el mismo que el del sistema."
+    "why": "El zoom del navegador no es el mismo que el del sistema.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7",
+    "alternatives": [
+      {
+        "label": "Pantalla completa del navegador",
+        "id": "t057"
+      }
+    ]
   },
   {
     "id": "t056",
@@ -786,10 +907,13 @@
       "recuperar pestana"
     ],
     "steps": [
-      "Pulsa Ctrl + Mayús + T en Chrome.",
-      "Verifica que es la página que necesitas. Los datos no guardados pueden no regresar."
+      "Haz clic en la ventana de Chrome donde cerraste la pestaña.",
+      "Pulsa Ctrl+Shift+T una vez. La pestaña debe reaparecer arriba.",
+      "Comprueba su título y contenido. Las respuestas sin guardar podrían no volver; consulta antes de reiniciar una evaluación."
     ],
-    "why": "Este atajo reabre la última pestaña cerrada."
+    "why": "Este atajo reabre la última pestaña cerrada.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t057",
@@ -799,10 +923,13 @@
       "pantalla completa"
     ],
     "steps": [
-      "En Windows, prueba F11 una vez. En Chromebook, usa la tecla de pantalla completa.",
-      "Si es un video en pantalla completa, prueba Esc."
+      "Si un vídeo ocupa toda la pantalla, pulsa Esc.",
+      "Si Chrome no muestra pestañas, pulsa F11 en Windows o la tecla de pantalla completa en la fila superior del Chromebook.",
+      "Comprueba que regresan las pestañas y la barra de direcciones. Si es una pantalla de examen bloqueada, pide ayuda sin intentar salir."
     ],
-    "why": "La pantalla completa oculta algunas barras."
+    "why": "La pantalla completa oculta algunas barras.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t058",
@@ -812,11 +939,13 @@
       "web bloqueada"
     ],
     "steps": [
-      "Detente en la página de bloqueo.",
-      "Dile al maestro qué sitio educativo necesitas.",
-      "Espera la revisión del personal. No intentes otra dirección ni métodos para evadir el bloqueo."
+      "Detente cuando aparezca el aviso de bloqueo.",
+      "Dile al maestro el nombre del recurso asignado y el mensaje que ves. No escribas tus datos en el aviso.",
+      "Espera la decisión del personal escolar. No uses otras direcciones, cuentas ni herramientas para evitar el filtro."
     ],
-    "why": "Solo personal autorizado revisa restricciones de acceso."
+    "why": "Solo personal autorizado revisa restricciones de acceso.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t059",
@@ -827,11 +956,13 @@
       "estafa"
     ],
     "steps": [
-      "No pulses la alerta, llames, descargues ni introduzcas información.",
-      "Si puedes hacerlo sin interactuar con la alerta, cierra la pestaña normal.",
-      "Avisa al maestro de inmediato, especialmente si ya pulsaste algo."
+      "No pulses botones del aviso, no descargues archivos ni compartas datos.",
+      "Si es una pestaña normal, ciérrala con la X de la pestaña arriba, no con un botón del aviso.",
+      "Cuenta al maestro qué apareció y si pulsaste algo. Si no puedes cerrarlo con seguridad, déjalo y pide ayuda."
     ],
-    "why": "Las alertas falsas intentan presionarte."
+    "why": "Las alertas falsas intentan presionarte.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t060",
@@ -841,11 +972,13 @@
       "no puedo iniciar sesion"
     ],
     "steps": [
-      "Comprueba que usas la página escolar correcta y que Caps Lock no está activado.",
-      "Si no puedes entrar, pide ayuda al maestro o al personal autorizado.",
-      "Nunca escribas tu contraseña en TechGuide ni se la des a otro estudiante."
+      "Confirma que estás en la página de inicio de sesión indicada por el maestro y que aparece tu usuario escolar.",
+      "Comprueba si Bloq Mayús está activado e intenta tu contraseña conocida una vez con cuidado.",
+      "Si falla, pide ayuda al personal autorizado. Nunca compartas tu contraseña con TechGuide."
     ],
-    "why": "La recuperación de cuentas sigue el proceso escolar."
+    "why": "La recuperación de cuentas sigue el proceso escolar.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t061",
@@ -856,11 +989,13 @@
       "panel layers"
     ],
     "steps": [
-      "En Photoshop, abre Ventana (Window).",
-      "Elige Capas (Layers).",
-      "Selecciona la capa que necesitas y comprueba que esté visible."
+      "En la barra superior de Photoshop, abre Window (Ventana).",
+      "Elige Layers (Capas). Busca a la derecha la lista de miniaturas y nombres.",
+      "Si faltan todos los paneles, pulsa Tab fuera de un cuadro de texto. Pide ayuda si no aparecen."
     ],
-    "why": "Cerrar un panel no borra las capas."
+    "why": "Cerrar un panel no borra las capas.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "t062",
@@ -870,11 +1005,13 @@
       "brocha no pinta"
     ],
     "steps": [
-      "Selecciona Pincel y una capa editable y visible.",
-      "Revisa tamaño, color frontal y opacidad. Si está seleccionada una máscara, revisa si querías la miniatura de imagen.",
-      "Si hay una selección activa, pulsa Ctrl + D solo si ya no la necesitas."
+      "Pulsa B para Pincel. Abre Window > Layers y selecciona la miniatura de imagen de una capa visible y editable.",
+      "Arriba, pon Mode en Normal y Opacity y Flow al 100% para una prueba. Elige un color diferente usando el cuadrado delantero al pie de la barra izquierda.",
+      "Crea una capa vacía con + en Capas y prueba un trazo. Si funciona, revisa el candado, la máscara y la selección de la capa original. Deshaz la prueba con Ctrl+Z."
     ],
-    "why": "Capas, selecciones y opciones del pincel afectan la pintura."
+    "why": "Capas, selecciones y opciones del pincel afectan la pintura.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "t063",
@@ -885,11 +1022,12 @@
       "lineas de puntitos"
     ],
     "steps": [
-      "Guarda si es necesario.",
-      "Si terminaste la selección, elige Selección > Deseleccionar o Ctrl + D.",
-      "Comprueba que desapareció el borde móvil."
+      "Las líneas punteadas móviles indican una selección temporal.",
+      "Si ya no necesitas la selección, abre Select > Deselect (Seleccionar > Deseleccionar) o pulsa Ctrl+D.",
+      "Las líneas deben desaparecer. Si el pincel sigue limitado, revisa si está seleccionada una máscara."
     ],
-    "why": "Deseleccionar no borra los píxeles."
+    "why": "Deseleccionar no borra los píxeles.",
+    "flow": "walkthrough"
   },
   {
     "id": "t064",
@@ -899,11 +1037,13 @@
       "imagen bloqueada"
     ],
     "steps": [
-      "Elige Mover y la capa correcta en el panel Capas.",
-      "Revisa el candado y que sea la capa que quieres.",
-      "Si está bloqueada intencionalmente o es Fondo, consulta al maestro antes de cambiarla."
+      "Pulsa V para Mover. Abre Window > Layers y elige la fila del objeto.",
+      "Arriba desmarca Auto-Select si se selecciona otro objeto. Comprueba si la capa tiene candado.",
+      "Arrastra un poco el objeto. Deshaz si se mueve otro; pregunta antes de desbloquear una capa protegida."
     ],
-    "why": "Mover actúa sobre la capa seleccionada."
+    "why": "Mover actúa sobre la capa seleccionada.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "t065",
@@ -913,11 +1053,13 @@
       "imagen perdida"
     ],
     "steps": [
-      "Revisa el icono de ojo junto a la capa.",
-      "Comprueba si hay una capa opaca encima o si la opacidad está en cero.",
-      "Deshaz solo un cambio reciente no deseado. No borres capas para buscar la imagen."
+      "Abre Window > Layers y busca la miniatura de la foto. Si falta el ojo a su izquierda, pulsa ese espacio.",
+      "Comprueba Opacity arriba del panel. Si otra capa tapa la foto, apaga temporalmente el ojo de esa capa para probar.",
+      "Si hay una máscara, pulsa Mayús y haz clic en su miniatura para desactivarla temporalmente; repite para restaurarla. No borres capas."
     ],
-    "why": "Una capa oculta puede seguir existiendo."
+    "why": "Una capa oculta puede seguir existiendo.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "t066",
@@ -927,11 +1069,12 @@
       "titulo poco visible"
     ],
     "steps": [
-      "Selecciona la capa de texto y revisa su visibilidad.",
-      "Con Texto, verifica tamaño y color frente al fondo.",
-      "Comprueba que la capa de texto esté encima del fondo."
+      "Abre Window > Layers y busca la capa con miniatura T; activa su ojo.",
+      "Pulsa T y selecciona el texto. Usa los controles de tamaño y color de la barra superior para mejorar el contraste.",
+      "Si otra imagen tapa el texto, arrastra la capa de texto encima de ella en Capas. Confirma con la marca de verificación."
     ],
-    "why": "El contraste y el orden ayudan a leer."
+    "why": "El contraste y el orden ayudan a leer.",
+    "flow": "walkthrough"
   },
   {
     "id": "t067",
@@ -942,11 +1085,13 @@
       "contorno letras"
     ],
     "steps": [
-      "Selecciona la capa de texto.",
-      "Pulsa fx en Capas y elige Trazo (Stroke).",
-      "Elige color y grosor legibles, revisa y confirma."
+      "Abre Window > Layers. Selecciona la fila con la T de tu título.",
+      "Pulsa fx abajo del panel y elige Stroke (Trazo). En el diálogo elige Outside (Exterior), un color que contraste y Opacity al 100%.",
+      "Aumenta Size unos píxeles hasta ver el contorno. Pulsa OK. Para cambiarlo después, abre Effects debajo de la capa y haz doble clic en Stroke."
     ],
-    "why": "El estilo mantiene el texto editable."
+    "why": "El estilo mantiene el texto editable.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "t068",
@@ -956,11 +1101,18 @@
       "exportar imagen photoshop"
     ],
     "steps": [
-      "Guarda primero el proyecto PSD editable.",
-      "Elige Archivo > Exportar > Exportar como y el formato PNG o JPG solicitado.",
-      "Revisa la vista previa, exporta a la carpeta asignada y abre el resultado."
+      "Guarda primero el PSD editable con Ctrl+S. Abre File > Export > Export As (Archivo > Exportar > Exportar como).",
+      "Elige PNG o JPG en Format. Revisa el tamaño y la vista previa. Si necesitas fondo opaco, asegúrate de que tu lienzo tenga un fondo de color.",
+      "Pulsa Export y elige la carpeta indicada. Abre el Explorador con Windows+E y comprueba el archivo exportado."
     ],
-    "why": "PNG puede conservar transparencia; JPG no. Conserva el PSD."
+    "why": "PNG puede conservar transparencia; JPG no. Conserva el PSD.",
+    "flow": "walkthrough",
+    "alternatives": [
+      {
+        "id": "ps05-146",
+        "label": "PNG de Photoshop tiene fondo transparente"
+      }
+    ]
   },
   {
     "id": "t069",
@@ -970,11 +1122,12 @@
       "archivo editable photoshop"
     ],
     "steps": [
-      "Elige Archivo > Guardar como para nombrar el proyecto.",
-      "Selecciona Photoshop (PSD) si está disponible y la carpeta asignada.",
-      "Guarda y verifica el nombre. Conserva las capas."
+      "Abre File > Save As (Archivo > Guardar como). Si pregunta dónde guardar, elige tu computadora cuando se requiera un archivo local.",
+      "Selecciona la carpeta indicada, escribe el nombre y elige Photoshop (*.PSD) como formato.",
+      "Pulsa Save y confirma el aviso de compatibilidad si aparece. Comprueba el nombre .psd en la pestaña."
     ],
-    "why": "El PSD preserva las funciones editables."
+    "why": "El PSD preserva las funciones editables.",
+    "flow": "walkthrough"
   },
   {
     "id": "t070",
@@ -984,11 +1137,18 @@
       "borrador no borra"
     ],
     "steps": [
-      "Selecciona una capa visible y editable.",
-      "Revisa si está seleccionada la imagen y no la máscara; comprueba tamaño y opacidad.",
-      "Si es Objeto inteligente o está bloqueada, consulta al maestro antes de convertirla."
+      "Pulsa E para Borrador. Abre Window > Layers y pulsa la miniatura de imagen, no la máscara.",
+      "Comprueba el ojo y el candado. Arriba elige un tamaño visible y Opacity al 100% para probar; revisa si hay una selección activa.",
+      "Si es un objeto inteligente o texto, usa una máscara en lugar de rasterizar sin permiso. Deshaz cualquier prueba no deseada."
     ],
-    "why": "Una máscara puede ser más segura que borrar píxeles."
+    "why": "Una máscara puede ser más segura que borrar píxeles.",
+    "flow": "walkthrough",
+    "alternatives": [
+      {
+        "id": "t072",
+        "label": "Máscara de capa en Photoshop"
+      }
+    ]
   },
   {
     "id": "t071",
@@ -998,11 +1158,12 @@
       "pixeles grandes"
     ],
     "steps": [
-      "Mira la imagen al 100% de zoom.",
-      "Comprueba si la imagen original era pequeña o se amplió mucho.",
-      "Pide una fuente aprobada de mayor resolución si hace falta."
+      "Pulsa Ctrl+1 para ver los píxeles al 100%.",
+      "Abre Image > Image Size y lee Width y Height en píxeles sin cambiar los valores.",
+      "Si ampliaste mucho una foto pequeña, busca una imagen aprobada con más resolución. Pulsa Ctrl+0 para ver todo el lienzo."
     ],
-    "why": "Ampliar no recupera detalle perdido."
+    "why": "Ampliar no recupera detalle perdido.",
+    "flow": "walkthrough"
   },
   {
     "id": "t072",
@@ -1012,11 +1173,13 @@
       "ocultar fondo mascara"
     ],
     "steps": [
-      "Selecciona la capa y su miniatura de máscara si ya existe.",
-      "Pinta negro para ocultar y blanco para mostrar; prueba en un área pequeña.",
-      "Selecciona otra vez la miniatura de imagen cuando quieras editar la imagen."
+      "Abre Window > Layers. Selecciona la foto y pulsa el icono de rectángulo con círculo abajo para añadir una máscara si no tiene una.",
+      "Pulsa la miniatura de máscara junto a la foto. Pulsa B y D; pinta con negro para ocultar y blanco para revelar. X intercambia colores.",
+      "Prueba un trazo pequeño. La foto original debe quedar intacta. Pulsa su miniatura para volver a editar los píxeles."
     ],
-    "why": "Las máscaras ocultan sin borrar permanentemente."
+    "why": "Las máscaras ocultan sin borrar permanentemente.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "t073",
@@ -1026,11 +1189,13 @@
       "tono saturacion"
     ],
     "steps": [
-      "Selecciona solo la zona que deseas cambiar.",
-      "Agrega una capa de ajuste Tono/Saturación (Hue/Saturation).",
-      "Ajusta tono y saturación; refina la máscara si cambia zonas no deseadas."
+      "Mantén pulsado el grupo de herramientas W de la barra izquierda y elige Quick Selection. Selecciona solo la ropa u objeto.",
+      "Pulsa el círculo mitad blanco y mitad negro abajo de Layers y elige Hue/Saturation. Mueve Hue en Properties.",
+      "El color debe cambiar solo en la selección. Pulsa la miniatura de máscara del ajuste y pinta negro para quitar el efecto de zonas no deseadas."
     ],
-    "why": "El ajuste no modifica permanentemente la imagen original."
+    "why": "El ajuste no modifica permanentemente la imagen original.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "t074",
@@ -1040,11 +1205,12 @@
       "panel perdido illustrator"
     ],
     "steps": [
-      "Abre Ventana (Window) y busca Capas o Propiedades, según lo que falte.",
-      "Elige el panel; si falta la barra, revisa Ventana > Barras de herramientas.",
-      "Pregunta al maestro si su espacio de trabajo es diferente."
+      "Abre Window (Ventana) en la barra superior y selecciona el panel que falta, por ejemplo Layers (Capas).",
+      "Si hay una marca junto al nombre, busca el icono del panel contra el borde derecho.",
+      "Si falta la barra de herramientas, usa Window > Toolbars > Advanced. Si faltan todos los paneles, pulsa Esc y luego Tab una vez."
     ],
-    "why": "Ocultar paneles no elimina el dibujo."
+    "why": "Ocultar paneles no elimina el dibujo.",
+    "flow": "walkthrough"
   },
   {
     "id": "t075",
@@ -1055,11 +1221,12 @@
       "color borde"
     ],
     "steps": [
-      "Selecciona el objeto con Selección.",
-      "En la barra o Propiedades, elige Relleno (Fill) para el interior o Trazo (Stroke) para el borde.",
-      "Elige color y grosor de trazo si hace falta."
+      "Pulsa V y selecciona la figura.",
+      "Abajo en la barra izquierda, el cuadrado sólido es Fill (Relleno) y el hueco es Stroke (Trazo). Haz clic en el que quieres cambiar.",
+      "Haz doble clic en el cuadrado, elige un color y pulsa OK. Comprueba si cambió el interior o el borde."
     ],
-    "why": "Relleno y trazo son atributos independientes."
+    "why": "Relleno y trazo son atributos independientes.",
+    "flow": "walkthrough"
   },
   {
     "id": "t076",
@@ -1069,11 +1236,12 @@
       "forma bloqueada"
     ],
     "steps": [
-      "Elige Selección (flecha negra) y haz clic en el objeto.",
-      "Revisa Capas para ver si está bloqueado u oculto. No desbloquees objetos protegidos por el maestro.",
-      "Si elegiste otro objeto, deselecciona y prueba de nuevo."
+      "Pulsa Esc y luego V. Haz clic en la figura.",
+      "Si no ves el contorno de selección, abre Window > Layers y expande la capa. Busca un ojo o candado.",
+      "Muestra o desbloquea únicamente tu propio objeto y arrástralo. Si el maestro lo bloqueó, pide permiso."
     ],
-    "why": "La flecha blanca edita puntos individuales."
+    "why": "La flecha blanca edita puntos individuales.",
+    "flow": "walkthrough"
   },
   {
     "id": "t077",
@@ -1084,11 +1252,12 @@
       "formas illustrator"
     ],
     "steps": [
-      "Elige Rectángulo, Elipse u otra forma aprobada.",
-      "Haz clic y arrastra en la mesa de trabajo. Mantén Mayús para círculo o cuadrado.",
-      "Ajusta relleno y trazo en Propiedades."
+      "Pulsa M para rectángulo o L para elipse; están en la barra izquierda.",
+      "Arrastra sobre la mesa de trabajo blanca. Mantén Shift para hacer un cuadrado o círculo.",
+      "Pulsa V y selecciona la figura. Cambia Fill o Stroke con los cuadrados de color de la barra izquierda."
     ],
-    "why": "Las formas vectoriales conservan bordes al cambiar tamaño."
+    "why": "Las formas vectoriales conservan bordes al cambiar tamaño.",
+    "flow": "walkthrough"
   },
   {
     "id": "t078",
@@ -1098,11 +1267,12 @@
       "escribir letras"
     ],
     "steps": [
-      "Elige Texto y haz clic en la mesa de trabajo.",
-      "Escribe tus propias palabras y selecciona para ajustar fuente, tamaño y color.",
-      "Cambia a Selección para mover el objeto de texto."
+      "Pulsa T o haz clic en el icono T de la barra izquierda.",
+      "Haz clic en la mesa de trabajo y escribe tus propias palabras. Selecciona las letras que quieres cambiar.",
+      "Abre Window > Type > Character para elegir fuente y tamaño. Pulsa Ctrl+Enter y después V para mover el texto entero."
     ],
-    "why": "El asistente explica la herramienta, no escribe tu tarea."
+    "why": "El asistente explica la herramienta, no escribe tu tarea.",
+    "flow": "walkthrough"
   },
   {
     "id": "t079",
@@ -1112,11 +1282,12 @@
       "alinear formas"
     ],
     "steps": [
-      "Selecciona los objetos que quieres alinear.",
-      "Abre Ventana > Alinear si no ves los controles.",
-      "Revisa Alinear a y elige alineación o distribución."
+      "Pulsa V y selecciona varias figuras manteniendo Shift.",
+      "Abre Window > Align. En Align To elige Selection para alinear las figuras entre sí.",
+      "Coloca el puntero sobre los iconos para leer sus nombres y elige la alineación requerida. Pulsa Ctrl+Z si el resultado no es correcto."
     ],
-    "why": "Alinear a la mesa no es igual que alinear entre objetos."
+    "why": "Alinear a la mesa no es igual que alinear entre objetos.",
+    "flow": "walkthrough"
   },
   {
     "id": "t080",
@@ -1126,11 +1297,12 @@
       "unir formas"
     ],
     "steps": [
-      "Selecciona las formas editables que se superponen.",
-      "Elige Creador de formas (Shape Builder) y arrastra por las regiones que quieras unir.",
-      "Revisa el resultado y deshaz si uniste regiones incorrectas."
+      "Pulsa V y selecciona dos figuras vectoriales superpuestas con Shift.",
+      "Pulsa Shift+M. Mueve el puntero sobre las regiones hasta que se resalten.",
+      "Arrastra por las regiones que quieres unir. Pulsa V para revisar el contorno nuevo; Ctrl+Z deshace un error."
     ],
-    "why": "La herramienta usa regiones de formas seleccionadas."
+    "why": "La herramienta usa regiones de formas seleccionadas.",
+    "flow": "walkthrough"
   },
   {
     "id": "t081",
@@ -1140,11 +1312,12 @@
       "cambiar tamano mesa"
     ],
     "steps": [
-      "Comprueba las dimensiones exigidas.",
-      "Elige Mesa de trabajo y selecciona la mesa correcta.",
-      "Cambia ancho y alto; vuelve a Selección."
+      "Pulsa Shift+O y haz clic en la mesa de trabajo de tu proyecto.",
+      "En Properties (Propiedades) o la barra superior, busca W y H. Escribe las medidas indicadas por el maestro.",
+      "Pulsa Esc y comprueba que cambió el tamaño de la mesa, no el de tus figuras."
     ],
-    "why": "Cambiar mesa no cambia automáticamente el dibujo."
+    "why": "Cambiar mesa no cambia automáticamente el dibujo.",
+    "flow": "walkthrough"
   },
   {
     "id": "t082",
@@ -1154,11 +1327,13 @@
       "exportar imagen illustrator"
     ],
     "steps": [
-      "Guarda primero el documento AI editable.",
-      "Elige Archivo > Exportar > Exportar como, PNG o JPG y Usar mesas de trabajo si se necesita ese recorte.",
-      "Elige las opciones solicitadas, exporta y verifica el archivo."
+      "Guarda el AI con Ctrl+S. Abre File > Export > Export As (Archivo > Exportar > Exportar como).",
+      "Elige la carpeta, escribe el nombre, selecciona PNG o JPEG y marca Use Artboards (Usar mesas de trabajo). Elige la mesa requerida.",
+      "Pulsa Export. Para un PNG con fondo blanco opaco, selecciona White en Background Color, no Transparent. Elige la resolución solicitada y pulsa OK.",
+      "Pulsa Windows+E, abre la carpeta y haz doble clic en la imagen para verificarla."
     ],
-    "why": "La imagen exportada no reemplaza el proyecto AI."
+    "why": "La imagen exportada no reemplaza el proyecto AI.",
+    "flow": "walkthrough"
   },
   {
     "id": "t083",
@@ -1168,11 +1343,12 @@
       "archivo editable ai"
     ],
     "steps": [
-      "Elige Archivo > Guardar como para nombrar el proyecto.",
-      "Selecciona Adobe Illustrator (AI) y la carpeta asignada.",
-      "Guarda y verifica el nombre antes de exportar."
+      "Abre File > Save As (Archivo > Guardar como). Si aparece una opción de nube, elige guardar en la computadora cuando el maestro lo indique.",
+      "Selecciona la carpeta asignada, escribe un nombre y elige Adobe Illustrator (*.AI).",
+      "Pulsa Save y confirma las opciones. Verifica el archivo .ai en la carpeta."
     ],
-    "why": "AI conserva objetos editables."
+    "why": "AI conserva objetos editables.",
+    "flow": "walkthrough"
   },
   {
     "id": "t084",
@@ -1182,11 +1358,12 @@
       "modo contorno"
     ],
     "steps": [
-      "Abre Ver (View) y busca Previsualizar (Preview).",
-      "Elige Previsualizar si entraste en Contorno, o usa Ctrl + Y cuando corresponda.",
-      "Comprueba si regresan los colores; si no, pregunta al maestro."
+      "Abre View (Ver) en la barra superior.",
+      "Si aparece Preview o GPU Preview, selecciónalo; también puedes pulsar Ctrl+Y para alternar la vista.",
+      "Los colores deben regresar. Si no regresan, revisa el relleno de la figura."
     ],
-    "why": "Contorno muestra trazados, no el relleno."
+    "why": "Contorno muestra trazados, no el relleno.",
+    "flow": "walkthrough"
   },
   {
     "id": "t085",
@@ -1196,11 +1373,12 @@
       "traer al frente"
     ],
     "steps": [
-      "Selecciona el objeto con Selección o Capas.",
-      "Usa Objeto > Organizar y elige por ejemplo Traer al frente.",
-      "Revisa sin borrar otras partes del dibujo."
+      "Pulsa V y selecciona el objeto. Si está cubierto, abre Window > Layers y expande la capa; usa la columna de selección a la derecha.",
+      "Abre Object > Arrange > Bring to Front para moverlo al frente de su capa.",
+      "Comprueba el resultado. Si otra capa lo cubre, revisa el orden de las capas."
     ],
-    "why": "Los objetos superiores pueden tapar los inferiores."
+    "why": "Los objetos superiores pueden tapar los inferiores.",
+    "flow": "walkthrough"
   },
   {
     "id": "t086",
@@ -1210,11 +1388,13 @@
       "juego no funciona"
     ],
     "steps": [
-      "Confirma que el maestro permite el juego en ese momento.",
-      "Vuelve a PlayForge y abre una vez la aplicación autorizada. Evita recargar si hay datos sin guardar.",
-      "Dile al maestro el nombre del juego y lo que aparece."
+      "Vuelve a la pestaña original de PlayForge y confirma que tu maestro permite la actividad en ese momento.",
+      "Abre una vez la tarjeta correcta y observa si aparece una carga o mensaje de error.",
+      "Si no abre, comunica el nombre del juego y el error. No borres datos del navegador ni uses enlaces alternativos."
     ],
-    "why": "Puede requerir una primera carga con internet."
+    "why": "Puede requerir una primera carga con internet.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t087",
@@ -1224,11 +1404,13 @@
       "juego no guardo"
     ],
     "steps": [
-      "Comprueba que usas el mismo dispositivo y perfil de navegador.",
-      "Si tiene importación, pregunta cómo restaurar tu propia copia exportada.",
-      "No borres datos del navegador ni cambies cuentas para recuperar progreso."
+      "Comprueba si usas el mismo equipo y perfil del navegador que antes.",
+      "Abre la misma actividad y busca la pantalla de progreso. Si guardaste una copia, pregunta al maestro cómo usar Importar (Import).",
+      "Si falta el progreso, podría estar guardado solo en el equipo original. No borres datos ni uses el perfil de otro estudiante."
     ],
-    "why": "Muchas aplicaciones guardan localmente y no sincronizan."
+    "why": "Muchas aplicaciones guardan localmente y no sincronizan.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "t090",
@@ -1238,10 +1420,11 @@
       "muy caliente"
     ],
     "steps": [
-      "Deja de usarlo y avisa al maestro de inmediato.",
-      "No manipules un equipo peligrosamente caliente. Mantén materiales inflamables lejos si es seguro hacerlo."
+      "Deja de usar el Chromebook. Si está demasiado caliente, aléjate y avisa inmediatamente a un adulto.",
+      "No lo cubras, cargues ni enfríes con agua. Deja que el personal lo revise."
     ],
-    "why": "El calor extremo puede indicar un problema peligroso."
+    "why": "El calor extremo puede indicar un problema peligroso.",
+    "flow": "walkthrough"
   },
   {
     "id": "t091",
@@ -1252,10 +1435,11 @@
       "mojado"
     ],
     "steps": [
-      "Deja de usar el Chromebook y avisa a un adulto inmediatamente.",
-      "No lo cargues, enciendas de nuevo, sacudas ni seques con calor."
+      "Aléjate del equipo mojado y avisa inmediatamente a un adulto.",
+      "No conectes ni desconectes equipo eléctrico mojado. No lo enciendas ni uses calor para secarlo."
     ],
-    "why": "La electricidad y los líquidos son peligrosos."
+    "why": "La electricidad y los líquidos son peligrosos.",
+    "flow": "walkthrough"
   },
   {
     "id": "t092",
@@ -1265,10 +1449,11 @@
       "se me cayo"
     ],
     "steps": [
-      "Deja de usarlo si se dañó el vidrio, la carcasa o las bisagras.",
-      "Informa al maestro. No presiones el vidrio ni intentes reparar el equipo."
+      "Deja el equipo en una superficie segura si puedes hacerlo sin riesgo. No toques vidrio roto.",
+      "Explica al maestro qué ocurrió. No intentes reparar el equipo."
     ],
-    "why": "Los bordes rotos pueden causar lesiones."
+    "why": "Los bordes rotos pueden causar lesiones.",
+    "flow": "walkthrough"
   },
   {
     "id": "t120",
@@ -1278,10 +1463,12 @@
       "copiar y pegar"
     ],
     "steps": [
-      "Selecciona tu texto o contenido permitido.",
-      "Pulsa Ctrl + C."
+      "Arrastra sobre el texto hasta resaltarlo.",
+      "Pulsa Ctrl + C para copiarlo sin quitarlo.",
+      "Haz clic en el destino autorizado y pulsa Ctrl + V. Comprueba que aparezca el texto correcto."
     ],
-    "why": "Copiar no elimina el original."
+    "why": "Copiar no elimina el original.",
+    "flow": "walkthrough"
   },
   {
     "id": "t121",
@@ -1291,10 +1478,12 @@
       "pegar texto"
     ],
     "steps": [
-      "Coloca el cursor donde quieres pegar el contenido permitido.",
-      "Pulsa Ctrl + V."
+      "Haz clic donde quieres pegar hasta ver el cursor parpadeante.",
+      "Pulsa Ctrl + V una vez.",
+      "Si aparece contenido incorrecto, pulsa Ctrl + Z, copia el texto correcto y vuelve a intentarlo."
     ],
-    "why": "Pegar inserta lo que copiaste."
+    "why": "Pegar inserta lo que copiaste.",
+    "flow": "walkthrough"
   },
   {
     "id": "t124",
@@ -1304,10 +1493,12 @@
       "volver atras"
     ],
     "steps": [
-      "Si acabas de cambiar algo por error, pulsa Ctrl + Z en la aplicación.",
-      "Revisa el resultado antes de repetir."
+      "Haz clic dentro del documento donde ocurrió el error.",
+      "Pulsa Ctrl + Z una vez y comprueba el resultado antes de repetir.",
+      "Si deshiciste demasiado, usa Edición > Rehacer si está disponible."
     ],
-    "why": "Deshacer puede revertir cambios recientes."
+    "why": "Deshacer puede revertir cambios recientes.",
+    "flow": "walkthrough"
   },
   {
     "id": "t126",
@@ -1317,10 +1508,12 @@
       "marcar todo"
     ],
     "steps": [
-      "Haz clic dentro del área de texto que quieres seleccionar.",
-      "Pulsa Ctrl + A y revisa la selección."
+      "Haz clic dentro de tu documento, no en la barra de direcciones.",
+      "Pulsa Ctrl + A. El texto del área activa debería quedar resaltado.",
+      "Haz clic fuera o pulsa una flecha para quitar la selección sin borrar nada."
     ],
-    "why": "Seleccionar todo depende del área activa."
+    "why": "Seleccionar todo depende del área activa.",
+    "flow": "walkthrough"
   },
   {
     "id": "t127",
@@ -1330,10 +1523,12 @@
       "encontrar palabra"
     ],
     "steps": [
-      "Pulsa Ctrl + F.",
-      "Escribe la palabra y recorre las coincidencias."
+      "En la página de Chrome pulsa Ctrl + F. Aparecerá un cuadro de búsqueda arriba.",
+      "Escribe la palabra y observa las coincidencias resaltadas.",
+      "Pulsa Intro para ir a la siguiente coincidencia y Esc para cerrar la búsqueda."
     ],
-    "why": "Buscar no modifica el documento."
+    "why": "Buscar no modifica el documento.",
+    "flow": "walkthrough"
   },
   {
     "id": "t169",
@@ -1343,11 +1538,12 @@
       "recortar captura"
     ],
     "steps": [
-      "Pulsa Ctrl + Mayús + Mostrar ventanas.",
-      "Elige captura de área y arrastra sobre tu trabajo permitido.",
-      "Guarda o localiza la captura en Archivos."
+      "Pulsa Ctrl + Mayús + Mostrar ventanas (tecla con rectángulo y líneas en la fila superior).",
+      "En la barra inferior elige la cámara de foto y el icono de rectángulo punteado.",
+      "Arrastra un recuadro sobre el área necesaria y pulsa Capturar. Busca el PNG en la notificación o Archivos > Descargas."
     ],
-    "why": "Una captura parcial evita incluir información ajena."
+    "why": "Una captura parcial evita incluir información ajena.",
+    "flow": "walkthrough"
   },
   {
     "id": "ps05-060",
@@ -1357,11 +1553,13 @@
       "refinar bordes"
     ],
     "steps": [
-      "Selecciona la zona con una herramienta de selección.",
-      "Abre Select and Mask (Seleccionar y aplicar máscara) desde Selección o la barra de opciones.",
-      "Usa una vista previa y ajusta bordes suavemente; revisa antes de confirmar."
+      "Selecciona la capa de imagen y haz una selección aproximada con Quick Selection o Select > Subject.",
+      "Abre Select > Select and Mask (Seleccionar y aplicar máscara). Usa View Mode a la derecha para revisar los bordes.",
+      "Abre Output Settings, elige Layer Mask y pulsa OK. Busca la miniatura de máscara junto a la foto en Capas."
     ],
-    "why": "Sirve para mejorar los bordes de una selección."
+    "why": "Sirve para mejorar los bordes de una selección.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "ps05-020",
@@ -1371,10 +1569,12 @@
       "disco lleno photoshop"
     ],
     "steps": [
-      "Guarda el trabajo si puedes.",
-      "Muestra el error al maestro. No borres archivos ni cambies discos o preferencias."
+      "Lee el aviso de scratch disk y deja de repetir la operación.",
+      "Si Photoshop responde, pulsa Ctrl+S para guardar el PSD en la carpeta aprobada.",
+      "Muestra el aviso al profesor. No borres archivos del sistema ni cambies las preferencias del disco."
     ],
-    "why": "El personal autorizado debe resolver el almacenamiento."
+    "why": "El personal autorizado debe resolver el almacenamiento.",
+    "flow": "walkthrough"
   },
   {
     "id": "ps05-088",
@@ -1384,11 +1584,12 @@
       "sombra debajo"
     ],
     "steps": [
-      "Crea una capa debajo de la persona y encima del fondo.",
-      "Con un pincel suave pinta una sombra pequeña donde toca el suelo.",
-      "Ajusta opacidad y revisa la dirección de la luz."
+      "En Layers selecciona la capa debajo del objeto y pulsa + para crear una capa de sombra.",
+      "Pulsa B y elige un pincel redondo suave y oscuro en el selector superior. Pinta una sombra pequeña debajo de los pies o del punto de contacto.",
+      "Reduce Opacity arriba de Layers hasta que parezca natural. Mantén la sombra debajo del objeto."
     ],
-    "why": "Las sombras de contacto ayudan a unir visualmente los elementos."
+    "why": "Las sombras de contacto ayudan a unir visualmente los elementos.",
+    "flow": "walkthrough"
   },
   {
     "id": "ps05-146",
@@ -1398,11 +1599,13 @@
       "quitar transparencia png"
     ],
     "steps": [
-      "Guarda el PSD editable primero.",
-      "Si la tarea exige fondo blanco, agrega una capa blanca debajo del arte y comprueba que cubra el lienzo.",
-      "Exporta el PNG y verifica el fondo en el archivo exportado."
+      "Busca el patrón de cuadros grises y blancos, que indica transparencia. Abre Window > Layers.",
+      "Pulsa el círculo mitad negro y mitad blanco abajo y elige Solid Color. Selecciona el color exigido y arrastra esa capa debajo del dibujo.",
+      "Comprueba que no queden cuadros donde debe haber color. Guarda el PSD, exporta el PNG y abre el archivo para comprobarlo."
     ],
-    "why": "El PNG admite transparencia aunque el proyecto necesite un fondo opaco."
+    "why": "El PNG admite transparencia aunque el proyecto necesite un fondo opaco.",
+    "flow": "walkthrough",
+    "alternatives": []
   },
   {
     "id": "ai06-015",
@@ -1412,10 +1615,12 @@
       "perspective grid"
     ],
     "steps": [
-      "Abre Ver > Cuadrícula de perspectiva (View > Perspective Grid).",
-      "Elige Ocultar cuadrícula o usa el atajo indicado en el menú."
+      "Abre View > Perspective Grid > Hide Grid (Ver > Cuadrícula de perspectiva > Ocultar cuadrícula).",
+      "Las líneas de perspectiva deben desaparecer.",
+      "Pulsa V. Si queda una cuadrícula de cuadrados, usa View > Hide Grid en lugar de la opción de perspectiva."
     ],
-    "why": "La cuadrícula de perspectiva no es parte del arte."
+    "why": "La cuadrícula de perspectiva no es parte del arte.",
+    "flow": "walkthrough"
   },
   {
     "id": "ai06-125",
@@ -1425,11 +1630,12 @@
       "letras al reves circulo"
     ],
     "steps": [
-      "Selecciona el texto sobre el trazado.",
-      "Abre Texto > Texto en trazado > Opciones de texto en trazado (Type on a Path Options).",
-      "Prueba Voltear y revisa la alineación."
+      "Pulsa V y selecciona el texto curvo.",
+      "Abre Type > Type on a Path > Type on a Path Options. Activa o desactiva Flip y marca Preview.",
+      "Pulsa OK cuando las letras estén orientadas correctamente."
     ],
-    "why": "El texto sigue un trazado y puede aparecer en ambos lados."
+    "why": "El texto sigue un trazado y puede aparecer en ambos lados.",
+    "flow": "walkthrough"
   },
   {
     "id": "ai06-139",
@@ -1439,10 +1645,12 @@
       "mostrar grid"
     ],
     "steps": [
-      "Abre Ver > Mostrar cuadrícula (View > Show Grid).",
-      "Comprueba que se vea al trabajar y en la captura requerida."
+      "Abre View > Show Grid (Ver > Mostrar cuadrícula).",
+      "Comprueba que aparecen líneas cuadradas en el documento. Déjalas visibles para las capturas del proyecto si se requieren.",
+      "Esta cuadrícula no se exporta. Si necesitas líneas reales, utiliza Rectangular Grid."
     ],
-    "why": "La cuadrícula de documento es una guía y no se exporta como dibujo."
+    "why": "La cuadrícula de documento es una guía y no se exporta como dibujo.",
+    "flow": "walkthrough"
   },
   {
     "id": "ai06-027",
@@ -1452,11 +1660,12 @@
       "cuadricula real"
     ],
     "steps": [
-      "Elige la herramienta Cuadrícula rectangular si está disponible en la barra.",
-      "Haz clic y configura filas y columnas según las instrucciones de clase.",
-      "Revisa relleno y trazo, y ajusta el tamaño sin deformar la cuadrícula."
+      "Mantén pulsada la herramienta Line Segment y elige Rectangular Grid en la barra Advanced.",
+      "Haz clic una vez en la mesa de trabajo. Escribe el ancho, alto y número de divisiones horizontales y verticales. Cuatro divisiones forman cinco espacios.",
+      "Pulsa OK y asigna un trazo visible. Mantén la cuadrícula visible en las capturas que solicite el maestro."
     ],
-    "why": "Una cuadrícula dibujada sí forma parte del arte."
+    "why": "Una cuadrícula dibujada sí forma parte del arte.",
+    "flow": "walkthrough"
   },
   {
     "id": "ai06-098",
@@ -1466,11 +1675,12 @@
       "mover foto recortada"
     ],
     "steps": [
-      "Selecciona el grupo de recorte.",
-      "Usa Selección directa o el control para editar contenido.",
-      "Mueve la imagen dentro de la forma sin mover el trazado de recorte."
+      "Pulsa V y haz doble clic en el grupo de recorte para entrar en aislamiento.",
+      "Pulsa A o usa Edit Contents en Properties para seleccionar la imagen interior, no el borde.",
+      "Arrastra la imagen y pulsa Esc. El borde de recorte debe permanecer fijo."
     ],
-    "why": "La máscara oculta partes sin borrar la imagen."
+    "why": "La máscara oculta partes sin borrar la imagen.",
+    "flow": "walkthrough"
   },
   {
     "id": "win094",
@@ -1480,11 +1690,12 @@
       "impresora atascada"
     ],
     "steps": [
-      "Deja de enviar trabajos.",
-      "Avisa al maestro qué impresora tiene el error.",
-      "No metas la mano ni retires papel de la impresora."
+      "Si la impresora muestra Atasco de papel (Paper jam), deja de enviar trabajos.",
+      "Avisa al maestro del nombre de la impresora y del código o bandeja que muestra la pantalla.",
+      "No metas la mano, abras zonas calientes ni tires del papel. Espera al personal."
     ],
-    "why": "Las partes internas pueden estar calientes."
+    "why": "Las partes internas pueden estar calientes.",
+    "flow": "walkthrough"
   },
   {
     "id": "gs04-134",
@@ -1494,11 +1705,13 @@
       "texto cortado diapositiva"
     ],
     "steps": [
-      "Selecciona el borde del cuadro de texto.",
-      "Ajusta el tamaño del cuadro o de la fuente según las instrucciones.",
-      "Revisa en modo presentación que se vea todo el texto."
+      "Haz clic en el borde del cuadro de texto, no dentro de las palabras.",
+      "Arrastra un controlador azul lateral o de esquina para ampliar el cuadro sin salir de la diapositiva.",
+      "Si todavía sobra texto, reduce el tamaño de letra solo si está permitido. Revisa el resultado en Presentación."
     ],
-    "why": "El cuadro de texto puede ser demasiado pequeño para el contenido."
+    "why": "El cuadro de texto puede ser demasiado pequeño para el contenido.",
+    "flow": "walkthrough",
+    "reviewed": "v1.7"
   },
   {
     "id": "ai06-124",
@@ -1508,11 +1721,12 @@
       "escribir en circulo"
     ],
     "steps": [
-      "Dibuja un círculo en la mesa de trabajo.",
-      "Elige Texto en trazado (Type on a Path) y haz clic en el trazado del círculo.",
-      "Escribe tus propias palabras y ajusta la posición con Selección."
+      "Pulsa L y dibuja un círculo manteniendo Shift. Duplica el círculo primero si necesitas conservar su forma visible.",
+      "Mantén pulsada T y elige Type on a Path Tool. Haz clic en el borde del círculo.",
+      "Escribe tus propias palabras. Pulsa V y usa Window > Type > Character para ajustar el tamaño."
     ],
-    "why": "El texto sigue el borde de un trazado editable."
+    "why": "El texto sigue el borde de un trazado editable.",
+    "flow": "walkthrough"
   },
   {
     "id": "cl04-001",
@@ -1526,7 +1740,9 @@
       "Abre la lista de clases y busca el nombre correcto.",
       "Si no aparece, pregunta al maestro. No uses otra cuenta."
     ],
-    "why": "La clase puede estar archivada o tu inscripción puede estar pendiente."
+    "why": "La clase puede estar archivada o tu inscripción puede estar pendiente.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-002",
@@ -1540,7 +1756,9 @@
       "Entra en Trabajo de clase (Classwork).",
       "Elige el tema que indicó tu maestro."
     ],
-    "why": "Los temas agrupan materiales y tareas relacionadas."
+    "why": "Los temas agrupan materiales y tareas relacionadas.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-003",
@@ -1554,7 +1772,9 @@
       "Usa Novedades (Stream) para avisos.",
       "Usa Trabajo de clase (Classwork) para encontrar tareas y materiales."
     ],
-    "why": "Cada sección organiza información distinta."
+    "why": "Cada sección organiza información distinta.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-004",
@@ -1568,7 +1788,9 @@
       "Busca la fecha y hora de entrega junto al título o tu trabajo.",
       "Si no hay fecha, pregunta al maestro."
     ],
-    "why": "No todas las tareas tienen una fecha de entrega."
+    "why": "No todas las tareas tienen una fecha de entrega.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-005",
@@ -1582,7 +1804,9 @@
       "Busca Pendientes (To-do).",
       "Revisa la clase y la sección correspondiente."
     ],
-    "why": "La lista reúne trabajos de las clases en que participas."
+    "why": "La lista reúne trabajos de las clases en que participas.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-006",
@@ -1596,7 +1820,9 @@
       "En Trabajo de clase, busca Ver tu trabajo (View your work).",
       "Revisa los estados y abre la tarea deseada."
     ],
-    "why": "Esta vista ayuda a revisar entregas y calificaciones propias."
+    "why": "Esta vista ayuda a revisar entregas y calificaciones propias.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-007",
@@ -1610,7 +1836,9 @@
       "Lee las instrucciones del maestro.",
       "Busca la tarea correspondiente o pregunta dónde entregar."
     ],
-    "why": "Un material puede ser solo una lectura o recurso."
+    "why": "Un material puede ser solo una lectura o recurso.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-008",
@@ -1624,7 +1852,9 @@
       "Busca los enlaces o archivos adjuntos debajo de las instrucciones.",
       "Abre solo el recurso indicado por tu maestro. Si está bloqueado, avisa."
     ],
-    "why": "El tutorial puede estar separado del documento que entregas."
+    "why": "El tutorial puede estar separado del documento que entregas.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-009",
@@ -1638,7 +1868,9 @@
       "Desplázate por las instrucciones y archivos adjuntos.",
       "Si falta información, pregunta al maestro."
     ],
-    "why": "La vista previa puede mostrar solo parte del texto."
+    "why": "La vista previa puede mostrar solo parte del texto.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-010",
@@ -1652,7 +1884,9 @@
       "Anota el aviso sin incluir datos privados.",
       "Pregunta al maestro. No intentes evitar el bloqueo."
     ],
-    "why": "La disponibilidad depende de la configuración del maestro."
+    "why": "La disponibilidad depende de la configuración del maestro.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-011",
@@ -1666,7 +1900,9 @@
       "Busca el calendario disponible para tu cuenta.",
       "Revisa las fechas de tus propias tareas."
     ],
-    "why": "El calendario ayuda a planificar entregas."
+    "why": "El calendario ayuda a planificar entregas.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-012",
@@ -1680,7 +1916,9 @@
       "Revisa el código que el maestro te dio sin compartirlo aquí.",
       "Si no funciona, pide al maestro que revise tu inscripción."
     ],
-    "why": "El código puede estar desactivado o pertenecer a otra clase."
+    "why": "El código puede estar desactivado o pertenecer a otra clase.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-013",
@@ -1694,7 +1932,9 @@
       "Abre la copia que lleva tu nombre si el maestro la asignó.",
       "Trabaja en esa copia y vuelve a Classroom para entregar."
     ],
-    "why": "La copia individual permite que el maestro revise tu trabajo."
+    "why": "La copia individual permite que el maestro revise tu trabajo.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-014",
@@ -1708,7 +1948,9 @@
       "Revisa si ya entregaste la tarea.",
       "Si necesitas editar, sigue las reglas del maestro sobre correcciones y permisos."
     ],
-    "why": "Los archivos de ejemplo y las tareas entregadas pueden limitar la edición."
+    "why": "Los archivos de ejemplo y las tareas entregadas pueden limitar la edición.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-015",
@@ -1718,11 +1960,14 @@
       "marcar completada versus entregar"
     ],
     "steps": [
-      "Lee qué producto pide la tarea.",
-      "Adjunta los archivos requeridos antes de terminar.",
-      "Usa el botón disponible y confirma que el estado corresponde al trabajo que hiciste."
+      "Abre Classroom, la clase y Trabajo en clase. Selecciona la tarea y abre sus instrucciones.",
+      "Busca Tu trabajo a la derecha o debajo de las instrucciones.",
+      "Si el maestro exige un archivo, adjúntalo con Añadir o crear. Algunas tareas se completan fuera de Classroom.",
+      "Cuando termines, pulsa Entregar o Marcar como completada según aparezca. Confirma y comprueba el estado."
     ],
-    "why": "El botón depende del tipo de tarea y de los archivos adjuntos."
+    "why": "El botón depende del tipo de tarea y de los archivos adjuntos.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "cl04-016",
@@ -1736,7 +1981,9 @@
       "Comprueba la conexión aprobada y que tu archivo esté guardado.",
       "Si no termina, anota el error y avisa al maestro antes de repetir la carga."
     ],
-    "why": "Cerrar la página durante una carga puede interrumpirla."
+    "why": "Cerrar la página durante una carga puede interrumpirla.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-017",
@@ -1746,11 +1993,15 @@
       "adjuntar imagen descargada"
     ],
     "steps": [
-      "Abre la tarea y el área Tu trabajo.",
-      "Selecciona Añadir o crear y elige Archivo.",
-      "Busca tu PNG o JPG, espera la carga y comprueba el archivo antes de entregar."
+      "Abre Classroom, la clase correcta y Trabajo en clase. Abre la tarea y sus instrucciones completas.",
+      "Busca Tu trabajo a la derecha o debajo de las instrucciones.",
+      "Pulsa Añadir o crear y Archivo. Abre Descargas o la carpeta donde exportaste la imagen.",
+      "Selecciona el PNG o JPG y pulsa Abrir o Subir. Espera a que aparezca el nombre y revisa la vista previa.",
+      "Pulsa Entregar, confirma y comprueba que diga Entregada."
     ],
-    "why": "El archivo exportado es distinto del proyecto editable."
+    "why": "El archivo exportado es distinto del proyecto editable.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "cl04-018",
@@ -1764,7 +2015,9 @@
       "En Tu trabajo, selecciona Añadir o crear y Google Drive.",
       "Elige tu documento, verifica que sea correcto y entrega cuando esté listo."
     ],
-    "why": "Adjuntar el documento correcto permite revisarlo sin crear copias innecesarias."
+    "why": "Adjuntar el documento correcto permite revisarlo sin crear copias innecesarias.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-019",
@@ -1774,11 +2027,15 @@
       "adjuntar varios archivos"
     ],
     "steps": [
-      "Lee la lista de archivos requeridos.",
-      "Añade cada archivo a Tu trabajo y espera a que termine la carga.",
-      "Comprueba nombres y formatos antes de pulsar Entregar."
+      "Abre Classroom, tu clase y Trabajo en clase. Abre la tarea.",
+      "Busca Tu trabajo a la derecha o debajo de las instrucciones.",
+      "Pulsa Añadir o crear y elige Archivo o Google Drive. Selecciona el primer archivo obligatorio.",
+      "Repite para cada archivo. Comprueba los nombres y abre la vista previa de las imágenes.",
+      "Pulsa Entregar y confirma cuando estén todos. Comprueba el estado Entregada."
     ],
-    "why": "Una tarea puede requerir tanto el proyecto editable como la imagen exportada."
+    "why": "Una tarea puede requerir tanto el proyecto editable como la imagen exportada.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "cl04-020",
@@ -1792,7 +2049,9 @@
       "Quita solo ese adjunto de la tarea, sin borrar el archivo original.",
       "Añade el correcto y verifica el nombre."
     ],
-    "why": "Quitar un adjunto no es lo mismo que eliminar el archivo original."
+    "why": "Quitar un adjunto no es lo mismo que eliminar el archivo original.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-021",
@@ -1806,7 +2065,9 @@
       "Si está permitido y disponible, usa Anular entrega y termina tu propio trabajo.",
       "Entrega de nuevo y comprueba el estado."
     ],
-    "why": "Anular una entrega puede afectar la hora y el estado de entrega."
+    "why": "Anular una entrega puede afectar la hora y el estado de entrega.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-022",
@@ -1820,7 +2081,9 @@
       "Comprueba que terminaron todas las cargas y confirma Entregar si corresponde.",
       "Si el estado no cambia, avisa al maestro."
     ],
-    "why": "Adjuntar archivos por sí solo puede no completar la entrega."
+    "why": "Adjuntar archivos por sí solo puede no completar la entrega.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-023",
@@ -1834,7 +2097,9 @@
       "Comprueba si entregaste todos los archivos requeridos.",
       "Pregunta al maestro sobre la política de entregas tardías."
     ],
-    "why": "TechGuide no puede cambiar fechas ni calificaciones."
+    "why": "TechGuide no puede cambiar fechas ni calificaciones.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-024",
@@ -1848,7 +2113,9 @@
       "Si permite correcciones, abre tu archivo y realiza tu propio trabajo.",
       "Vuelve a entregar según sus instrucciones."
     ],
-    "why": "Una devolución puede permitir editar nuevamente el archivo."
+    "why": "Una devolución puede permitir editar nuevamente el archivo.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-025",
@@ -1862,7 +2129,9 @@
       "Intenta abrir tu propio archivo con la aplicación de clase aprobada.",
       "Si sigue sin abrir, muestra el error al maestro."
     ],
-    "why": "Algunos formatos no tienen vista previa en Classroom."
+    "why": "Algunos formatos no tienen vista previa en Classroom.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-026",
@@ -1876,7 +2145,9 @@
       "Localiza la última versión en el lugar aprobado.",
       "Pregunta al maestro cómo reemplazar o volver a entregar el archivo."
     ],
-    "why": "Exportar otra vez puede ser necesario después de editar un proyecto."
+    "why": "Exportar otra vez puede ser necesario después de editar un proyecto.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-027",
@@ -1890,7 +2161,9 @@
       "Conserva el proyecto original y pregunta si se acepta una copia exportada más pequeña.",
       "No uses servicios externos para comprimirlo sin permiso."
     ],
-    "why": "Los archivos de diseño pueden ocupar mucho espacio."
+    "why": "Los archivos de diseño pueden ocupar mucho espacio.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-028",
@@ -1900,11 +2173,13 @@
       "mensaje del maestro"
     ],
     "steps": [
-      "Abre la tarea en Classroom.",
-      "Busca la sección de comentarios privados, si está disponible.",
-      "Lee los comentarios antes de hacer correcciones."
+      "Abre Classroom, tu clase y Trabajo en clase. Abre el título de la tarea y sus instrucciones completas.",
+      "Busca Comentarios privados debajo de Tu trabajo. Si la pantalla es pequeña, desplázate hacia abajo.",
+      "Lee el mensaje del maestro. Si hay un campo de respuesta, úsalo solo para preguntas escolares."
     ],
-    "why": "Los comentarios privados pertenecen a la comunicación de esa tarea."
+    "why": "Los comentarios privados pertenecen a la comunicación de esa tarea.",
+    "reviewed": "1.2",
+    "flow": "walkthrough"
   },
   {
     "id": "cl04-029",
@@ -1918,7 +2193,9 @@
       "Busca los marcadores de comentarios o el panel de comentarios.",
       "Lee cada comentario relacionado con tu trabajo."
     ],
-    "why": "Los comentarios pueden estar asociados con una sección concreta del documento."
+    "why": "Los comentarios pueden estar asociados con una sección concreta del documento.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-030",
@@ -1932,7 +2209,9 @@
       "Busca la rúbrica o los criterios junto a sus instrucciones.",
       "Lee los niveles y requisitos antes de entregar."
     ],
-    "why": "La rúbrica describe cómo se evalúa el trabajo."
+    "why": "La rúbrica describe cómo se evalúa el trabajo.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-031",
@@ -1946,7 +2225,9 @@
       "Comprueba si el maestro ya devolvió la tarea.",
       "Si aún no aparece, pregunta al maestro."
     ],
-    "why": "Las calificaciones pueden estar pendientes de publicación."
+    "why": "Las calificaciones pueden estar pendientes de publicación.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-032",
@@ -1960,7 +2241,9 @@
       "Comprueba que entregaste todos los archivos solicitados.",
       "Pregunta al maestro en privado con una duda concreta."
     ],
-    "why": "TechGuide no puede determinar ni cambiar una calificación."
+    "why": "TechGuide no puede determinar ni cambiar una calificación.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-033",
@@ -1974,7 +2257,9 @@
       "Usa el campo de respuesta permitido por el maestro.",
       "Escribe tu propia pregunta o explicación respetuosa."
     ],
-    "why": "TechGuide puede mostrar los controles, no redactar tu respuesta."
+    "why": "TechGuide puede mostrar los controles, no redactar tu respuesta.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-034",
@@ -1988,7 +2273,9 @@
       "Busca la sección de comentarios privados, si está disponible.",
       "Si no ves el control, pregunta al maestro; no cambies permisos."
     ],
-    "why": "Los maestros pueden limitar los comentarios."
+    "why": "Los maestros pueden limitar los comentarios.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-035",
@@ -2002,7 +2289,9 @@
       "Busca el aviso o los materiales relacionados en Trabajo de clase.",
       "Si fue movido o borrado, pregunta al maestro."
     ],
-    "why": "Los anuncios pueden cambiar cuando el maestro actualiza la clase."
+    "why": "Los anuncios pueden cambiar cuando el maestro actualiza la clase.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-036",
@@ -2016,7 +2305,9 @@
       "Abre la clase y tarea indicadas en el aviso.",
       "Si el aviso sigue llevando a otro lugar, avisa al maestro."
     ],
-    "why": "Un enlace antiguo puede apuntar a otro elemento."
+    "why": "Un enlace antiguo puede apuntar a otro elemento.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "cl04-037",
@@ -2030,7 +2321,9 @@
       "Comprueba las instrucciones de una actividad grupal.",
       "Si necesitas acceso, pide al maestro que lo gestione."
     ],
-    "why": "El trabajo de otros estudiantes puede ser privado."
+    "why": "El trabajo de otros estudiantes puede ser privado.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-038",
@@ -2044,7 +2337,9 @@
       "Selecciona Recientes (Recent).",
       "Busca el nombre y verifica la fecha del archivo."
     ],
-    "why": "Recientes muestra archivos que abriste hace poco."
+    "why": "Recientes muestra archivos que abriste hace poco.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-039",
@@ -2058,7 +2353,9 @@
       "Busca el nombre del archivo o el enlace de la tarea.",
       "Si no aparece, pide al maestro el enlace aprobado."
     ],
-    "why": "Los archivos compartidos no siempre aparecen en Mi unidad."
+    "why": "Los archivos compartidos no siempre aparecen en Mi unidad.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-040",
@@ -2072,7 +2369,9 @@
       "Usa los filtros de tipo de archivo si están disponibles.",
       "Selecciona el formato y añade parte del nombre."
     ],
-    "why": "Los filtros reducen resultados sin mover archivos."
+    "why": "Los filtros reducen resultados sin mover archivos.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-041",
@@ -2086,7 +2385,9 @@
       "Usa el filtro de fecha de modificación.",
       "Selecciona el intervalo aproximado y revisa resultados."
     ],
-    "why": "La fecha de modificación no siempre coincide con la de creación."
+    "why": "La fecha de modificación no siempre coincide con la de creación.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-042",
@@ -2100,7 +2401,9 @@
       "Pulsa Nuevo y Carpeta.",
       "Escribe un nombre claro para tu clase."
     ],
-    "why": "Las carpetas ayudan a organizar archivos del curso."
+    "why": "Las carpetas ayudan a organizar archivos del curso.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-043",
@@ -2114,7 +2417,9 @@
       "Usa Organizar o Mover y elige tu carpeta aprobada.",
       "Confirma el destino sin modificar permisos compartidos."
     ],
-    "why": "Mover un archivo cambia su ubicación."
+    "why": "Mover un archivo cambia su ubicación.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-044",
@@ -2128,7 +2433,9 @@
       "Abre el menú del archivo y busca la opción de destacar.",
       "Revisa Destacados para volver a encontrarlo."
     ],
-    "why": "Una estrella es un marcador, no una copia."
+    "why": "Una estrella es un marcador, no una copia.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-045",
@@ -2142,7 +2449,9 @@
       "Selecciona tu archivo y busca quitar de destacados.",
       "Comprueba que sigue en su carpeta original."
     ],
-    "why": "Quitar una estrella no borra el archivo."
+    "why": "Quitar una estrella no borra el archivo.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-046",
@@ -2156,7 +2465,9 @@
       "Revisa su ubicación en los detalles o en el menú Organizar.",
       "Abre la carpeta correspondiente si tienes acceso."
     ],
-    "why": "El lugar de almacenamiento ayuda a encontrar el archivo después."
+    "why": "El lugar de almacenamiento ayuda a encontrar el archivo después.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-047",
@@ -2170,7 +2481,9 @@
       "Busca el botón de vista de lista o cuadrícula.",
       "Prueba la vista que facilite reconocer nombres e imágenes."
     ],
-    "why": "Cambiar la vista no cambia los archivos."
+    "why": "Cambiar la vista no cambia los archivos.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-048",
@@ -2184,7 +2497,9 @@
       "Busca el control de orden junto a los encabezados.",
       "Selecciona nombre si quieres orden alfabético."
     ],
-    "why": "El orden solo afecta cómo ves la lista."
+    "why": "El orden solo afecta cómo ves la lista.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-049",
@@ -2198,7 +2513,9 @@
       "Abre el acceso directo si está permitido.",
       "Si no abre, pide al propietario o maestro el acceso correcto."
     ],
-    "why": "Un acceso directo apunta a un archivo, no contiene una copia."
+    "why": "Un acceso directo apunta a un archivo, no contiene una copia.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-050",
@@ -2212,7 +2529,9 @@
       "Busca únicamente tu propio archivo eliminado por error.",
       "Pide permiso al maestro si necesitas restaurarlo en un espacio compartido."
     ],
-    "why": "La papelera puede conservar archivos durante un tiempo limitado."
+    "why": "La papelera puede conservar archivos durante un tiempo limitado.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-051",
@@ -2226,7 +2545,9 @@
       "Compara fecha, formato y contenido de tus propios archivos.",
       "Usa la versión que pide el maestro y no borres los demás sin verificar."
     ],
-    "why": "Nombres parecidos pueden representar versiones distintas."
+    "why": "Nombres parecidos pueden representar versiones distintas.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-052",
@@ -2240,7 +2561,9 @@
       "Pulsa su nombre en la parte superior si tienes permiso de edición.",
       "Escribe el nombre que pidió el maestro."
     ],
-    "why": "Un nombre claro facilita encontrar y entregar el trabajo."
+    "why": "Un nombre claro facilita encontrar y entregar el trabajo.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-053",
@@ -2254,7 +2577,9 @@
       "Busca también en Recientes y Compartido conmigo.",
       "Si es una carpeta de clase, pide al maestro que compruebe el acceso."
     ],
-    "why": "La carpeta puede estar vacía o tener acceso limitado."
+    "why": "La carpeta puede estar vacía o tener acceso limitado.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-054",
@@ -2268,7 +2593,9 @@
       "Pulsa Nuevo y Subir archivo; elige tu archivo guardado.",
       "Espera a que termine la carga y verifica el nombre."
     ],
-    "why": "Subir crea un archivo en Drive sin borrar el original local."
+    "why": "Subir crea un archivo en Drive sin borrar el original local.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-055",
@@ -2282,7 +2609,9 @@
       "Usa Descargar si está disponible.",
       "Busca la copia en Descargas y revisa su formato."
     ],
-    "why": "La copia local no se actualiza automáticamente con el archivo en Drive."
+    "why": "La copia local no se actualiza automáticamente con el archivo en Drive.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-056",
@@ -2296,7 +2625,9 @@
       "Abre o extrae el ZIP con la herramienta aprobada del equipo.",
       "Comprueba los archivos incluidos antes de abrirlos."
     ],
-    "why": "Drive puede agrupar varios archivos en una sola descarga."
+    "why": "Drive puede agrupar varios archivos en una sola descarga.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-057",
@@ -2310,7 +2641,9 @@
       "Revisa la conexión aprobada y el mensaje de error.",
       "Si la carga no termina, pide ayuda antes de intentarlo muchas veces."
     ],
-    "why": "Una interrupción puede dejar la carga incompleta."
+    "why": "Una interrupción puede dejar la carga incompleta.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-058",
@@ -2324,7 +2657,9 @@
       "Si ya tienes una copia disponible sin conexión, abre esa copia.",
       "Si no, espera la conexión o pide ayuda al maestro."
     ],
-    "why": "No todos los archivos están disponibles sin conexión."
+    "why": "No todos los archivos están disponibles sin conexión.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-059",
@@ -2338,7 +2673,9 @@
       "Comprueba el indicador de guardado y la conexión escolar.",
       "Si hay un aviso de error, conserva tu trabajo y pide ayuda antes de cerrar."
     ],
-    "why": "La sincronización puede tardar cuando falla la red."
+    "why": "La sincronización puede tardar cuando falla la red.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-060",
@@ -2352,7 +2689,9 @@
       "Abre el enlace con tu cuenta escolar asignada.",
       "Si el acceso falla, pide ayuda sin usar credenciales de otra persona."
     ],
-    "why": "Los permisos dependen de la cuenta que abre el enlace."
+    "why": "Los permisos dependen de la cuenta que abre el enlace.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-061",
@@ -2366,7 +2705,9 @@
       "Si aparece Solicitar acceso y el maestro lo permite, úsalo.",
       "Si no se resuelve, pide al maestro que revise el enlace."
     ],
-    "why": "Solo el propietario o personal autorizado puede conceder acceso."
+    "why": "Solo el propietario o personal autorizado puede conceder acceso.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-062",
@@ -2380,7 +2721,9 @@
       "Usa solo las acciones disponibles: ver, comentar o editar.",
       "Si necesitas otra función, pide permiso al maestro."
     ],
-    "why": "Cada rol limita las acciones sobre un archivo."
+    "why": "Cada rol limita las acciones sobre un archivo.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-063",
@@ -2394,7 +2737,9 @@
       "Anota el aviso de almacenamiento.",
       "Pide ayuda al maestro sin borrar archivos desconocidos."
     ],
-    "why": "La cuota puede impedir cargas nuevas."
+    "why": "La cuota puede impedir cargas nuevas.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-064",
@@ -2408,7 +2753,9 @@
       "Usa únicamente los permisos concedidos.",
       "Si necesitas una copia o cambios, pregunta al maestro."
     ],
-    "why": "El propietario controla el acceso y otras opciones del archivo."
+    "why": "El propietario controla el acceso y otras opciones del archivo.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-065",
@@ -2422,7 +2769,9 @@
       "Abre Detalles o revisa la columna de tamaño si aparece.",
       "Compara el dato con el límite que indicó el maestro."
     ],
-    "why": "Los formatos nativos de Google pueden mostrarse de forma distinta a archivos subidos."
+    "why": "Los formatos nativos de Google pueden mostrarse de forma distinta a archivos subidos.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-066",
@@ -2436,7 +2785,9 @@
       "Si está permitido, descarga tu PDF y ábrelo en el visor aprobado.",
       "Si continúa en blanco, avisa al maestro."
     ],
-    "why": "Una vista previa puede fallar aunque el original esté bien."
+    "why": "Una vista previa puede fallar aunque el original esté bien.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   },
   {
     "id": "dr04-067",
@@ -2450,6 +2801,8 @@
       "Pide al maestro acceso al archivo original.",
       "No cambies permisos ni uses otra cuenta para evitar la restricción."
     ],
-    "why": "El acceso directo no concede acceso al archivo original."
+    "why": "El acceso directo no concede acceso al archivo original.",
+    "reviewed": "legacy",
+    "flow": "legacy"
   }
 ]

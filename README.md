@@ -1,7 +1,16 @@
-# TechGuide v1.0 — Student Help Desk
+# TechGuide v1.8 — Visual walkthroughs
 
-A standalone school technology reference app. Open `index.html` in Chrome; it embeds 902 English and 175 Spanish guides plus all visual references. No external AI, accounts or persistent chat history. Spanish is partial. Accessibility and language preferences are saved locally if permitted.
+Upload all eight files directly into the existing `techguide` GitHub Pages repository root. No PlayForge update or Teacher Workshop needed.
 
-For hosted use, publish the contents of this folder at the repository root. Keep `index.html`, `sw.js`, `manifest.json` and `icon.svg` together. The JSON reference banks are not runtime dependencies. Never publish the private Teacher Workshop or backups. A separately exported teacher-customized index can replace the default index.
+## What's new
+- 61 original simplified interface diagrams used in 222 steps across 75 English guides. The diagrams highlight controls and describe the expected result. They are not screenshots of the actual school software; labels and layouts may vary.
+- Classroom submission walkthroughs show the class tile, Classwork, assignment details, Your work, attaching files, Turn in and submission status. An optional jump skips navigation when the student already has the assignment open.
+- Width-aware layout displays the current instruction and its illustration together on wide screens; narrower devices use a single column with navigation controls above the diagram. The instruction stays at the top instead of automatically scrolling away.
+- Targeted recognition for student phrasing relating to submissions, layers, text outlines, exports, screenshots, downloads and sound. Ambiguous device/app questions offer a choice. The existing refusal rules run before the targeted recognition.
+- All 902 English and 175 Spanish guides preserved verbatim. The new step-specific diagrams are English-only; existing Spanish walkthroughs and visual studio remain available. The previous 165 shortcut entries and accessibility functions remain in place.
+- Offline cache version updated to v1.8.
 
-Use **Offline check** to confirm cache readiness or download the standalone HTML. Hosted offline operation and actual school-device compatibility must be validated before broad rollout. This release is ready for a teacher-led pilot, not a fully audited IT support product.
+## Verification and limitations
+- Checked all guide IDs, nonempty steps, alternative references, embedded English JSON and visual mappings. Database files match v1.7 byte for byte.
+- Chromium content-loaded tests exercised Classroom navigation, missing layers clarification, Illustrator PNG export, screenshot routing, refusals, Spanish guide selection, Visual Studio and mobile width. Direct file navigation was blocked by the test browser's administrator policy; hosted service-worker caching and actual school account/software compatibility are not verified. No external AI or new online assets.
+- Diagrams are simplified instructional examples, not live screenshots. This is a classroom pilot, not a certification of each of the 1,077 language-specific guides. Spanish translation coverage is still partial.

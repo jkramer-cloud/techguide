@@ -86,3 +86,24 @@ v0.8 Spanish and accessibility; v0.9 teacher customization; v1.0 final verificat
 - Spanish and English restricted requests and urgent hardware issues receive fixed refusal or teacher referral responses. No new administrator procedures, generators, external services, or student accounts.
 - Test status: Chromium desktop and 390px mobile viewport, browser language toggles, Spanish search and sample guided answers, restricted/homework and danger responses, Visual Studio navigation and all eight demo cards, accessibility controls, and missing-local-voice behavior. Test environment blocks file navigation, so HTML was loaded directly into the browser; hosted service worker caching and actual school device speech/compatibility remain pending. Translation terminology should receive bilingual staff review before deployment.
 - Do not publish to GitHub or PlayForge until at least v1.0. Next: teacher customization, classroom help content and review workflow.
+
+## v1.2
+Rewrote Classroom (43) and Drive & files (51) English guides; updated 10 Spanish guides. Existing guide IDs retained.
+
+## v1.3
+Rewrote all 131 Chromebook English guides and all 21 existing Chromebook Spanish guides. Added contextual alternatives to 16 English guides. No new guide IDs. Teacher Workshop discontinued.
+
+## v1.4
+Rewrote 146 English Windows and peripheral guides, 18 Spanish guides; 18 English topics with contextual links. Previous topics unchanged.
+
+## v1.5
+Revised 168 Photoshop guides and 17 Spanish counterparts. 15 English alternate-path groups. Earlier guides preserved.
+
+## v1.6
+Revised all 200 Illustrator English guides and 18 existing Spanish counterparts. Added contextual alternatives to 16 English guides. Earlier guides preserved.
+
+## v1.7
+Rewrote remaining 163 English guides (154 Google applications, 7 browser/safety, 2 PlayForge) and their 20 existing Spanish counterparts. All 902 English guide IDs retained, all earlier content unchanged. Added 26 English alternate-path groups.
+
+## v1.8 — Visual walkthroughs
+Preserved all 902 English and 175 Spanish guide records. Added 61 referenced step-specific original visual examples covering 222 steps in 75 English guides. Improved targeted student phrasing and navigation. No Teacher Workshop. See README for verification limits.
