@@ -1,4 +1,4 @@
-const CACHE='techguide-v1.8:'+self.registration.scope;
+const CACHE='techguide-v1.9:'+self.registration.scope;
 const entry=new URL('index.html',self.registration.scope).href;
 const assets=['index.html','manifest.json','icon.svg'].map(x=>new URL(x,self.registration.scope).href);
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(assets.map(x=>new Request(x,{cache:'reload'})))).then(()=>self.skipWaiting())));
