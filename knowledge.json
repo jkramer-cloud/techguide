@@ -840,7 +840,16 @@
       "where do i submit my work",
       "how do i hand in my assignment",
       "where is your work",
-      "how do i turn it in"
+      "how do i turn it in",
+      "how do i give my work to teacher",
+      "give this assignment to my teacher",
+      "i finished but cant give it to teacher",
+      "send project to my teacher",
+      "i finished my project how do i turn it in",
+      "how to hand in my project",
+      "submit my photoshop project",
+      "submit illustrator project",
+      "the turn in button is missing"
     ],
     "steps": [
       "In Chrome, open your school Google Classroom page. Click the tile with your class name.",
@@ -885,7 +894,14 @@
       "add work classroom",
       "where is add or create",
       "how do i attach my file",
-      "where do i upload my homework"
+      "where do i upload my homework",
+      "file attached but not showing",
+      "my upload does not appear in classroom",
+      "i uploaded file but it disappeared",
+      "classroom attachment missing",
+      "my file not in your work",
+      "uploaded file not showing in classroom",
+      "how do i put my picture on the assignment"
     ],
     "steps": [
       "In Chrome, open your school Google Classroom page. Click the tile with your class name.",
@@ -1008,7 +1024,11 @@
     "aliases": [
       "cant find assignment",
       "where is homework",
-      "classroom classwork"
+      "classroom classwork",
+      "my assignment isnt there",
+      "assignment disappeared from classroom",
+      "teacher assignment missing",
+      "where is classwork assignment"
     ],
     "steps": [
       "Open Classroom and click the class tile matching your schedule.",
@@ -1679,7 +1699,10 @@
     "aliases": [
       "forgot password",
       "cant log in school",
-      "school login problem"
+      "school login problem",
+      "i cant login to google school account",
+      "cant sign in to my school google account",
+      "school google password not working"
     ],
     "steps": [
       "Check that the sign-in page is the one your teacher provided and the displayed school username is yours.",
@@ -1704,12 +1727,17 @@
       "layers missing",
       "cant find layers",
       "wheres my layers",
-      "layers panel disappeared"
+      "layers panel disappeared",
+      "photoshop layers disappeared",
+      "photoshop right side is gone",
+      "where are the layers in photoshop",
+      "photoshop layer panel vanished"
     ],
     "steps": [
-      "At the very top of Photoshop, click Window (near Help).",
-      "In the menu, click Layers. Look at the right side for a list of image thumbnails and names.",
-      "If every panel is missing, press Tab once outside text editing; if Layers still does not appear, ask your teacher."
+      "At the very top of Photoshop, click Window, then Layers. Look on the right side for the layer thumbnail list.",
+      "If Layers is already checked but hidden, check the small panel icons along the right edge. Click Layers to expand it.",
+      "If most Photoshop panels disappeared, click Window > Workspace > Essentials (Default) and then Window > Workspace > Reset Essentials (some versions show Reset > Essentials (Default)).",
+      "If everything is still hidden, finish editing any text and press Tab once. Ask your teacher if Layers does not return."
     ],
     "why": "Panels can be closed without deleting the document's layers.",
     "group": "Workspace & navigation",
@@ -1861,7 +1889,10 @@
       "photoshop title stroke",
       "outline letters photoshop",
       "outline my title",
-      "how to put an outline on text"
+      "how to put an outline on text",
+      "make text have a colored edge photoshop",
+      "colored border around words photoshop",
+      "text outline missing photoshop"
     ],
     "steps": [
       "Open Window > Layers and click the row with the T thumbnail for your title.",
@@ -1988,7 +2019,11 @@
     "aliases": [
       "photoshop mask white black",
       "photoshop layer mask",
-      "mask hides too much"
+      "mask hides too much",
+      "japan flag layer mask",
+      "japanese flag mask button",
+      "layer mask white rectangle black circle",
+      "how to use the japan flag in photoshop"
     ],
     "steps": [
       "Open Window > Layers. Select your picture layer and click the rectangle-with-circle icon at the bottom to add a mask if it has none.",
@@ -2016,7 +2051,12 @@
     "aliases": [
       "photoshop change color outfit",
       "photoshop hue saturation",
-      "photoshop recolor selection"
+      "photoshop recolor selection",
+      "half circle color change photoshop",
+      "change shirt color photoshop",
+      "change clothes color in photoshop",
+      "change outfit color photoshop",
+      "change only part color photoshop"
     ],
     "steps": [
       "Select the clothing or object with Quick Selection (hold the selection-tool icon on the left to find it). Avoid selecting skin or the background.",
@@ -2046,14 +2086,27 @@
       "illustrator layers panel missing",
       "illustrator missing tools",
       "illustrator layers",
-      "where are my illustrator layers"
+      "where are my illustrator layers",
+      "illustrator toolbar disappeared",
+      "illustrator tools disappeared",
+      "illustrator left side missing",
+      "illustrator icons gone",
+      "reset essentials illustrator",
+      "illustrator workspace reset",
+      "illustrator tools not showing",
+      "where is illustrator toolbar",
+      "illustrator sidebar vanished",
+      "illustrator toolbar gone",
+      "the illustrator toolbar disappeared",
+      "tools on the left illustrator are gone"
     ],
     "steps": [
-      "Look at the menu bar across the top; click Window.",
-      "Click the name of the missing panel, such as Layers or Properties. A check mark means it is already open; look along the right edge for its collapsed icon.",
-      "If the left toolbar is missing, choose Window > Toolbars > Advanced. If most of the screen is empty, press Esc then Tab once."
+      "At the top of Illustrator, click Window > Workspace and choose Essentials (or the default Essentials workspace) if it is not already selected.",
+      "Open Window > Workspace again and choose Reset Essentials (or Reset followed by the workspace name, depending on version). This restores the usual layout.",
+      "Look for the toolbar on the left. If it is still missing, choose Window > Toolbars > Advanced. If only Layers or Properties is missing, open that panel from Window.",
+      "If all panels are hidden, click the artboard outside any text field and press Tab once. Ask your teacher if the tools still do not return."
     ],
-    "why": "Panels and toolbars can be hidden without removing your artwork.",
+    "why": "Illustrator workspaces arrange tools and panels. Reset Essentials restores the standard layout without deleting your artwork, but may change a custom panel arrangement.",
     "group": "Workspace & navigation",
     "flow": "walkthrough",
     "alternatives": [
@@ -2856,7 +2909,10 @@
     "title": "Chromebook letters typed are wrong",
     "aliases": [
       "keyboard wrong symbols",
-      "keys typing other letters"
+      "keys typing other letters",
+      "typing wrong letters chromebook",
+      "my letters are wrong",
+      "keyboard typing different letters on chromebook"
     ],
     "steps": [
       "Click in your own document and type a few letters without holding Shift or Alt.",
@@ -3836,7 +3892,11 @@
     "title": "Chromebook screenshot not found",
     "aliases": [
       "missing screenshot",
-      "where screenshot saved"
+      "where screenshot saved",
+      "i took a screenshot where did it go",
+      "i cant find my screenshot",
+      "where is the screenshot i just took",
+      "screenshot not showing in downloads"
     ],
     "steps": [
       "Look near the bottom-right corner for the capture notification and click its preview if present.",
@@ -4724,7 +4784,9 @@
     "title": "Keyboard letters in wrong places",
     "aliases": [
       "keyboard wrong layout",
-      "keyboard typing wrong letters"
+      "keyboard typing wrong letters",
+      "my keyboard types the wrong letters windows",
+      "keyboard letters wrong windows"
     ],
     "steps": [
       "Click in a blank practice document and tap A, Q and one other letter, comparing the output with the labels.",
@@ -11000,14 +11062,28 @@
     "title": "Toolbar missing",
     "aliases": [
       "tools disappeared",
-      "left toolbar gone"
+      "left toolbar gone",
+      "photoshop toolbar disappeared",
+      "photoshop toolbar gone",
+      "photoshop tools missing",
+      "photoshop left side missing",
+      "my tools are gone photoshop",
+      "photoshop icons disappeared",
+      "reset essentials photoshop",
+      "photoshop workspace reset",
+      "photoshop brush tool missing",
+      "left side photoshop disappeared",
+      "photoshop toolbar not showing",
+      "photoshop tools on left missing",
+      "where is photoshop toolbar"
     ],
     "steps": [
-      "Click Window > Tools in the top menu.",
-      "Look for the vertical strip of tool icons on the left. A tiny triangle on a tool means more tools are hidden there.",
-      "If the menu is checked but all panels are missing, press Tab once outside text editing."
+      "At the very top of Photoshop, click Window > Workspace. If Essentials is not selected, choose Essentials (sometimes called Essentials (Default)).",
+      "Open Window > Workspace again and choose Reset Essentials. Some versions show Reset > Essentials (Default). This restores the usual tool and panel layout.",
+      "Look down the left side for the tall toolbar with the Move, Brush and other tools. If it is still hidden, choose Window > Tools.",
+      "If the entire interface is hidden, finish typing in any text box and press Tab once. If the toolbar is still missing, ask your teacher."
     ],
-    "why": "Tools can be hidden without being removed from Photoshop.",
+    "why": "Reset Essentials restores the normal Photoshop panel layout without deleting artwork. It can change custom panel arrangements.",
     "group": "Workspace & navigation",
     "flow": "walkthrough"
   },
@@ -11017,14 +11093,20 @@
     "title": "All panels disappeared",
     "aliases": [
       "everything vanished tab",
-      "all photoshop panels hidden"
+      "all photoshop panels hidden",
+      "photoshop everything on the sides disappeared",
+      "photoshop panels all gone",
+      "photoshop workspace disappeared",
+      "photoshop reset workspace",
+      "lost all photoshop panels"
     ],
     "steps": [
-      "Finish any active text edit using the checkmark at the top.",
-      "Press Tab once. The left toolbar and right panels should return.",
-      "If just one panel remains missing, click Window and select its name, such as Layers or Properties."
+      "Finish typing or any active text edit, then press Tab once. Tab can hide or show the toolbar and other panels.",
+      "If the panels remain missing, click Window > Workspace > Essentials (Default), then Window > Workspace > Reset Essentials (or Reset > Essentials (Default) in some versions).",
+      "Check that the toolbar returns on the left and Layers and Properties appear on the right. To restore only one missing panel, open Window and click that panel name.",
+      "If the screen still looks wrong, show the problem to your teacher without changing any computer settings."
     ],
-    "why": "Tab toggles panel visibility.",
+    "why": "Adobe workspaces control where Photoshop tools and panels appear. Resetting a workspace does not delete the open project.",
     "group": "Workspace & navigation",
     "flow": "walkthrough"
   },
@@ -11410,7 +11492,9 @@
     "aliases": [
       "lock icon",
       "cant edit locked layer",
-      "layer has a lock"
+      "layer has a lock",
+      "photoshop layer is locked",
+      "photoshop cant paint because locked"
     ],
     "steps": [
       "Open Window > Layers and look for the padlock at the right of the selected row.",
@@ -13752,7 +13836,10 @@
     "title": "Missing Pathfinder panel",
     "aliases": [
       "pathfinder gone",
-      "where is pathfinder"
+      "where is pathfinder",
+      "what is the pathfinder tool",
+      "where to find pathfinder illustrator",
+      "how to open pathfinder illustrator"
     ],
     "steps": [
       "Click Window > Pathfinder.",
@@ -13854,12 +13941,17 @@
     "title": "All panels vanished",
     "aliases": [
       "all panels hidden",
-      "side tools disappeared"
+      "side tools disappeared",
+      "illustrator all tools gone",
+      "illustrator everything disappeared",
+      "illustrator panel layout broken",
+      "illustrator workspace reset panels"
     ],
     "steps": [
-      "Press Esc to leave any text field or active path.",
-      "Press Tab once. The toolbar and side panels should return.",
-      "If one panel remains missing, click Window and select its name."
+      "Press Esc to leave a text field or path, then press Tab once to show panels hidden by the Tab shortcut.",
+      "If they stay hidden, choose Window > Workspace > Essentials, then open Window > Workspace again and choose Reset Essentials (or the reset option for the selected workspace).",
+      "Look for the toolbar on the left and panels on the right. If one panel is still missing, use Window to open that panel.",
+      "If the workspace still looks different, ask your teacher. Do not reset the computer or the artwork."
     ],
     "why": "Tab temporarily hides or shows many panels.",
     "group": "Workspace & navigation",
@@ -13871,12 +13963,14 @@
     "title": "Only side panels vanished",
     "aliases": [
       "right panels gone",
-      "sidebar disappeared"
+      "sidebar disappeared",
+      "illustrator right side panel missing",
+      "illustrator settings sidebar disappeared"
     ],
     "steps": [
-      "Press Esc so no text field is active.",
-      "Press Shift+Tab once. Look along the right edge for the panels.",
-      "Click Window > Layers or Properties to restore any panel still missing."
+      "Press Esc so no text field is active, then press Shift+Tab once. The right-side panels may reappear.",
+      "If Layers or Properties is missing, open it from the Window menu.",
+      "If many panels remain missing, use Window > Workspace > Essentials, then Window > Workspace > Reset Essentials (or the reset option for your selected workspace)."
     ],
     "why": "Shift + Tab toggles panels other than the toolbar and control panel.",
     "group": "Workspace & navigation",
@@ -16008,7 +16102,10 @@
     "title": "Outline a title with a stroke",
     "aliases": [
       "illustrator title outline",
-      "stroke around letters"
+      "stroke around letters",
+      "make text have a colored edge illustrator",
+      "colored border letters illustrator",
+      "outline text with color illustrator"
     ],
     "steps": [
       "Select the live title with V and open Window > Appearance. Click the panel menu > Add New Stroke.",
@@ -16189,7 +16286,10 @@
     "title": "Smart Guides missing",
     "aliases": [
       "smart guides not showing",
-      "pink guide lines gone"
+      "pink guide lines gone",
+      "pink alignment lines illustrator",
+      "pink guides illustrator",
+      "purple lines when moving shapes illustrator"
     ],
     "steps": [
       "Click View > Smart Guides to enable it if no check mark appears (Ctrl+U).",

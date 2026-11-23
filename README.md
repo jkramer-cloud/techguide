@@ -1,25 +1,21 @@
-# TechGuide v1.9 — Google Apps quick filters
+# TechGuide v2.0 — Student Question Recognition & Adobe Workspace Recovery
 
-Upload **all eight release files** into the existing `techguide` GitHub Pages repository root, replacing files with matching names. This is a cumulative v1.9 update built on v1.8; no PlayForge website changes are necessary.
+This cumulative update builds directly on v1.9 and keeps **all 902 original English guides**, Google Apps quick filters, classroom walkthroughs, 61 original illustrations, Adobe Visual Studio, keyboard shortcuts, accessibility settings and offline operation.
 
 ## What's new
-- Clicking **Google apps** in Explore Help now shows large, accessible quick-filter buttons for All Google Apps, Classroom, Drive, Docs, Slides, Sheets, Forms, and Other questions (including Meet and Drawings).
-- The buttons filter existing student help guides directly in the center workspace; there are no external Google website redirects. Classroom and Drive entries remain in their original main help categories too.
-- The app picker and search work together. Changing the app clears an old search to avoid misleading zero-result screens. The selected app remains active when returning from an individual guide.
-- Spanish button labels and guide-availability counts are supported. Mobile screens use a compact two-column layout. All existing help categories, guides, Adobe Visual Studio, safety rules, and accessibility controls remain.
-- Offline service-worker cache bumped to **v1.9** to avoid stale site code.
+- Adobe toolbar recovery: Photoshop **Window > Workspace > Essentials > Reset Essentials**; Illustrator **Window > Workspace > Essentials > Reset Essentials**, with alternative names noted for version differences. Includes fallback Window > Tools / Toolbars > Advanced and the Tab shortcut.
+- Adds natural-language aliases for missing toolbars, missing layers, Classroom hand-in and attachment questions, forgotten screenshots, and classroom vocabulary (including the taught Photoshop “Japan flag” layer-mask and “half circle” adjustment shortcuts).
+- New prioritized, app-aware question routes for missing Adobe tools, missing Classroom assignments, lost attachments, screenshot files, sound, cursor movement, text outlines, keyboard lettering, and other student descriptions. When app/device is uncertain, the app offers choices rather than jumping to the wrong guide.
+- Preserves existing homework/refusal and device-safety checks *before* new matching.
+- English guides remain **902**; Spanish guides increase from **175 to 178**, translating the Photoshop toolbar, Photoshop panels and Illustrator panels recovery guides. Existing Spanish guide content is retained except two updated Adobe recovery walkthroughs.
+- Service worker cache updated to **v2.0**; existing student preferences and classroom settings remain compatible.
 
-## Version 1.8 features preserved
+## Install
+Upload all eight files in this ZIP into the existing `techguide` GitHub repository root, replacing the files with matching names. Do not delete your project or change the PlayForge landing page. When using GitHub Pages, reload once online to obtain the new offline cache. The `knowledge.json` and `knowledge-es.json` files are teacher review copies; editing them without rebuilding `index.html` does **not** update the embedded app.
 
-- 61 original simplified interface diagrams used in 222 steps across 75 English guides. The diagrams highlight controls and describe the expected result. They are not screenshots of the actual school software; labels and layouts may vary.
-- Classroom submission walkthroughs show the class tile, Classwork, assignment details, Your work, attaching files, Turn in and submission status. An optional jump skips navigation when the student already has the assignment open.
-- Width-aware layout displays the current instruction and its illustration together on wide screens; narrower devices use a single column with navigation controls above the diagram. The instruction stays at the top instead of automatically scrolling away.
-- Targeted recognition for student phrasing relating to submissions, layers, text outlines, exports, screenshots, downloads and sound. Ambiguous device/app questions offer a choice. The existing refusal rules run before the targeted recognition.
-- All 902 English and 175 Spanish guides preserved verbatim. The new step-specific diagrams are English-only; existing Spanish walkthroughs and visual studio remain available. The previous 165 shortcut entries and accessibility functions remain in place.
-- Previous v1.8 offline cache supported.
-
-
-## Verification and limitations
-- Confirmed all embedded guides, knowledge data files and built-in diagrams from v1.8 are preserved. Button filters are navigational only; they do not certify Google UI layouts.
-- Test using the hosted GitHub Pages site after uploading all eight files. Actual school sign-in and web app compatibility are not simulated; screenshots and diagrams remain simplified examples.
-- The app retains the existing v1.8 classroom-pilot and Spanish-translation coverage limitations.
+## Scope and verification
+- Matching is fixed-guide retrieval, **not generative AI** and not a web search.
+- Adobe menu labels can vary by version; the reset affects workspace layout, not saved artwork. It can replace a student's custom panel arrangement.
+- No student accounts, AI service, chat history logging or new network calls were added.
+- Automated recognition and browser smoke tests were performed for this development ZIP. Run a short pilot on actual school Chromebooks and Adobe-equipped Windows devices before a wider rollout.
+- Reference: https://helpx.adobe.com/photoshop/desktop/troubleshoot/tool-feature-issues/missing-tools.html and https://helpx.adobe.com/illustrator/using/customizing-workspace.html

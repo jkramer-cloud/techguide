@@ -986,12 +986,15 @@
     "aliases": [
       "no veo capas",
       "capas perdidas",
-      "panel layers"
+      "panel layers",
+      "desaparecieron mis capas de photoshop",
+      "no veo capas de photoshop"
     ],
     "steps": [
-      "En la barra superior de Photoshop, abre Window (Ventana).",
-      "Elige Layers (Capas). Busca a la derecha la lista de miniaturas y nombres.",
-      "Si faltan todos los paneles, pulsa Tab fuera de un cuadro de texto. Pide ayuda si no aparecen."
+      "En Photoshop, abre Ventana > Capas (Window > Layers). Mira a la derecha para ver la lista de capas.",
+      "Si la opción ya está marcada, busca el icono de Capas en los paneles pequeños del lado derecho.",
+      "Si desaparecieron muchos paneles, abre Window > Workspace > Essentials y después Window > Workspace > Reset Essentials (o el equivalente en tu versión).",
+      "Si siguen ocultos, termina de editar el texto y pulsa Tab una vez. Pide ayuda al maestro si aún faltan."
     ],
     "why": "Cerrar un panel no borra las capas.",
     "flow": "walkthrough",
@@ -1202,12 +1205,17 @@
     "title": "Herramientas o paneles de Illustrator desaparecieron",
     "aliases": [
       "no veo herramientas illustrator",
-      "panel perdido illustrator"
+      "panel perdido illustrator",
+      "desaparecio la barra de herramientas de illustrator",
+      "no veo las herramientas de illustrator",
+      "restablecer esenciales illustrator",
+      "no aparece la barra izquierda illustrator"
     ],
     "steps": [
-      "Abre Window (Ventana) en la barra superior y selecciona el panel que falta, por ejemplo Layers (Capas).",
-      "Si hay una marca junto al nombre, busca el icono del panel contra el borde derecho.",
-      "Si falta la barra de herramientas, usa Window > Toolbars > Advanced. Si faltan todos los paneles, pulsa Esc y luego Tab una vez."
+      "En Illustrator, abre Ventana > Espacio de trabajo (Window > Workspace) y selecciona Esenciales (Essentials).",
+      "Abre de nuevo Ventana > Espacio de trabajo y elige Restablecer Esenciales (Reset Essentials), o la opción de restablecer el espacio activo.",
+      "Comprueba si volvió la barra de herramientas a la izquierda. Si falta, prueba Ventana > Barras de herramientas > Avanzada (Window > Toolbars > Advanced).",
+      "Si siguen ocultos todos los paneles, haz clic fuera del texto y pulsa Tab una vez. Si no funciona, consulta al maestro."
     ],
     "why": "Ocultar paneles no elimina el dibujo.",
     "flow": "walkthrough"
@@ -2804,5 +2812,57 @@
     "why": "El acceso directo no concede acceso al archivo original.",
     "reviewed": "legacy",
     "flow": "legacy"
+  },
+  {
+    "id": "ps05-002",
+    "title": "La barra de herramientas de Photoshop desapareció",
+    "aliases": [
+      "herramientas de photoshop desaparecieron",
+      "no veo barra de herramientas photoshop",
+      "sin herramientas en photoshop",
+      "se fueron los iconos de photoshop",
+      "restablecer esenciales photoshop"
+    ],
+    "steps": [
+      "En la parte superior de Photoshop, abre Ventana > Espacio de trabajo (Window > Workspace). Selecciona Esenciales (Essentials) si no está seleccionado.",
+      "Abre Window > Workspace de nuevo y elige Reset Essentials. Algunas versiones muestran Reset > Essentials (Default). Esto restaura la distribución de paneles.",
+      "Busca la columna de herramientas a la izquierda. Si todavía falta, abre Window > Tools (Ventana > Herramientas).",
+      "Si toda la interfaz está oculta, termina de escribir y pulsa Tab una vez. Si no vuelve, consulta al maestro."
+    ],
+    "why": "Restablecer Esenciales cambia la distribución de los paneles, pero no borra tu trabajo.",
+    "flow": "walkthrough"
+  },
+  {
+    "id": "ps05-003",
+    "title": "Desaparecieron todos los paneles de Photoshop",
+    "aliases": [
+      "no veo paneles photoshop",
+      "todo se fue photoshop",
+      "las ventanas desaparecieron photoshop"
+    ],
+    "steps": [
+      "Termina cualquier edición de texto y pulsa Tab una vez. Esta tecla puede ocultar o mostrar los paneles.",
+      "Si no regresan, elige Window > Workspace > Essentials y luego Window > Workspace > Reset Essentials (o el equivalente en tu versión).",
+      "Comprueba la barra a la izquierda y Capas y Propiedades a la derecha. Para recuperar un solo panel, selecciónalo en Window.",
+      "Pide ayuda al maestro si todavía no ves los paneles."
+    ],
+    "why": "La distribución de los paneles se puede restablecer sin borrar el documento.",
+    "flow": "walkthrough"
+  },
+  {
+    "id": "ai06-009",
+    "title": "Desaparecieron todos los paneles de Illustrator",
+    "aliases": [
+      "todos los paneles illustrator ocultos",
+      "desaparecieron los paneles illustrator"
+    ],
+    "steps": [
+      "Pulsa Esc para salir del cuadro de texto y después Tab una vez.",
+      "Si siguen ocultos, abre Window > Workspace > Essentials y después Window > Workspace > Reset Essentials, o la opción para restablecer el espacio seleccionado.",
+      "Comprueba que estén la barra de herramientas y los paneles. Para un panel individual, usa Window.",
+      "Si no regresan, pide ayuda al maestro."
+    ],
+    "why": "Restablecer el espacio de trabajo recupera el diseño habitual sin borrar el dibujo.",
+    "flow": "walkthrough"
   }
 ]

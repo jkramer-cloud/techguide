@@ -1,3 +1,9 @@
+# TechGuide v2.0 — Student Question Recognition and Adobe Workspace Recovery
+
+Cumulative v1.9 preservation release. Added natural-language student symptom routing and Adobe Window > Workspace > Reset Essentials recovery instructions for Photoshop and Illustrator. Preserved 902 English guides, all Google app filters, and prior illustrations. Added three translated Spanish recovery guides, bringing Spanish guide count to 178. Regression review: 58 sample question prompts matched expected primary guides; 258 sampled legacy title/alias searches retained their top-five matching, with no drops. Desktop and mobile simulated Chromium smoke checks passed. Actual school Adobe/Chromebook verification and broader student pilots remain necessary. No external AI or student chat storage was added.
+
+---
+
 # TechGuide v0.7 — Visual Studio
 
 Cumulative offline-first classroom technology help desk for PlayForge. Development release only; no repository or public deployment until at least v1.0 and school review.
